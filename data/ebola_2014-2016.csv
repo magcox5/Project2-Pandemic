@@ -1,0 +1,29 @@
+Country,year,No_of_confirmed_cases,No_of_confirmed_deaths
+Guinea,2014,56295.0,31014.0
+Guinea,2015,689976.0,428114.0
+Guinea,2016,3351.0,2083.0
+Italy,2015,140.0,0.0
+Italy,2016,1.0,0.0
+Liberia,2014,72254.0,11385.0
+Liberia,2015,693322.0,15548.0
+Liberia,2016,3162.0,4.0
+Mali,2014,111.0,21.0
+Mali,2015,1540.0,0.0
+Mali,2016,7.0,0.0
+Nigeria,2014,717.0,265.0
+Nigeria,2015,4104.0,1512.0
+Nigeria,2016,19.0,7.0
+Senegal,2014,37.0,0.0
+Senegal,2015,216.0,0.0
+Senegal,2016,1.0,0.0
+Sierra Leone,2014,156787.0,41981.0
+Sierra Leone,2015,1876380.0,752414.0
+Sierra Leone,2016,8704.0,3589.0
+Spain,2014,26.0,0.0
+Spain,2015,216.0,0.0
+Spain,2016,1.0,0.0
+United Kingdom,2015,220.0,0.0
+United Kingdom,2016,1.0,0.0
+United States of America,2014,99.0,25.0
+United States of America,2015,864.0,216.0
+United States of America,2016,4.0,1.0
