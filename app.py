@@ -2,7 +2,6 @@ from flask import Flask, jsonify
 import pandas as pd
 
 
-# 
 
 
 #################################################
@@ -14,6 +13,10 @@ app = Flask(__name__)
 #################################################
 # Flask Routes
 #################################################
+### Use Python to get data in sql lite database
+### Read in from sql lite database 
+### Load them into javascript 
+### Query Pandemic grab it out of the database  
 
 @app.route("/api/v1.0/pandemic/swine")
 def swineFlu():
