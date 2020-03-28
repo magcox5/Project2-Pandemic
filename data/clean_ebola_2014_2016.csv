@@ -1,0 +1,2486 @@
+Country,Date,cases,deaths,id
+Guinea,8/29/2014,1296,860,ebola
+Guinea,9/5/2014,1624,1031,ebola
+Guinea,9/8/2014,1724,1106,ebola
+Guinea,9/12/2014,1722,1110,ebola
+Guinea,9/16/2014,1872,1186,ebola
+Guinea,9/18/2014,1884,1197,ebola
+Guinea,9/22/2014,2016,1259,ebola
+Guinea,9/24/2014,2044,1265,ebola
+Guinea,9/26/2014,2148,1291,ebola
+Guinea,10/1/2014,2314,1415,ebola
+Guinea,10/3/2014,2398,1478,ebola
+Guinea,10/8/2014,2596,1534,ebola
+Guinea,10/10/2014,2700,1556,ebola
+Guinea,10/15/2014,2944,1686,ebola
+Guinea,10/17/2014,3038,1724,ebola
+Guinea,10/22/2014,3080,1807,ebola
+Guinea,10/25/2014,3106,1852,ebola
+Guinea,10/29/2014,3812,997,ebola
+Guinea,10/31/2014,3334,1018,ebola
+Guinea,11/5/2014,3462,2082,ebola
+Guinea,11/7/2014,3520,2108,ebola
+Guinea,11/12/2014,3756,2284,ebola
+Guinea,11/14/2014,3838,2332,ebola
+Guinea,11/19/2014,3942,2384,ebola
+Guinea,11/21/2014,4094,2428,ebola
+Guinea,11/26/2014,4268,2520,ebola
+Guinea,12/1/2014,4310,2624,ebola
+Guinea,12/3/2014,4328,2654,ebola
+Guinea,12/10/2014,4584,2856,ebola
+Guinea,12/15/2014,4788,3036,ebola
+Guinea,12/17/2014,4832,3050,ebola
+Guinea,12/22/2014,5142,3172,ebola
+Guinea,12/23/2014,5194,3214,ebola
+Guinea,12/24/2014,5194,3214,ebola
+Guinea,12/26/2014,5260,3308,ebola
+Guinea,12/29/2014,5390,3394,ebola
+Guinea,12/30/2014,5412,3416,ebola
+Guinea,12/31/2014,5414,3418,ebola
+Guinea,1/2/2015,5460,3478,ebola
+Guinea,1/5/2015,5540,3535,ebola
+Guinea,1/6/2015,5550,3562,ebola
+Guinea,1/7/2015,5550,3562,ebola
+Guinea,1/8/2015,5552,3572,ebola
+Guinea,1/9/2015,5586,3594,ebola
+Guinea,1/12/2015,5598,3614,ebola
+Guinea,1/13/2015,5598,3614,ebola
+Guinea,1/14/2015,5612,3628,ebola
+Guinea,1/15/2015,5634,3642,ebola
+Guinea,1/16/2015,5650,3658,ebola
+Guinea,1/19/2015,5746,3750,ebola
+Guinea,1/20/2015,5742,3752,ebola
+Guinea,1/21/2015,5742,3752,ebola
+Guinea,1/22/2015,5746,3758,ebola
+Guinea,1/23/2015,5746,3760,ebola
+Guinea,1/26/2015,5818,3812,ebola
+Guinea,1/27/2015,5834,3820,ebola
+Guinea,1/28/2015,5834,3820,ebola
+Guinea,1/29/2015,5842,3822,ebola
+Guinea,1/30/2015,5840,3826,ebola
+Guinea,2/2/2015,5918,3874,ebola
+Guinea,2/3/2015,5950,3888,ebola
+Guinea,2/4/2015,5950,3888,ebola
+Guinea,2/5/2015,5972,3894,ebola
+Guinea,2/6/2015,5976,3914,ebola
+Guinea,2/10/2015,6088,3990,ebola
+Guinea,2/11/2015,6088,3990,ebola
+Guinea,2/12/2015,6136,4036,ebola
+Guinea,2/13/2015,6162,4064,ebola
+Guinea,2/16/2015,6202,4104,ebola
+Guinea,2/17/2015,6216,4114,ebola
+Guinea,2/18/2015,6216,4114,ebola
+Guinea,2/19/2015,6230,4134,ebola
+Guinea,2/20/2015,6240,4144,ebola
+Guinea,2/23/2015,6310,4172,ebola
+Guinea,2/25/2015,6310,4182,ebola
+Guinea,2/26/2015,6350,4202,ebola
+Guinea,2/27/2015,6380,4226,ebola
+Guinea,3/2/2015,6410,4254,ebola
+Guinea,3/4/2015,6410,4254,ebola
+Guinea,3/5/2015,6474,4282,ebola
+Guinea,3/6/2015,6496,4294,ebola
+Guinea,3/10/2015,6570,4340,ebola
+Guinea,3/11/2015,6570,4340,ebola
+Guinea,3/12/2015,6660,4374,ebola
+Guinea,3/13/2015,6662,4384,ebola
+Guinea,3/16/2015,6746,4432,ebola
+Guinea,3/17/2015,6778,4448,ebola
+Guinea,3/18/2015,6778,4448,ebola
+Guinea,3/20/2015,6808,4482,ebola
+Guinea,3/23/2015,6840,4522,ebola
+Guinea,3/24/2015,6858,4526,ebola
+Guinea,3/25/2015,6858,4526,ebola
+Guinea,3/26/2015,6918,4546,ebola
+Guinea,3/27/2015,6932,4552,ebola
+Guinea,4/7/2015,7030,4666,ebola
+Guinea,4/9/2015,7030,4670,ebola
+Guinea,4/13/2015,7082,4684,ebola
+Guinea,4/14/2015,7096,4692,ebola
+Guinea,4/15/2015,7096,4692,ebola
+Guinea,4/16/2015,7132,4696,ebola
+Guinea,4/17/2015,7138,4702,ebola
+Guinea,4/20/2015,7130,4714,ebola
+Guinea,4/21/2015,7130,4716,ebola
+Guinea,4/22/2015,7130,4716,ebola
+Guinea,4/23/2015,7136,4724,ebola
+Guinea,4/24/2015,7152,4730,ebola
+Guinea,4/27/2015,7170,4748,ebola
+Guinea,4/28/2015,7168,4754,ebola
+Guinea,4/30/2015,7162,4762,ebola
+Guinea,5/1/2015,7156,4766,ebola
+Guinea,5/4/2015,7182,4770,ebola
+Guinea,5/5/2015,7178,4772,ebola
+Guinea,5/6/2015,7178,4772,ebola
+Guinea,5/7/2015,7184,4774,ebola
+Guinea,5/8/2015,7184,4774,ebola
+Guinea,5/11/2015,7198,4782,ebola
+Guinea,5/12/2015,7194,4784,ebola
+Guinea,5/13/2015,7198,4782,ebola
+Guinea,5/14/2015,7230,4798,ebola
+Guinea,5/15/2015,7238,4802,ebola
+Guinea,5/18/2015,7252,4810,ebola
+Guinea,5/19/2015,7270,4814,ebola
+Guinea,5/20/2015,7266,4814,ebola
+Guinea,5/21/2015,7298,4818,ebola
+Guinea,5/22/2015,7294,4824,ebola
+Guinea,5/25/2015,7280,4836,ebola
+Guinea,5/26/2015,7282,4840,ebola
+Guinea,5/27/2015,7282,4840,ebola
+Guinea,5/28/2015,7278,4846,ebola
+Guinea,5/29/2015,7288,4850,ebola
+Guinea,6/1/2015,7306,4856,ebola
+Guinea,6/2/2015,7304,4858,ebola
+Guinea,6/3/2015,7304,4858,ebola
+Guinea,6/4/2015,7314,4862,ebola
+Guinea,6/5/2015,7328,4862,ebola
+Guinea,6/8/2015,7338,4870,ebola
+Guinea,6/9/2015,7340,4874,ebola
+Guinea,6/10/2015,7340,4874,ebola
+Guinea,6/11/2015,7348,4880,ebola
+Guinea,6/12/2015,7354,4880,ebola
+Guinea,6/15/2015,7354,4886,ebola
+Guinea,6/16/2015,7356,4888,ebola
+Guinea,6/17/2015,7348,4888,ebola
+Guinea,6/18/2015,7350,4890,ebola
+Guinea,6/19/2015,7348,4892,ebola
+Guinea,6/22/2015,7396,4912,ebola
+Guinea,6/23/2015,7436,4946,ebola
+Guinea,6/24/2015,7436,4946,ebola
+Guinea,6/25/2015,7436,4960,ebola
+Guinea,6/26/2015,7440,4960,ebola
+Guinea,6/29/2015,7448,4964,ebola
+Guinea,6/30/2015,7458,4964,ebola
+Guinea,7/1/2015,7458,4964,ebola
+Guinea,7/2/2015,7490,4980,ebola
+Guinea,7/3/2015,7500,4984,ebola
+Guinea,7/6/2015,7488,4996,ebola
+Guinea,7/7/2015,7496,4998,ebola
+Guinea,7/8/2015,7496,4998,ebola
+Guinea,7/9/2015,7488,5010,ebola
+Guinea,7/10/2015,7502,5010,ebola
+Guinea,7/13/2015,7508,5012,ebola
+Guinea,7/14/2015,7520,5012,ebola
+Guinea,7/15/2015,7520,5012,ebola
+Guinea,7/16/2015,7524,5012,ebola
+Guinea,7/17/2015,7540,5018,ebola
+Guinea,7/20/2015,7568,5022,ebola
+Guinea,7/21/2015,7566,5024,ebola
+Guinea,7/22/2015,7566,5024,ebola
+Guinea,7/23/2015,7576,5032,ebola
+Guinea,7/24/2015,7574,5034,ebola
+Guinea,7/27/2015,7584,5038,ebola
+Guinea,7/28/2015,7572,5040,ebola
+Guinea,7/29/2015,7572,5040,ebola
+Guinea,7/30/2015,7570,5042,ebola
+Guinea,7/31/2015,7562,5042,ebola
+Guinea,8/3/2015,7572,5044,ebola
+Guinea,8/4/2015,7568,5044,ebola
+Guinea,8/5/2015,7568,5044,ebola
+Guinea,8/6/2015,7584,5048,ebola
+Guinea,8/7/2015,7590,5048,ebola
+Guinea,8/10/2015,7582,5048,ebola
+Guinea,8/11/2015,7574,5048,ebola
+Guinea,8/12/2015,7574,5048,ebola
+Guinea,8/13/2015,7584,5048,ebola
+Guinea,8/14/2015,7582,5048,ebola
+Guinea,8/17/2015,7580,5048,ebola
+Guinea,8/18/2015,7572,5048,ebola
+Guinea,8/19/2015,7572,5048,ebola
+Guinea,8/20/2015,7584,5052,ebola
+Guinea,8/21/2015,7590,5052,ebola
+Guinea,8/24/2015,7580,5054,ebola
+Guinea,8/25/2015,7584,5054,ebola
+Guinea,8/26/2015,7584,5054,ebola
+Guinea,8/27/2015,7594,5056,ebola
+Guinea,8/28/2015,7594,5056,ebola
+Guinea,8/31/2015,7580,5056,ebola
+Guinea,9/1/2015,7584,5058,ebola
+Guinea,9/2/2015,7584,5058,ebola
+Guinea,9/3/2015,7584,5058,ebola
+Guinea,9/4/2015,7584,5058,ebola
+Guinea,9/7/2015,7586,5060,ebola
+Guinea,9/8/2015,7584,5060,ebola
+Guinea,9/9/2015,7584,5060,ebola
+Guinea,9/10/2015,7582,5060,ebola
+Guinea,9/11/2015,7582,5060,ebola
+Guinea,9/14/2015,7586,5060,ebola
+Guinea,9/15/2015,7584,5060,ebola
+Guinea,9/16/2015,7584,5060,ebola
+Guinea,9/17/2015,7588,5060,ebola
+Guinea,9/18/2015,7588,5062,ebola
+Guinea,9/21/2015,7594,5064,ebola
+Guinea,9/22/2015,7600,5064,ebola
+Guinea,9/23/2015,7600,5064,ebola
+Guinea,9/24/2015,7602,5066,ebola
+Guinea,9/25/2015,7594,5066,ebola
+Guinea,9/28/2015,7610,5066,ebola
+Guinea,9/29/2015,7610,5066,ebola
+Guinea,9/30/2015,7610,5066,ebola
+Guinea,10/1/2015,7616,5066,ebola
+Guinea,10/2/2015,7618,5066,ebola
+Guinea,10/5/2015,7608,5068,ebola
+Guinea,10/6/2015,7608,5068,ebola
+Guinea,10/7/2015,7608,5068,ebola
+Guinea,10/8/2015,7598,5068,ebola
+Guinea,10/9/2015,7600,5068,ebola
+Guinea,10/13/2015,7600,5068,ebola
+Guinea,10/15/2015,7604,5068,ebola
+Guinea,10/16/2015,7608,5070,ebola
+Guinea,10/20/2015,7606,5070,ebola
+Guinea,10/22/2015,7602,5070,ebola
+Guinea,10/23/2015,7602,5070,ebola
+Guinea,10/26/2015,7608,5070,ebola
+Guinea,10/27/2015,7612,5070,ebola
+Guinea,10/29/2015,7616,5072,ebola
+Guinea,10/30/2015,7616,5072,ebola
+Guinea,11/3/2015,7620,5072,ebola
+Guinea,11/5/2015,7610,5072,ebola
+Guinea,11/6/2015,7610,5072,ebola
+Guinea,11/10/2015,7610,5072,ebola
+Guinea,11/11/2015,7610,5072,ebola
+Guinea,11/12/2015,7610,5072,ebola
+Guinea,11/16/2015,7610,5072,ebola
+Guinea,11/17/2015,7608,5072,ebola
+Guinea,11/20/2015,7608,5072,ebola
+Guinea,11/24/2015,7608,5072,ebola
+Guinea,11/26/2015,7608,5072,ebola
+Guinea,12/1/2015,7608,5072,ebola
+Guinea,12/2/2015,7608,5072,ebola
+Guinea,12/3/2015,7610,5072,ebola
+Guinea,12/9/2015,7608,5072,ebola
+Guinea,12/10/2015,7608,5072,ebola
+Guinea,12/11/2015,7608,5072,ebola
+Guinea,12/15/2015,7614,5072,ebola
+Guinea,12/16/2015,7614,5072,ebola
+Guinea,12/17/2015,7610,5072,ebola
+Guinea,12/22/2015,7608,5072,ebola
+Guinea,12/23/2015,7608,5072,ebola
+Guinea,12/29/2015,7608,5072,ebola
+Guinea,3/23/2016,7608,5072,ebola
+Italy,5/14/2015,2,0,ebola
+Italy,5/15/2015,2,0,ebola
+Italy,5/18/2015,2,0,ebola
+Italy,5/19/2015,2,0,ebola
+Italy,5/20/2015,2,0,ebola
+Italy,5/21/2015,2,0,ebola
+Italy,5/22/2015,2,0,ebola
+Italy,5/25/2015,2,0,ebola
+Italy,5/26/2015,2,0,ebola
+Italy,5/27/2015,2,0,ebola
+Italy,5/28/2015,2,0,ebola
+Italy,5/29/2015,2,0,ebola
+Italy,6/1/2015,2,0,ebola
+Italy,6/2/2015,2,0,ebola
+Italy,6/3/2015,2,0,ebola
+Italy,6/4/2015,2,0,ebola
+Italy,6/5/2015,2,0,ebola
+Italy,6/8/2015,2,0,ebola
+Italy,6/9/2015,2,0,ebola
+Italy,6/10/2015,2,0,ebola
+Italy,6/11/2015,2,0,ebola
+Italy,6/12/2015,2,0,ebola
+Italy,6/15/2015,2,0,ebola
+Italy,6/16/2015,2,0,ebola
+Italy,6/17/2015,2,0,ebola
+Italy,6/18/2015,2,0,ebola
+Italy,6/19/2015,2,0,ebola
+Italy,6/22/2015,2,0,ebola
+Italy,6/23/2015,2,0,ebola
+Italy,6/24/2015,2,0,ebola
+Italy,6/25/2015,2,0,ebola
+Italy,6/26/2015,2,0,ebola
+Italy,6/29/2015,2,0,ebola
+Italy,6/30/2015,2,0,ebola
+Italy,7/1/2015,2,0,ebola
+Italy,7/2/2015,2,0,ebola
+Italy,7/3/2015,2,0,ebola
+Italy,7/6/2015,2,0,ebola
+Italy,7/7/2015,2,0,ebola
+Italy,7/8/2015,2,0,ebola
+Italy,7/9/2015,2,0,ebola
+Italy,7/10/2015,2,0,ebola
+Italy,7/13/2015,2,0,ebola
+Italy,7/14/2015,2,0,ebola
+Italy,7/15/2015,2,0,ebola
+Italy,7/16/2015,2,0,ebola
+Italy,7/17/2015,2,0,ebola
+Italy,7/20/2015,2,0,ebola
+Italy,7/21/2015,2,0,ebola
+Italy,7/22/2015,2,0,ebola
+Italy,7/23/2015,2,0,ebola
+Italy,7/24/2015,2,0,ebola
+Italy,7/27/2015,2,0,ebola
+Italy,7/28/2015,2,0,ebola
+Italy,7/29/2015,2,0,ebola
+Italy,7/30/2015,2,0,ebola
+Italy,7/31/2015,2,0,ebola
+Italy,8/3/2015,2,0,ebola
+Italy,8/4/2015,2,0,ebola
+Italy,8/5/2015,2,0,ebola
+Italy,8/6/2015,2,0,ebola
+Italy,8/7/2015,2,0,ebola
+Italy,8/10/2015,2,0,ebola
+Italy,8/11/2015,2,0,ebola
+Italy,8/12/2015,2,0,ebola
+Italy,8/13/2015,2,0,ebola
+Italy,8/14/2015,2,0,ebola
+Italy,8/17/2015,2,0,ebola
+Italy,8/18/2015,2,0,ebola
+Italy,8/19/2015,2,0,ebola
+Italy,8/20/2015,2,0,ebola
+Italy,8/21/2015,2,0,ebola
+Italy,8/24/2015,2,0,ebola
+Italy,8/25/2015,2,0,ebola
+Italy,8/26/2015,2,0,ebola
+Italy,8/27/2015,2,0,ebola
+Italy,8/28/2015,2,0,ebola
+Italy,8/31/2015,2,0,ebola
+Italy,9/1/2015,2,0,ebola
+Italy,9/2/2015,2,0,ebola
+Italy,9/3/2015,2,0,ebola
+Italy,9/4/2015,2,0,ebola
+Italy,9/7/2015,2,0,ebola
+Italy,9/8/2015,2,0,ebola
+Italy,9/9/2015,2,0,ebola
+Italy,9/10/2015,2,0,ebola
+Italy,9/11/2015,2,0,ebola
+Italy,9/14/2015,2,0,ebola
+Italy,9/15/2015,2,0,ebola
+Italy,9/16/2015,2,0,ebola
+Italy,9/17/2015,2,0,ebola
+Italy,9/18/2015,2,0,ebola
+Italy,9/21/2015,2,0,ebola
+Italy,9/22/2015,2,0,ebola
+Italy,9/23/2015,2,0,ebola
+Italy,9/24/2015,2,0,ebola
+Italy,9/25/2015,2,0,ebola
+Italy,9/28/2015,2,0,ebola
+Italy,9/29/2015,2,0,ebola
+Italy,9/30/2015,2,0,ebola
+Italy,10/1/2015,2,0,ebola
+Italy,10/2/2015,2,0,ebola
+Italy,10/5/2015,2,0,ebola
+Italy,10/6/2015,2,0,ebola
+Italy,10/7/2015,2,0,ebola
+Italy,10/8/2015,2,0,ebola
+Italy,10/9/2015,2,0,ebola
+Italy,10/13/2015,2,0,ebola
+Italy,10/15/2015,2,0,ebola
+Italy,10/16/2015,2,0,ebola
+Italy,10/20/2015,2,0,ebola
+Italy,10/22/2015,2,0,ebola
+Italy,10/23/2015,2,0,ebola
+Italy,10/26/2015,2,0,ebola
+Italy,10/27/2015,2,0,ebola
+Italy,10/29/2015,2,0,ebola
+Italy,10/30/2015,2,0,ebola
+Italy,11/3/2015,2,0,ebola
+Italy,11/5/2015,2,0,ebola
+Italy,11/6/2015,2,0,ebola
+Italy,11/10/2015,2,0,ebola
+Italy,11/11/2015,2,0,ebola
+Italy,11/12/2015,2,0,ebola
+Italy,11/16/2015,2,0,ebola
+Italy,11/17/2015,2,0,ebola
+Italy,11/20/2015,2,0,ebola
+Italy,11/24/2015,2,0,ebola
+Italy,11/26/2015,2,0,ebola
+Italy,12/1/2015,2,0,ebola
+Italy,12/2/2015,2,0,ebola
+Italy,12/3/2015,2,0,ebola
+Italy,12/9/2015,2,0,ebola
+Italy,12/10/2015,2,0,ebola
+Italy,12/11/2015,2,0,ebola
+Italy,12/15/2015,2,0,ebola
+Italy,12/16/2015,2,0,ebola
+Italy,12/17/2015,2,0,ebola
+Italy,12/22/2015,2,0,ebola
+Italy,12/23/2015,2,0,ebola
+Italy,12/29/2015,2,0,ebola
+Italy,3/23/2016,2,0,ebola
+Liberia,8/29/2014,2756,1220,ebola
+Liberia,9/5/2014,3742,1921,ebola
+Liberia,9/8/2014,4092,2152,ebola
+Liberia,9/12/2014,4162,2063,ebola
+Liberia,9/16/2014,4814,2331,ebola
+Liberia,9/18/2014,5430,2608,ebola
+Liberia,9/22/2014,6044,2792,ebola
+Liberia,9/24/2014,6560,2941,ebola
+Liberia,9/26/2014,6916,3245,ebola
+Liberia,10/1/2014,7392,3552,ebola
+Liberia,10/3/2014,7668,3680,ebola
+Liberia,10/8/2014,7848,3929,ebola
+Liberia,10/10/2014,8152,4113,ebola
+Liberia,10/15/2014,8498,2458,ebola
+Liberia,10/17/2014,4262,2484,ebola
+Liberia,10/22/2014,9330,4749,ebola
+Liberia,10/25/2014,9330,4749,ebola
+Liberia,10/29/2014,13070,2413,ebola
+Liberia,10/31/2014,13070,2413,ebola
+Liberia,11/5/2014,13050,2697,ebola
+Liberia,11/7/2014,13238,2766,ebola
+Liberia,11/12/2014,13644,2836,ebola
+Liberia,11/14/2014,13756,2812,ebola
+Liberia,11/19/2014,14138,2964,ebola
+Liberia,11/21/2014,14164,2963,ebola
+Liberia,11/26/2014,14336,3016,ebola
+Liberia,12/1/2014,15270,3145,ebola
+Liberia,12/3/2014,15270,3145,ebola
+Liberia,12/10/2014,15438,3177,ebola
+Liberia,12/15/2014,15594,3290,ebola
+Liberia,12/17/2014,15594,3290,ebola
+Liberia,12/22/2014,15660,3376,ebola
+Liberia,12/23/2014,15660,3376,ebola
+Liberia,12/24/2014,15724,3384,ebola
+Liberia,12/26/2014,15724,3384,ebola
+Liberia,12/29/2014,15954,3413,ebola
+Liberia,12/30/2014,15954,3413,ebola
+Liberia,12/31/2014,16036,3423,ebola
+Liberia,1/2/2015,16036,3423,ebola
+Liberia,1/5/2015,16234,3471,ebola
+Liberia,1/6/2015,16314,3496,ebola
+Liberia,1/7/2015,16314,3496,ebola
+Liberia,1/8/2015,16332,3496,ebola
+Liberia,1/9/2015,16526,3515,ebola
+Liberia,1/12/2015,16556,3515,ebola
+Liberia,1/13/2015,16556,3515,ebola
+Liberia,1/14/2015,16662,3538,ebola
+Liberia,1/15/2015,16724,3556,ebola
+Liberia,1/16/2015,16724,3556,ebola
+Liberia,1/19/2015,16870,3587,ebola
+Liberia,1/20/2015,16956,3605,ebola
+Liberia,1/21/2015,16956,3605,ebola
+Liberia,1/22/2015,17048,3636,ebola
+Liberia,1/23/2015,17048,3636,ebola
+Liberia,1/26/2015,17048,3636,ebola
+Liberia,1/27/2015,17244,3686,ebola
+Liberia,1/28/2015,17244,3686,ebola
+Liberia,1/29/2015,17286,3700,ebola
+Liberia,1/30/2015,17286,3700,ebola
+Liberia,2/2/2015,17336,3710,ebola
+Liberia,2/3/2015,17458,3739,ebola
+Liberia,2/4/2015,17490,3746,ebola
+Liberia,2/5/2015,17490,3746,ebola
+Liberia,2/6/2015,17490,3746,ebola
+Liberia,2/10/2015,17762,7652,ebola
+Liberia,2/11/2015,17762,7652,ebola
+Liberia,2/12/2015,17762,7652,ebola
+Liberia,2/13/2015,17862,7716,ebola
+Liberia,2/16/2015,18014,3900,ebola
+Liberia,2/17/2015,18014,3900,ebola
+Liberia,2/18/2015,18014,3900,ebola
+Liberia,2/19/2015,18192,3947,ebola
+Liberia,2/20/2015,18192,3947,ebola
+Liberia,2/23/2015,18458,4032,ebola
+Liberia,2/25/2015,18476,4037,ebola
+Liberia,2/26/2015,18530,4057,ebola
+Liberia,2/27/2015,18530,4057,ebola
+Liberia,3/2/2015,18530,4057,ebola
+Liberia,3/4/2015,18530,4057,ebola
+Liberia,3/5/2015,18498,4117,ebola
+Liberia,3/6/2015,18498,4117,ebola
+Liberia,3/10/2015,18686,4162,ebola
+Liberia,3/11/2015,18686,4162,ebola
+Liberia,3/12/2015,18686,4162,ebola
+Liberia,3/13/2015,18964,4241,ebola
+Liberia,3/16/2015,18964,4241,ebola
+Liberia,3/17/2015,19052,4264,ebola
+Liberia,3/18/2015,19052,4264,ebola
+Liberia,3/20/2015,19110,4283,ebola
+Liberia,3/23/2015,19186,4296,ebola
+Liberia,3/24/2015,19204,4301,ebola
+Liberia,3/25/2015,19204,4301,ebola
+Liberia,3/26/2015,19204,4301,ebola
+Liberia,3/27/2015,19204,4301,ebola
+Liberia,4/7/2015,19724,4408,ebola
+Liberia,4/9/2015,19724,4408,ebola
+Liberia,4/13/2015,19724,4408,ebola
+Liberia,4/14/2015,19724,4408,ebola
+Liberia,4/15/2015,20084,4486,ebola
+Liberia,4/16/2015,20084,4486,ebola
+Liberia,4/17/2015,20084,4486,ebola
+Liberia,4/20/2015,20084,4486,ebola
+Liberia,4/21/2015,20084,4486,ebola
+Liberia,4/22/2015,20424,4573,ebola
+Liberia,4/23/2015,20424,4573,ebola
+Liberia,4/24/2015,20424,4573,ebola
+Liberia,4/27/2015,20424,4573,ebola
+Liberia,4/28/2015,20644,4608,ebola
+Liberia,4/30/2015,20644,4608,ebola
+Liberia,5/1/2015,20644,4608,ebola
+Liberia,5/4/2015,20644,4608,ebola
+Liberia,5/5/2015,21014,4691,ebola
+Liberia,5/6/2015,21128,4716,ebola
+Liberia,5/7/2015,21128,4716,ebola
+Liberia,5/8/2015,21128,4716,ebola
+Liberia,5/11/2015,21208,4769,ebola
+Liberia,5/12/2015,21208,4769,ebola
+Liberia,5/13/2015,21208,4769,ebola
+Liberia,5/14/2015,21208,4769,ebola
+Liberia,5/15/2015,21208,4769,ebola
+Liberia,5/18/2015,21332,4806,ebola
+Liberia,5/19/2015,21332,4806,ebola
+Liberia,5/20/2015,21332,4806,ebola
+Liberia,5/21/2015,21332,4806,ebola
+Liberia,5/22/2015,21332,4806,ebola
+Liberia,5/25/2015,21332,4806,ebola
+Liberia,5/26/2015,21332,4806,ebola
+Liberia,5/27/2015,21332,4806,ebola
+Liberia,5/28/2015,21332,4806,ebola
+Liberia,5/29/2015,21332,4806,ebola
+Liberia,6/1/2015,21332,4806,ebola
+Liberia,6/2/2015,21332,4806,ebola
+Liberia,6/3/2015,21332,4806,ebola
+Liberia,6/4/2015,21332,4806,ebola
+Liberia,6/5/2015,21332,4806,ebola
+Liberia,6/8/2015,21332,4806,ebola
+Liberia,6/9/2015,21332,4806,ebola
+Liberia,6/10/2015,21332,4806,ebola
+Liberia,6/11/2015,21332,4806,ebola
+Liberia,6/12/2015,21332,4806,ebola
+Liberia,6/15/2015,21332,4806,ebola
+Liberia,6/16/2015,21332,4806,ebola
+Liberia,6/17/2015,21332,4806,ebola
+Liberia,6/18/2015,21332,4806,ebola
+Liberia,6/19/2015,21332,4806,ebola
+Liberia,6/22/2015,21332,4806,ebola
+Liberia,6/23/2015,21332,4806,ebola
+Liberia,6/24/2015,21332,4806,ebola
+Liberia,6/25/2015,21332,4806,ebola
+Liberia,6/26/2015,21332,4806,ebola
+Liberia,6/29/2015,21332,4806,ebola
+Liberia,6/30/2015,21332,4806,ebola
+Liberia,7/1/2015,21332,4806,ebola
+Liberia,7/2/2015,21332,4806,ebola
+Liberia,7/3/2015,21332,4806,ebola
+Liberia,7/3/2015,80,6,ebola
+Liberia,7/6/2015,8,2,ebola
+Liberia,7/6/2015,21332,4806,ebola
+Liberia,7/7/2015,8,2,ebola
+Liberia,7/7/2015,21332,4806,ebola
+Liberia,7/8/2015,8,2,ebola
+Liberia,7/8/2015,21332,4806,ebola
+Liberia,7/9/2015,21332,4806,ebola
+Liberia,7/9/2015,12,2,ebola
+Liberia,7/10/2015,12,2,ebola
+Liberia,7/10/2015,21332,4806,ebola
+Liberia,7/13/2015,21332,4806,ebola
+Liberia,7/13/2015,12,2,ebola
+Liberia,7/14/2015,14,4,ebola
+Liberia,7/14/2015,21332,4806,ebola
+Liberia,7/15/2015,21332,4806,ebola
+Liberia,7/15/2015,14,4,ebola
+Liberia,7/16/2015,21332,4806,ebola
+Liberia,7/16/2015,12,4,ebola
+Liberia,7/17/2015,21332,4806,ebola
+Liberia,7/17/2015,14,4,ebola
+Liberia,7/20/2015,21332,4806,ebola
+Liberia,7/20/2015,14,4,ebola
+Liberia,7/21/2015,14,4,ebola
+Liberia,7/21/2015,21332,4806,ebola
+Liberia,7/22/2015,12,4,ebola
+Liberia,7/22/2015,21332,4806,ebola
+Liberia,7/23/2015,21332,4806,ebola
+Liberia,7/23/2015,14,4,ebola
+Liberia,7/24/2015,14,4,ebola
+Liberia,7/24/2015,21332,4806,ebola
+Liberia,7/27/2015,21332,4806,ebola
+Liberia,7/27/2015,14,4,ebola
+Liberia,7/28/2015,21332,4806,ebola
+Liberia,7/28/2015,14,4,ebola
+Liberia,7/29/2015,21332,4806,ebola
+Liberia,7/29/2015,12,4,ebola
+Liberia,7/30/2015,12,4,ebola
+Liberia,7/30/2015,21332,4806,ebola
+Liberia,7/31/2015,12,4,ebola
+Liberia,7/31/2015,21332,4806,ebola
+Liberia,8/3/2015,12,4,ebola
+Liberia,8/3/2015,21332,4806,ebola
+Liberia,8/4/2015,21332,4806,ebola
+Liberia,8/4/2015,12,4,ebola
+Liberia,8/5/2015,21332,4806,ebola
+Liberia,8/5/2015,12,4,ebola
+Liberia,8/6/2015,21332,4806,ebola
+Liberia,8/6/2015,12,4,ebola
+Liberia,8/7/2015,12,4,ebola
+Liberia,8/7/2015,21332,4806,ebola
+Liberia,8/10/2015,12,4,ebola
+Liberia,8/10/2015,21332,4806,ebola
+Liberia,8/11/2015,12,4,ebola
+Liberia,8/11/2015,21332,4806,ebola
+Liberia,8/12/2015,12,4,ebola
+Liberia,8/12/2015,21332,4806,ebola
+Liberia,8/13/2015,12,4,ebola
+Liberia,8/13/2015,21332,4806,ebola
+Liberia,8/14/2015,12,4,ebola
+Liberia,8/14/2015,21332,4806,ebola
+Liberia,8/17/2015,12,4,ebola
+Liberia,8/17/2015,21332,4806,ebola
+Liberia,8/18/2015,21332,4806,ebola
+Liberia,8/18/2015,12,4,ebola
+Liberia,8/19/2015,12,4,ebola
+Liberia,8/19/2015,21332,4806,ebola
+Liberia,8/20/2015,21332,4806,ebola
+Liberia,8/20/2015,12,4,ebola
+Liberia,8/21/2015,12,4,ebola
+Liberia,8/21/2015,21332,4806,ebola
+Liberia,8/24/2015,12,4,ebola
+Liberia,8/24/2015,21332,4806,ebola
+Liberia,8/25/2015,21332,4806,ebola
+Liberia,8/25/2015,12,4,ebola
+Liberia,8/26/2015,12,4,ebola
+Liberia,8/26/2015,21332,4806,ebola
+Liberia,8/27/2015,12,4,ebola
+Liberia,8/27/2015,21332,4806,ebola
+Liberia,8/28/2015,21332,4806,ebola
+Liberia,8/28/2015,12,4,ebola
+Liberia,8/31/2015,12,4,ebola
+Liberia,8/31/2015,21332,4806,ebola
+Liberia,9/1/2015,21332,4806,ebola
+Liberia,9/1/2015,12,4,ebola
+Liberia,9/2/2015,21332,4806,ebola
+Liberia,9/2/2015,12,4,ebola
+Liberia,9/3/2015,21332,4806,ebola
+Liberia,9/3/2015,12,4,ebola
+Liberia,9/4/2015,21332,4806,ebola
+Liberia,9/4/2015,12,4,ebola
+Liberia,9/7/2015,12,4,ebola
+Liberia,9/7/2015,21332,4806,ebola
+Liberia,9/8/2015,12,4,ebola
+Liberia,9/8/2015,21332,4806,ebola
+Liberia,9/9/2015,21332,4806,ebola
+Liberia,9/9/2015,12,4,ebola
+Liberia,9/10/2015,12,4,ebola
+Liberia,9/10/2015,21332,4806,ebola
+Liberia,9/11/2015,21332,4806,ebola
+Liberia,9/11/2015,12,4,ebola
+Liberia,9/14/2015,12,4,ebola
+Liberia,9/14/2015,21332,4806,ebola
+Liberia,9/15/2015,21332,4806,ebola
+Liberia,9/15/2015,12,4,ebola
+Liberia,9/16/2015,21332,4806,ebola
+Liberia,9/16/2015,12,4,ebola
+Liberia,9/17/2015,12,4,ebola
+Liberia,9/17/2015,21332,4806,ebola
+Liberia,9/18/2015,12,4,ebola
+Liberia,9/18/2015,21332,4806,ebola
+Liberia,9/21/2015,21332,4806,ebola
+Liberia,9/21/2015,12,4,ebola
+Liberia,9/22/2015,12,4,ebola
+Liberia,9/22/2015,21332,4806,ebola
+Liberia,9/23/2015,12,4,ebola
+Liberia,9/23/2015,21332,4806,ebola
+Liberia,9/24/2015,12,4,ebola
+Liberia,9/24/2015,21332,4806,ebola
+Liberia,9/25/2015,21332,4806,ebola
+Liberia,9/25/2015,12,4,ebola
+Liberia,9/28/2015,21332,4806,ebola
+Liberia,9/28/2015,12,4,ebola
+Liberia,9/29/2015,12,4,ebola
+Liberia,9/29/2015,21332,4806,ebola
+Liberia,9/30/2015,21332,4806,ebola
+Liberia,9/30/2015,12,4,ebola
+Liberia,10/1/2015,21332,4806,ebola
+Liberia,10/1/2015,12,4,ebola
+Liberia,10/2/2015,21332,4806,ebola
+Liberia,10/2/2015,12,4,ebola
+Liberia,10/5/2015,21332,4806,ebola
+Liberia,10/5/2015,12,4,ebola
+Liberia,10/6/2015,12,4,ebola
+Liberia,10/6/2015,21332,4806,ebola
+Liberia,10/7/2015,12,4,ebola
+Liberia,10/7/2015,21332,4806,ebola
+Liberia,10/8/2015,12,4,ebola
+Liberia,10/8/2015,21332,4806,ebola
+Liberia,10/9/2015,12,4,ebola
+Liberia,10/9/2015,21332,4806,ebola
+Liberia,10/13/2015,21332,4806,ebola
+Liberia,10/13/2015,12,4,ebola
+Liberia,10/15/2015,21332,4806,ebola
+Liberia,10/15/2015,12,4,ebola
+Liberia,10/16/2015,21332,4806,ebola
+Liberia,10/16/2015,12,4,ebola
+Liberia,10/20/2015,12,4,ebola
+Liberia,10/20/2015,21332,4806,ebola
+Liberia,10/22/2015,12,4,ebola
+Liberia,10/22/2015,21332,4806,ebola
+Liberia,10/23/2015,21332,4806,ebola
+Liberia,10/23/2015,12,4,ebola
+Liberia,10/26/2015,21332,4806,ebola
+Liberia,10/26/2015,12,4,ebola
+Liberia,10/27/2015,12,4,ebola
+Liberia,10/27/2015,21332,4806,ebola
+Liberia,10/29/2015,12,4,ebola
+Liberia,10/29/2015,21332,4806,ebola
+Liberia,10/30/2015,21332,4806,ebola
+Liberia,10/30/2015,12,4,ebola
+Liberia,11/3/2015,12,4,ebola
+Liberia,11/3/2015,21332,4806,ebola
+Liberia,11/5/2015,12,4,ebola
+Liberia,11/5/2015,21332,4806,ebola
+Liberia,11/6/2015,21332,4806,ebola
+Liberia,11/6/2015,12,4,ebola
+Liberia,11/10/2015,21332,4806,ebola
+Liberia,11/10/2015,12,4,ebola
+Liberia,11/11/2015,21332,4806,ebola
+Liberia,11/11/2015,12,4,ebola
+Liberia,11/12/2015,21332,4806,ebola
+Liberia,11/12/2015,12,4,ebola
+Liberia,11/16/2015,12,4,ebola
+Liberia,11/16/2015,21332,4806,ebola
+Liberia,11/17/2015,12,4,ebola
+Liberia,11/17/2015,21332,4806,ebola
+Liberia,11/20/2015,21332,4806,ebola
+Liberia,11/20/2015,12,4,ebola
+Liberia,11/24/2015,12,4,ebola
+Liberia,11/24/2015,21332,4806,ebola
+Liberia,11/26/2015,18,4,ebola
+Liberia,11/26/2015,21332,4806,ebola
+Liberia,12/1/2015,18,4,ebola
+Liberia,12/1/2015,21332,4806,ebola
+Liberia,12/2/2015,21332,4806,ebola
+Liberia,12/2/2015,18,6,ebola
+Liberia,12/3/2015,21332,4806,ebola
+Liberia,12/3/2015,18,6,ebola
+Liberia,12/9/2015,21332,4806,ebola
+Liberia,12/9/2015,18,6,ebola
+Liberia,12/10/2015,18,6,ebola
+Liberia,12/10/2015,21332,4806,ebola
+Liberia,12/11/2015,18,6,ebola
+Liberia,12/11/2015,21332,4806,ebola
+Liberia,12/15/2015,18,6,ebola
+Liberia,12/15/2015,21332,4806,ebola
+Liberia,12/16/2015,21332,4806,ebola
+Liberia,12/16/2015,18,6,ebola
+Liberia,12/17/2015,18,6,ebola
+Liberia,12/17/2015,21332,4806,ebola
+Liberia,12/22/2015,18,6,ebola
+Liberia,12/22/2015,21332,4806,ebola
+Liberia,12/23/2015,21332,4806,ebola
+Liberia,12/23/2015,18,6,ebola
+Liberia,12/29/2015,21332,4806,ebola
+Liberia,12/29/2015,18,6,ebola
+Liberia,3/23/2016,18,6,ebola
+Liberia,3/23/2016,21332,4806,ebola
+Liberia,3/23/2016,10,8,ebola
+Mali,10/25/2014,2,2,ebola
+Mali,10/29/2014,2,2,ebola
+Mali,10/31/2014,2,2,ebola
+Mali,11/5/2014,2,2,ebola
+Mali,11/7/2014,2,2,ebola
+Mali,11/12/2014,8,8,ebola
+Mali,11/14/2014,8,3,ebola
+Mali,11/19/2014,12,10,ebola
+Mali,11/21/2014,12,12,ebola
+Mali,11/26/2014,16,12,ebola
+Mali,12/1/2014,16,6,ebola
+Mali,12/3/2014,16,6,ebola
+Mali,12/10/2014,16,6,ebola
+Mali,12/15/2014,16,6,ebola
+Mali,12/17/2014,16,6,ebola
+Mali,12/22/2014,16,6,ebola
+Mali,12/23/2014,16,6,ebola
+Mali,12/24/2014,16,6,ebola
+Mali,12/26/2014,16,6,ebola
+Mali,12/29/2014,16,6,ebola
+Mali,12/30/2014,16,6,ebola
+Mali,12/31/2014,16,6,ebola
+Mali,1/2/2015,16,6,ebola
+Mali,1/5/2015,16,6,ebola
+Mali,1/6/2015,16,6,ebola
+Mali,1/7/2015,16,6,ebola
+Mali,1/8/2015,8,6,ebola
+Mali,1/9/2015,8,6,ebola
+Mali,1/12/2015,8,6,ebola
+Mali,1/13/2015,9,6,ebola
+Mali,1/14/2015,16,6,ebola
+Mali,1/15/2015,16,6,ebola
+Mali,1/16/2015,16,6,ebola
+Mali,1/19/2015,16,6,ebola
+Mali,1/20/2015,16,6,ebola
+Mali,1/21/2015,16,6,ebola
+Mali,1/22/2015,16,6,ebola
+Mali,1/23/2015,16,6,ebola
+Mali,1/26/2015,16,6,ebola
+Mali,1/27/2015,16,6,ebola
+Mali,1/28/2015,16,6,ebola
+Mali,1/29/2015,16,6,ebola
+Mali,1/30/2015,16,6,ebola
+Mali,2/2/2015,16,6,ebola
+Mali,2/3/2015,16,6,ebola
+Mali,2/4/2015,16,6,ebola
+Mali,2/5/2015,16,6,ebola
+Mali,2/6/2015,16,6,ebola
+Mali,2/10/2015,16,6,ebola
+Mali,2/11/2015,16,6,ebola
+Mali,2/12/2015,16,6,ebola
+Mali,2/13/2015,16,6,ebola
+Mali,2/16/2015,16,6,ebola
+Mali,2/17/2015,16,6,ebola
+Mali,2/18/2015,16,6,ebola
+Mali,2/19/2015,16,6,ebola
+Mali,2/20/2015,16,6,ebola
+Mali,2/23/2015,16,6,ebola
+Mali,2/25/2015,16,6,ebola
+Mali,2/26/2015,16,6,ebola
+Mali,2/27/2015,16,6,ebola
+Mali,3/2/2015,16,6,ebola
+Mali,3/4/2015,16,6,ebola
+Mali,3/5/2015,16,6,ebola
+Mali,3/6/2015,16,6,ebola
+Mali,3/10/2015,16,6,ebola
+Mali,3/11/2015,16,6,ebola
+Mali,3/12/2015,16,6,ebola
+Mali,3/13/2015,16,6,ebola
+Mali,3/16/2015,16,6,ebola
+Mali,3/17/2015,16,6,ebola
+Mali,3/18/2015,16,6,ebola
+Mali,3/20/2015,16,6,ebola
+Mali,3/23/2015,16,6,ebola
+Mali,3/24/2015,16,6,ebola
+Mali,3/25/2015,16,6,ebola
+Mali,3/26/2015,16,6,ebola
+Mali,3/27/2015,16,6,ebola
+Mali,4/7/2015,16,6,ebola
+Mali,4/9/2015,16,6,ebola
+Mali,4/13/2015,16,6,ebola
+Mali,4/14/2015,16,6,ebola
+Mali,4/15/2015,16,6,ebola
+Mali,4/16/2015,16,6,ebola
+Mali,4/17/2015,16,6,ebola
+Mali,4/20/2015,16,6,ebola
+Mali,4/21/2015,16,6,ebola
+Mali,4/22/2015,16,6,ebola
+Mali,4/23/2015,16,6,ebola
+Mali,4/24/2015,16,6,ebola
+Mali,4/27/2015,16,6,ebola
+Mali,4/28/2015,16,6,ebola
+Mali,4/30/2015,16,6,ebola
+Mali,5/1/2015,16,6,ebola
+Mali,5/4/2015,16,6,ebola
+Mali,5/5/2015,16,6,ebola
+Mali,5/6/2015,16,6,ebola
+Mali,5/7/2015,16,6,ebola
+Mali,5/8/2015,16,6,ebola
+Mali,5/11/2015,16,6,ebola
+Mali,5/12/2015,16,6,ebola
+Mali,5/13/2015,16,6,ebola
+Mali,5/14/2015,16,6,ebola
+Mali,5/15/2015,16,6,ebola
+Mali,5/18/2015,16,6,ebola
+Mali,5/19/2015,16,6,ebola
+Mali,5/20/2015,16,6,ebola
+Mali,5/21/2015,16,6,ebola
+Mali,5/22/2015,16,6,ebola
+Mali,5/25/2015,16,6,ebola
+Mali,5/26/2015,16,6,ebola
+Mali,5/27/2015,16,6,ebola
+Mali,5/28/2015,16,6,ebola
+Mali,5/29/2015,16,6,ebola
+Mali,6/1/2015,16,6,ebola
+Mali,6/2/2015,16,6,ebola
+Mali,6/3/2015,16,6,ebola
+Mali,6/4/2015,16,6,ebola
+Mali,6/5/2015,16,6,ebola
+Mali,6/8/2015,16,6,ebola
+Mali,6/9/2015,16,6,ebola
+Mali,6/10/2015,16,6,ebola
+Mali,6/11/2015,16,6,ebola
+Mali,6/12/2015,16,6,ebola
+Mali,6/15/2015,16,6,ebola
+Mali,6/16/2015,16,6,ebola
+Mali,6/17/2015,16,6,ebola
+Mali,6/18/2015,16,6,ebola
+Mali,6/19/2015,16,6,ebola
+Mali,6/22/2015,16,6,ebola
+Mali,6/23/2015,16,6,ebola
+Mali,6/24/2015,16,6,ebola
+Mali,6/25/2015,16,6,ebola
+Mali,6/26/2015,16,6,ebola
+Mali,6/29/2015,16,6,ebola
+Mali,6/30/2015,16,6,ebola
+Mali,7/1/2015,16,6,ebola
+Mali,7/2/2015,16,6,ebola
+Mali,7/3/2015,16,6,ebola
+Mali,7/6/2015,16,6,ebola
+Mali,7/7/2015,16,6,ebola
+Mali,7/8/2015,16,6,ebola
+Mali,7/9/2015,16,6,ebola
+Mali,7/10/2015,16,6,ebola
+Mali,7/13/2015,16,6,ebola
+Mali,7/14/2015,16,6,ebola
+Mali,7/15/2015,16,6,ebola
+Mali,7/16/2015,16,6,ebola
+Mali,7/17/2015,16,6,ebola
+Mali,7/20/2015,16,6,ebola
+Mali,7/21/2015,16,6,ebola
+Mali,7/22/2015,16,6,ebola
+Mali,7/23/2015,16,6,ebola
+Mali,7/24/2015,16,6,ebola
+Mali,7/27/2015,16,6,ebola
+Mali,7/28/2015,16,6,ebola
+Mali,7/29/2015,16,6,ebola
+Mali,7/30/2015,16,6,ebola
+Mali,7/31/2015,16,6,ebola
+Mali,8/3/2015,16,6,ebola
+Mali,8/4/2015,16,6,ebola
+Mali,8/5/2015,16,6,ebola
+Mali,8/6/2015,16,6,ebola
+Mali,8/7/2015,16,6,ebola
+Mali,8/10/2015,16,6,ebola
+Mali,8/11/2015,16,6,ebola
+Mali,8/12/2015,16,6,ebola
+Mali,8/13/2015,16,6,ebola
+Mali,8/14/2015,16,6,ebola
+Mali,8/17/2015,16,6,ebola
+Mali,8/18/2015,16,6,ebola
+Mali,8/19/2015,16,6,ebola
+Mali,8/20/2015,16,6,ebola
+Mali,8/21/2015,16,6,ebola
+Mali,8/24/2015,16,6,ebola
+Mali,8/25/2015,16,6,ebola
+Mali,8/26/2015,16,6,ebola
+Mali,8/27/2015,16,6,ebola
+Mali,8/28/2015,16,6,ebola
+Mali,8/31/2015,16,6,ebola
+Mali,9/1/2015,16,6,ebola
+Mali,9/2/2015,16,6,ebola
+Mali,9/3/2015,16,6,ebola
+Mali,9/4/2015,16,6,ebola
+Mali,9/7/2015,16,6,ebola
+Mali,9/8/2015,16,6,ebola
+Mali,9/9/2015,16,6,ebola
+Mali,9/10/2015,16,6,ebola
+Mali,9/11/2015,16,6,ebola
+Mali,9/14/2015,16,6,ebola
+Mali,9/15/2015,16,6,ebola
+Mali,9/16/2015,16,6,ebola
+Mali,9/17/2015,16,6,ebola
+Mali,9/18/2015,16,6,ebola
+Mali,9/21/2015,16,6,ebola
+Mali,9/22/2015,16,6,ebola
+Mali,9/23/2015,16,6,ebola
+Mali,9/24/2015,16,6,ebola
+Mali,9/25/2015,16,6,ebola
+Mali,9/28/2015,16,6,ebola
+Mali,9/29/2015,16,6,ebola
+Mali,9/30/2015,16,6,ebola
+Mali,10/1/2015,16,6,ebola
+Mali,10/2/2015,16,6,ebola
+Mali,10/5/2015,16,6,ebola
+Mali,10/6/2015,16,6,ebola
+Mali,10/7/2015,16,6,ebola
+Mali,10/8/2015,16,6,ebola
+Mali,10/9/2015,16,6,ebola
+Mali,10/13/2015,16,6,ebola
+Mali,10/15/2015,16,6,ebola
+Mali,10/16/2015,16,6,ebola
+Mali,10/20/2015,16,6,ebola
+Mali,10/22/2015,16,6,ebola
+Mali,10/23/2015,16,6,ebola
+Mali,10/26/2015,16,6,ebola
+Mali,10/27/2015,16,6,ebola
+Mali,10/29/2015,16,6,ebola
+Mali,10/30/2015,16,6,ebola
+Mali,11/3/2015,16,6,ebola
+Mali,11/5/2015,16,6,ebola
+Mali,11/6/2015,16,6,ebola
+Mali,11/10/2015,16,6,ebola
+Mali,11/11/2015,16,6,ebola
+Mali,11/12/2015,16,6,ebola
+Mali,11/16/2015,16,6,ebola
+Mali,11/17/2015,16,6,ebola
+Mali,11/20/2015,16,6,ebola
+Mali,11/24/2015,16,6,ebola
+Mali,11/26/2015,16,6,ebola
+Mali,12/1/2015,16,6,ebola
+Mali,12/2/2015,16,6,ebola
+Mali,12/3/2015,16,6,ebola
+Mali,12/9/2015,16,6,ebola
+Mali,12/10/2015,16,6,ebola
+Mali,12/11/2015,16,6,ebola
+Mali,12/15/2015,16,6,ebola
+Mali,12/16/2015,16,6,ebola
+Mali,12/17/2015,16,6,ebola
+Mali,12/22/2015,16,6,ebola
+Mali,12/23/2015,16,6,ebola
+Mali,12/29/2015,16,6,ebola
+Mali,3/23/2016,16,6,ebola
+Nigeria,8/29/2014,38,14,ebola
+Nigeria,9/5/2014,44,16,ebola
+Nigeria,9/8/2014,42,16,ebola
+Nigeria,9/12/2014,42,16,ebola
+Nigeria,9/16/2014,42,16,ebola
+Nigeria,9/18/2014,42,16,ebola
+Nigeria,9/22/2014,40,16,ebola
+Nigeria,9/24/2014,40,16,ebola
+Nigeria,9/26/2014,40,16,ebola
+Nigeria,10/1/2014,40,16,ebola
+Nigeria,10/3/2014,40,16,ebola
+Nigeria,10/8/2014,40,16,ebola
+Nigeria,10/10/2014,40,16,ebola
+Nigeria,10/15/2014,40,16,ebola
+Nigeria,10/17/2014,40,16,ebola
+Nigeria,10/22/2014,40,16,ebola
+Nigeria,10/25/2014,40,16,ebola
+Nigeria,10/29/2014,40,16,ebola
+Nigeria,10/31/2014,40,16,ebola
+Nigeria,11/5/2014,40,16,ebola
+Nigeria,11/7/2014,40,16,ebola
+Nigeria,11/12/2014,40,16,ebola
+Nigeria,11/14/2014,40,16,ebola
+Nigeria,11/19/2014,40,16,ebola
+Nigeria,11/21/2014,40,16,ebola
+Nigeria,11/26/2014,40,16,ebola
+Nigeria,12/1/2014,40,16,ebola
+Nigeria,12/3/2014,40,16,ebola
+Nigeria,12/10/2014,40,16,ebola
+Nigeria,12/15/2014,40,16,ebola
+Nigeria,12/17/2014,40,16,ebola
+Nigeria,12/22/2014,40,16,ebola
+Nigeria,12/23/2014,40,16,ebola
+Nigeria,12/24/2014,40,16,ebola
+Nigeria,12/26/2014,40,16,ebola
+Nigeria,12/29/2014,40,16,ebola
+Nigeria,12/30/2014,40,16,ebola
+Nigeria,12/31/2014,40,16,ebola
+Nigeria,1/2/2015,40,16,ebola
+Nigeria,1/5/2015,40,16,ebola
+Nigeria,1/6/2015,40,16,ebola
+Nigeria,1/7/2015,40,16,ebola
+Nigeria,1/14/2015,40,16,ebola
+Nigeria,1/15/2015,40,16,ebola
+Nigeria,1/16/2015,40,16,ebola
+Nigeria,1/19/2015,40,16,ebola
+Nigeria,1/20/2015,40,16,ebola
+Nigeria,1/21/2015,40,16,ebola
+Nigeria,1/22/2015,40,16,ebola
+Nigeria,1/23/2015,40,16,ebola
+Nigeria,1/26/2015,40,16,ebola
+Nigeria,1/27/2015,40,16,ebola
+Nigeria,1/28/2015,40,16,ebola
+Nigeria,1/29/2015,40,16,ebola
+Nigeria,1/30/2015,40,16,ebola
+Nigeria,2/2/2015,40,16,ebola
+Nigeria,2/3/2015,40,16,ebola
+Nigeria,2/4/2015,40,16,ebola
+Nigeria,2/5/2015,40,16,ebola
+Nigeria,2/6/2015,40,16,ebola
+Nigeria,2/10/2015,40,16,ebola
+Nigeria,2/11/2015,40,16,ebola
+Nigeria,2/12/2015,40,16,ebola
+Nigeria,2/13/2015,40,16,ebola
+Nigeria,2/16/2015,40,16,ebola
+Nigeria,2/17/2015,40,16,ebola
+Nigeria,2/18/2015,40,16,ebola
+Nigeria,2/19/2015,40,16,ebola
+Nigeria,2/20/2015,40,16,ebola
+Nigeria,2/23/2015,40,16,ebola
+Nigeria,2/25/2015,40,16,ebola
+Nigeria,2/26/2015,40,16,ebola
+Nigeria,2/27/2015,40,16,ebola
+Nigeria,3/2/2015,40,16,ebola
+Nigeria,3/4/2015,40,16,ebola
+Nigeria,3/5/2015,40,16,ebola
+Nigeria,3/6/2015,40,16,ebola
+Nigeria,3/10/2015,40,16,ebola
+Nigeria,3/11/2015,40,16,ebola
+Nigeria,3/12/2015,40,16,ebola
+Nigeria,3/13/2015,40,16,ebola
+Nigeria,3/16/2015,40,16,ebola
+Nigeria,3/17/2015,40,16,ebola
+Nigeria,3/18/2015,40,16,ebola
+Nigeria,3/20/2015,40,16,ebola
+Nigeria,3/23/2015,40,16,ebola
+Nigeria,3/24/2015,40,16,ebola
+Nigeria,3/25/2015,40,16,ebola
+Nigeria,3/26/2015,40,16,ebola
+Nigeria,3/27/2015,40,16,ebola
+Nigeria,4/7/2015,40,16,ebola
+Nigeria,4/9/2015,40,16,ebola
+Nigeria,4/13/2015,40,16,ebola
+Nigeria,4/14/2015,40,16,ebola
+Nigeria,4/15/2015,40,16,ebola
+Nigeria,4/16/2015,40,16,ebola
+Nigeria,4/17/2015,40,16,ebola
+Nigeria,4/20/2015,40,16,ebola
+Nigeria,4/21/2015,40,16,ebola
+Nigeria,4/22/2015,40,16,ebola
+Nigeria,4/23/2015,40,16,ebola
+Nigeria,4/24/2015,40,16,ebola
+Nigeria,4/27/2015,40,16,ebola
+Nigeria,4/28/2015,40,16,ebola
+Nigeria,4/30/2015,40,16,ebola
+Nigeria,5/1/2015,40,16,ebola
+Nigeria,5/4/2015,40,16,ebola
+Nigeria,5/5/2015,40,16,ebola
+Nigeria,5/6/2015,40,16,ebola
+Nigeria,5/7/2015,40,16,ebola
+Nigeria,5/8/2015,40,16,ebola
+Nigeria,5/11/2015,40,16,ebola
+Nigeria,5/12/2015,40,16,ebola
+Nigeria,5/13/2015,40,16,ebola
+Nigeria,5/14/2015,40,16,ebola
+Nigeria,5/15/2015,40,16,ebola
+Nigeria,5/18/2015,40,16,ebola
+Nigeria,5/19/2015,40,16,ebola
+Nigeria,5/20/2015,40,16,ebola
+Nigeria,5/21/2015,40,16,ebola
+Nigeria,5/22/2015,40,16,ebola
+Nigeria,5/25/2015,40,16,ebola
+Nigeria,5/26/2015,40,16,ebola
+Nigeria,5/27/2015,40,16,ebola
+Nigeria,5/28/2015,40,16,ebola
+Nigeria,5/29/2015,40,16,ebola
+Nigeria,6/1/2015,40,16,ebola
+Nigeria,6/2/2015,40,16,ebola
+Nigeria,6/3/2015,40,16,ebola
+Nigeria,6/4/2015,40,16,ebola
+Nigeria,6/5/2015,40,16,ebola
+Nigeria,6/8/2015,40,16,ebola
+Nigeria,6/9/2015,40,16,ebola
+Nigeria,6/10/2015,40,16,ebola
+Nigeria,6/11/2015,40,16,ebola
+Nigeria,6/12/2015,40,16,ebola
+Nigeria,6/15/2015,40,16,ebola
+Nigeria,6/16/2015,40,16,ebola
+Nigeria,6/17/2015,40,16,ebola
+Nigeria,6/18/2015,40,16,ebola
+Nigeria,6/19/2015,40,16,ebola
+Nigeria,6/22/2015,40,16,ebola
+Nigeria,6/23/2015,40,16,ebola
+Nigeria,6/24/2015,40,16,ebola
+Nigeria,6/25/2015,40,16,ebola
+Nigeria,6/26/2015,40,16,ebola
+Nigeria,6/29/2015,40,16,ebola
+Nigeria,6/30/2015,40,16,ebola
+Nigeria,7/1/2015,40,16,ebola
+Nigeria,7/2/2015,40,16,ebola
+Nigeria,7/3/2015,40,16,ebola
+Nigeria,7/6/2015,40,16,ebola
+Nigeria,7/7/2015,40,16,ebola
+Nigeria,7/8/2015,40,16,ebola
+Nigeria,7/9/2015,40,16,ebola
+Nigeria,7/10/2015,40,16,ebola
+Nigeria,7/13/2015,40,16,ebola
+Nigeria,7/14/2015,40,16,ebola
+Nigeria,7/15/2015,40,16,ebola
+Nigeria,7/16/2015,40,16,ebola
+Nigeria,7/17/2015,40,16,ebola
+Nigeria,7/20/2015,40,16,ebola
+Nigeria,7/21/2015,40,16,ebola
+Nigeria,7/22/2015,40,16,ebola
+Nigeria,7/23/2015,40,16,ebola
+Nigeria,7/24/2015,40,16,ebola
+Nigeria,7/27/2015,40,16,ebola
+Nigeria,7/28/2015,40,16,ebola
+Nigeria,7/29/2015,40,16,ebola
+Nigeria,7/30/2015,40,16,ebola
+Nigeria,7/31/2015,40,16,ebola
+Nigeria,8/3/2015,40,16,ebola
+Nigeria,8/4/2015,40,16,ebola
+Nigeria,8/5/2015,40,16,ebola
+Nigeria,8/6/2015,40,16,ebola
+Nigeria,8/7/2015,40,16,ebola
+Nigeria,8/10/2015,40,16,ebola
+Nigeria,8/11/2015,40,16,ebola
+Nigeria,8/12/2015,40,16,ebola
+Nigeria,8/13/2015,40,16,ebola
+Nigeria,8/14/2015,40,16,ebola
+Nigeria,8/17/2015,40,16,ebola
+Nigeria,8/18/2015,40,16,ebola
+Nigeria,8/19/2015,40,16,ebola
+Nigeria,8/20/2015,40,16,ebola
+Nigeria,8/21/2015,40,16,ebola
+Nigeria,8/24/2015,40,16,ebola
+Nigeria,8/25/2015,40,16,ebola
+Nigeria,8/26/2015,40,16,ebola
+Nigeria,8/27/2015,40,16,ebola
+Nigeria,8/28/2015,40,16,ebola
+Nigeria,8/31/2015,40,16,ebola
+Nigeria,9/1/2015,40,16,ebola
+Nigeria,9/2/2015,40,16,ebola
+Nigeria,9/3/2015,40,16,ebola
+Nigeria,9/4/2015,40,16,ebola
+Nigeria,9/7/2015,40,16,ebola
+Nigeria,9/8/2015,40,16,ebola
+Nigeria,9/9/2015,40,16,ebola
+Nigeria,9/10/2015,40,16,ebola
+Nigeria,9/11/2015,40,16,ebola
+Nigeria,9/14/2015,40,16,ebola
+Nigeria,9/15/2015,40,16,ebola
+Nigeria,9/16/2015,40,16,ebola
+Nigeria,9/17/2015,40,16,ebola
+Nigeria,9/18/2015,40,16,ebola
+Nigeria,9/21/2015,40,16,ebola
+Nigeria,9/22/2015,40,16,ebola
+Nigeria,9/23/2015,40,16,ebola
+Nigeria,9/24/2015,40,16,ebola
+Nigeria,9/25/2015,40,16,ebola
+Nigeria,9/28/2015,40,16,ebola
+Nigeria,9/29/2015,40,16,ebola
+Nigeria,9/30/2015,40,16,ebola
+Nigeria,10/1/2015,40,16,ebola
+Nigeria,10/2/2015,40,16,ebola
+Nigeria,10/5/2015,40,16,ebola
+Nigeria,10/6/2015,40,16,ebola
+Nigeria,10/7/2015,40,16,ebola
+Nigeria,10/8/2015,40,16,ebola
+Nigeria,10/9/2015,40,16,ebola
+Nigeria,10/13/2015,40,16,ebola
+Nigeria,10/15/2015,40,16,ebola
+Nigeria,10/16/2015,40,16,ebola
+Nigeria,10/20/2015,40,16,ebola
+Nigeria,10/22/2015,40,16,ebola
+Nigeria,10/23/2015,40,16,ebola
+Nigeria,10/26/2015,40,16,ebola
+Nigeria,10/27/2015,40,16,ebola
+Nigeria,10/29/2015,40,16,ebola
+Nigeria,10/30/2015,40,16,ebola
+Nigeria,11/3/2015,40,16,ebola
+Nigeria,11/5/2015,40,16,ebola
+Nigeria,11/6/2015,40,16,ebola
+Nigeria,11/10/2015,40,16,ebola
+Nigeria,11/11/2015,40,16,ebola
+Nigeria,11/12/2015,40,16,ebola
+Nigeria,11/16/2015,40,16,ebola
+Nigeria,11/17/2015,40,16,ebola
+Nigeria,11/20/2015,40,16,ebola
+Nigeria,11/24/2015,40,16,ebola
+Nigeria,11/26/2015,40,16,ebola
+Nigeria,12/1/2015,40,16,ebola
+Nigeria,12/2/2015,40,16,ebola
+Nigeria,12/3/2015,40,16,ebola
+Nigeria,12/9/2015,40,16,ebola
+Nigeria,12/10/2015,40,16,ebola
+Nigeria,12/11/2015,40,16,ebola
+Nigeria,12/15/2015,40,16,ebola
+Nigeria,12/16/2015,40,16,ebola
+Nigeria,12/17/2015,40,16,ebola
+Nigeria,12/22/2015,40,16,ebola
+Nigeria,12/23/2015,40,16,ebola
+Nigeria,12/29/2015,40,16,ebola
+Nigeria,3/23/2016,40,16,ebola
+Senegal,9/5/2014,2,0,ebola
+Senegal,9/8/2014,6,0,ebola
+Senegal,9/12/2014,6,0,ebola
+Senegal,9/16/2014,2,0,ebola
+Senegal,9/18/2014,2,0,ebola
+Senegal,9/22/2014,2,0,ebola
+Senegal,9/24/2014,2,0,ebola
+Senegal,9/26/2014,2,0,ebola
+Senegal,10/1/2014,2,0,ebola
+Senegal,10/3/2014,2,0,ebola
+Senegal,10/8/2014,2,0,ebola
+Senegal,10/10/2014,2,0,ebola
+Senegal,10/15/2014,2,0,ebola
+Senegal,10/17/2014,2,0,ebola
+Senegal,10/22/2014,2,0,ebola
+Senegal,10/25/2014,2,0,ebola
+Senegal,10/29/2014,2,0,ebola
+Senegal,10/31/2014,2,0,ebola
+Senegal,11/5/2014,2,0,ebola
+Senegal,11/7/2014,2,0,ebola
+Senegal,11/12/2014,2,0,ebola
+Senegal,11/14/2014,2,0,ebola
+Senegal,11/19/2014,2,0,ebola
+Senegal,11/21/2014,2,0,ebola
+Senegal,11/26/2014,2,0,ebola
+Senegal,12/1/2014,2,0,ebola
+Senegal,12/3/2014,2,0,ebola
+Senegal,12/10/2014,2,0,ebola
+Senegal,12/15/2014,2,0,ebola
+Senegal,12/17/2014,2,0,ebola
+Senegal,12/22/2014,2,0,ebola
+Senegal,12/23/2014,2,0,ebola
+Senegal,12/24/2014,2,0,ebola
+Senegal,12/26/2014,2,0,ebola
+Senegal,12/29/2014,2,0,ebola
+Senegal,12/30/2014,2,0,ebola
+Senegal,12/31/2014,2,0,ebola
+Senegal,1/2/2015,2,0,ebola
+Senegal,1/5/2015,2,0,ebola
+Senegal,1/6/2015,2,0,ebola
+Senegal,1/7/2015,2,0,ebola
+Senegal,1/14/2015,2,0,ebola
+Senegal,1/15/2015,2,0,ebola
+Senegal,1/16/2015,2,0,ebola
+Senegal,1/19/2015,2,0,ebola
+Senegal,1/20/2015,2,0,ebola
+Senegal,1/21/2015,2,0,ebola
+Senegal,1/22/2015,2,0,ebola
+Senegal,1/23/2015,2,0,ebola
+Senegal,1/26/2015,2,0,ebola
+Senegal,1/27/2015,2,0,ebola
+Senegal,1/28/2015,2,0,ebola
+Senegal,1/29/2015,2,0,ebola
+Senegal,1/30/2015,2,0,ebola
+Senegal,2/2/2015,2,0,ebola
+Senegal,2/3/2015,2,0,ebola
+Senegal,2/4/2015,2,0,ebola
+Senegal,2/5/2015,2,0,ebola
+Senegal,2/6/2015,2,0,ebola
+Senegal,2/10/2015,2,0,ebola
+Senegal,2/11/2015,2,0,ebola
+Senegal,2/12/2015,2,0,ebola
+Senegal,2/13/2015,2,0,ebola
+Senegal,2/16/2015,2,0,ebola
+Senegal,2/17/2015,2,0,ebola
+Senegal,2/18/2015,2,0,ebola
+Senegal,2/19/2015,2,0,ebola
+Senegal,2/20/2015,2,0,ebola
+Senegal,2/23/2015,2,0,ebola
+Senegal,2/25/2015,2,0,ebola
+Senegal,2/26/2015,2,0,ebola
+Senegal,2/27/2015,2,0,ebola
+Senegal,3/2/2015,2,0,ebola
+Senegal,3/4/2015,2,0,ebola
+Senegal,3/5/2015,2,0,ebola
+Senegal,3/6/2015,2,0,ebola
+Senegal,3/10/2015,2,0,ebola
+Senegal,3/11/2015,2,0,ebola
+Senegal,3/12/2015,2,0,ebola
+Senegal,3/13/2015,2,0,ebola
+Senegal,3/16/2015,2,0,ebola
+Senegal,3/17/2015,2,0,ebola
+Senegal,3/18/2015,2,0,ebola
+Senegal,3/20/2015,2,0,ebola
+Senegal,3/23/2015,2,0,ebola
+Senegal,3/24/2015,2,0,ebola
+Senegal,3/25/2015,2,0,ebola
+Senegal,3/26/2015,2,0,ebola
+Senegal,3/27/2015,2,0,ebola
+Senegal,4/7/2015,2,0,ebola
+Senegal,4/9/2015,2,0,ebola
+Senegal,4/13/2015,2,0,ebola
+Senegal,4/14/2015,2,0,ebola
+Senegal,4/15/2015,2,0,ebola
+Senegal,4/16/2015,2,0,ebola
+Senegal,4/17/2015,2,0,ebola
+Senegal,4/20/2015,2,0,ebola
+Senegal,4/21/2015,2,0,ebola
+Senegal,4/22/2015,2,0,ebola
+Senegal,4/23/2015,2,0,ebola
+Senegal,4/24/2015,2,0,ebola
+Senegal,4/27/2015,2,0,ebola
+Senegal,4/28/2015,2,0,ebola
+Senegal,4/30/2015,2,0,ebola
+Senegal,5/1/2015,2,0,ebola
+Senegal,5/4/2015,2,0,ebola
+Senegal,5/5/2015,2,0,ebola
+Senegal,5/6/2015,2,0,ebola
+Senegal,5/7/2015,2,0,ebola
+Senegal,5/8/2015,2,0,ebola
+Senegal,5/11/2015,2,0,ebola
+Senegal,5/12/2015,2,0,ebola
+Senegal,5/13/2015,2,0,ebola
+Senegal,5/14/2015,2,0,ebola
+Senegal,5/15/2015,2,0,ebola
+Senegal,5/18/2015,2,0,ebola
+Senegal,5/19/2015,2,0,ebola
+Senegal,5/20/2015,2,0,ebola
+Senegal,5/21/2015,2,0,ebola
+Senegal,5/22/2015,2,0,ebola
+Senegal,5/25/2015,2,0,ebola
+Senegal,5/26/2015,2,0,ebola
+Senegal,5/27/2015,2,0,ebola
+Senegal,5/28/2015,2,0,ebola
+Senegal,5/29/2015,2,0,ebola
+Senegal,6/1/2015,2,0,ebola
+Senegal,6/2/2015,2,0,ebola
+Senegal,6/3/2015,2,0,ebola
+Senegal,6/4/2015,2,0,ebola
+Senegal,6/5/2015,2,0,ebola
+Senegal,6/8/2015,2,0,ebola
+Senegal,6/9/2015,2,0,ebola
+Senegal,6/10/2015,2,0,ebola
+Senegal,6/11/2015,2,0,ebola
+Senegal,6/12/2015,2,0,ebola
+Senegal,6/15/2015,2,0,ebola
+Senegal,6/16/2015,2,0,ebola
+Senegal,6/17/2015,2,0,ebola
+Senegal,6/18/2015,2,0,ebola
+Senegal,6/19/2015,2,0,ebola
+Senegal,6/22/2015,2,0,ebola
+Senegal,6/23/2015,2,0,ebola
+Senegal,6/24/2015,2,0,ebola
+Senegal,6/25/2015,2,0,ebola
+Senegal,6/26/2015,2,0,ebola
+Senegal,6/29/2015,2,0,ebola
+Senegal,6/30/2015,2,0,ebola
+Senegal,7/1/2015,2,0,ebola
+Senegal,7/2/2015,2,0,ebola
+Senegal,7/3/2015,2,0,ebola
+Senegal,7/6/2015,2,0,ebola
+Senegal,7/7/2015,2,0,ebola
+Senegal,7/8/2015,2,0,ebola
+Senegal,7/9/2015,2,0,ebola
+Senegal,7/10/2015,2,0,ebola
+Senegal,7/13/2015,2,0,ebola
+Senegal,7/14/2015,2,0,ebola
+Senegal,7/15/2015,2,0,ebola
+Senegal,7/16/2015,2,0,ebola
+Senegal,7/17/2015,2,0,ebola
+Senegal,7/20/2015,2,0,ebola
+Senegal,7/21/2015,2,0,ebola
+Senegal,7/22/2015,2,0,ebola
+Senegal,7/23/2015,2,0,ebola
+Senegal,7/24/2015,2,0,ebola
+Senegal,7/27/2015,2,0,ebola
+Senegal,7/28/2015,2,0,ebola
+Senegal,7/29/2015,2,0,ebola
+Senegal,7/30/2015,2,0,ebola
+Senegal,7/31/2015,2,0,ebola
+Senegal,8/3/2015,2,0,ebola
+Senegal,8/4/2015,2,0,ebola
+Senegal,8/5/2015,2,0,ebola
+Senegal,8/6/2015,2,0,ebola
+Senegal,8/7/2015,2,0,ebola
+Senegal,8/10/2015,2,0,ebola
+Senegal,8/11/2015,2,0,ebola
+Senegal,8/12/2015,2,0,ebola
+Senegal,8/13/2015,2,0,ebola
+Senegal,8/14/2015,2,0,ebola
+Senegal,8/17/2015,2,0,ebola
+Senegal,8/18/2015,2,0,ebola
+Senegal,8/19/2015,2,0,ebola
+Senegal,8/20/2015,2,0,ebola
+Senegal,8/21/2015,2,0,ebola
+Senegal,8/24/2015,2,0,ebola
+Senegal,8/25/2015,2,0,ebola
+Senegal,8/26/2015,2,0,ebola
+Senegal,8/27/2015,2,0,ebola
+Senegal,8/28/2015,2,0,ebola
+Senegal,8/31/2015,2,0,ebola
+Senegal,9/1/2015,2,0,ebola
+Senegal,9/2/2015,2,0,ebola
+Senegal,9/3/2015,2,0,ebola
+Senegal,9/4/2015,2,0,ebola
+Senegal,9/7/2015,2,0,ebola
+Senegal,9/8/2015,2,0,ebola
+Senegal,9/9/2015,2,0,ebola
+Senegal,9/10/2015,2,0,ebola
+Senegal,9/11/2015,2,0,ebola
+Senegal,9/14/2015,2,0,ebola
+Senegal,9/15/2015,2,0,ebola
+Senegal,9/16/2015,2,0,ebola
+Senegal,9/17/2015,2,0,ebola
+Senegal,9/18/2015,2,0,ebola
+Senegal,9/21/2015,2,0,ebola
+Senegal,9/22/2015,2,0,ebola
+Senegal,9/23/2015,2,0,ebola
+Senegal,9/24/2015,2,0,ebola
+Senegal,9/25/2015,2,0,ebola
+Senegal,9/28/2015,2,0,ebola
+Senegal,9/29/2015,2,0,ebola
+Senegal,9/30/2015,2,0,ebola
+Senegal,10/1/2015,2,0,ebola
+Senegal,10/2/2015,2,0,ebola
+Senegal,10/5/2015,2,0,ebola
+Senegal,10/6/2015,2,0,ebola
+Senegal,10/7/2015,2,0,ebola
+Senegal,10/8/2015,2,0,ebola
+Senegal,10/9/2015,2,0,ebola
+Senegal,10/13/2015,2,0,ebola
+Senegal,10/15/2015,2,0,ebola
+Senegal,10/16/2015,2,0,ebola
+Senegal,10/20/2015,2,0,ebola
+Senegal,10/22/2015,2,0,ebola
+Senegal,10/23/2015,2,0,ebola
+Senegal,10/26/2015,2,0,ebola
+Senegal,10/27/2015,2,0,ebola
+Senegal,10/29/2015,2,0,ebola
+Senegal,10/30/2015,2,0,ebola
+Senegal,11/3/2015,2,0,ebola
+Senegal,11/5/2015,2,0,ebola
+Senegal,11/6/2015,2,0,ebola
+Senegal,11/10/2015,2,0,ebola
+Senegal,11/11/2015,2,0,ebola
+Senegal,11/12/2015,2,0,ebola
+Senegal,11/16/2015,2,0,ebola
+Senegal,11/17/2015,2,0,ebola
+Senegal,11/20/2015,2,0,ebola
+Senegal,11/24/2015,2,0,ebola
+Senegal,11/26/2015,2,0,ebola
+Senegal,12/1/2015,2,0,ebola
+Senegal,12/2/2015,2,0,ebola
+Senegal,12/3/2015,2,0,ebola
+Senegal,12/9/2015,2,0,ebola
+Senegal,12/10/2015,2,0,ebola
+Senegal,12/11/2015,2,0,ebola
+Senegal,12/15/2015,2,0,ebola
+Senegal,12/16/2015,2,0,ebola
+Senegal,12/17/2015,2,0,ebola
+Senegal,12/22/2015,2,0,ebola
+Senegal,12/23/2015,2,0,ebola
+Senegal,12/29/2015,2,0,ebola
+Senegal,3/23/2016,2,0,ebola
+Sierra Leone,8/29/2014,2052,836,ebola
+Sierra Leone,9/5/2014,2522,971,ebola
+Sierra Leone,9/8/2014,2722,1007,ebola
+Sierra Leone,9/12/2014,2848,1036,ebola
+Sierra Leone,9/16/2014,3240,1113,ebola
+Sierra Leone,9/18/2014,3346,1113,ebola
+Sierra Leone,9/22/2014,3626,1175,ebola
+Sierra Leone,9/24/2014,3880,1183,ebola
+Sierra Leone,9/26/2014,4042,1199,ebola
+Sierra Leone,10/1/2014,4608,1233,ebola
+Sierra Leone,10/3/2014,4874,1235,ebola
+Sierra Leone,10/8/2014,5578,1727,ebola
+Sierra Leone,10/10/2014,5900,1825,ebola
+Sierra Leone,10/15/2014,6504,2266,ebola
+Sierra Leone,10/17/2014,6820,2293,ebola
+Sierra Leone,10/22/2014,7412,2409,ebola
+Sierra Leone,10/25/2014,7792,2453,ebola
+Sierra Leone,10/29/2014,10470,1500,ebola
+Sierra Leone,10/31/2014,10676,1510,ebola
+Sierra Leone,11/5/2014,9518,2105,ebola
+Sierra Leone,11/7/2014,9724,2225,ebola
+Sierra Leone,11/12/2014,10736,2303,ebola
+Sierra Leone,11/14/2014,11172,2339,ebola
+Sierra Leone,11/19/2014,12146,2465,ebola
+Sierra Leone,11/21/2014,12380,2499,ebola
+Sierra Leone,11/26/2014,13198,2761,ebola
+Sierra Leone,12/1/2014,14218,3025,ebola
+Sierra Leone,12/3/2014,14624,3131,ebola
+Sierra Leone,12/10/2014,15794,3501,ebola
+Sierra Leone,12/15/2014,16546,4031,ebola
+Sierra Leone,12/17/2014,16712,4135,ebola
+Sierra Leone,12/22/2014,17878,4954,ebola
+Sierra Leone,12/23/2014,18008,5006,ebola
+Sierra Leone,12/24/2014,18008,5006,ebola
+Sierra Leone,12/26/2014,18406,5152,ebola
+Sierra Leone,12/29/2014,18818,5306,ebola
+Sierra Leone,12/30/2014,18892,5358,ebola
+Sierra Leone,12/31/2014,18892,5358,ebola
+Sierra Leone,1/2/2015,19266,5496,ebola
+Sierra Leone,1/5/2015,19544,5672,ebola
+Sierra Leone,1/6/2015,19488,5728,ebola
+Sierra Leone,1/7/2015,19488,5728,ebola
+Sierra Leone,1/8/2015,20060,5796,ebola
+Sierra Leone,1/9/2015,20060,5796,ebola
+Sierra Leone,1/12/2015,20188,5940,ebola
+Sierra Leone,1/13/2015,20188,5940,ebola
+Sierra Leone,1/14/2015,20248,5966,ebola
+Sierra Leone,1/15/2015,20300,5976,ebola
+Sierra Leone,1/16/2015,20372,6008,ebola
+Sierra Leone,1/19/2015,20612,6106,ebola
+Sierra Leone,1/20/2015,20680,6132,ebola
+Sierra Leone,1/21/2015,20680,6132,ebola
+Sierra Leone,1/22/2015,20724,6148,ebola
+Sierra Leone,1/23/2015,20800,6160,ebola
+Sierra Leone,1/26/2015,20982,6232,ebola
+Sierra Leone,1/27/2015,21036,6240,ebola
+Sierra Leone,1/28/2015,21036,6240,ebola
+Sierra Leone,1/29/2015,21074,6256,ebola
+Sierra Leone,1/30/2015,21122,6274,ebola
+Sierra Leone,2/2/2015,21414,6390,ebola
+Sierra Leone,2/3/2015,21480,6394,ebola
+Sierra Leone,2/4/2015,21480,6394,ebola
+Sierra Leone,2/5/2015,21512,6414,ebola
+Sierra Leone,2/6/2015,21584,6444,ebola
+Sierra Leone,2/10/2015,21868,6524,ebola
+Sierra Leone,2/11/2015,21868,6524,ebola
+Sierra Leone,2/12/2015,21908,6542,ebola
+Sierra Leone,2/13/2015,21974,6568,ebola
+Sierra Leone,2/16/2015,22148,6644,ebola
+Sierra Leone,2/17/2015,22206,6658,ebola
+Sierra Leone,2/18/2015,22206,6658,ebola
+Sierra Leone,2/19/2015,22310,6688,ebola
+Sierra Leone,2/20/2015,22310,6688,ebola
+Sierra Leone,2/23/2015,22310,6688,ebola
+Sierra Leone,2/25/2015,22602,6764,ebola
+Sierra Leone,2/26/2015,22682,6800,ebola
+Sierra Leone,2/27/2015,22740,6822,ebola
+Sierra Leone,3/2/2015,22886,6902,ebola
+Sierra Leone,3/4/2015,22886,6902,ebola
+Sierra Leone,3/5/2015,22994,6972,ebola
+Sierra Leone,3/6/2015,23034,6994,ebola
+Sierra Leone,3/10/2015,23238,7100,ebola
+Sierra Leone,3/11/2015,23238,7100,ebola
+Sierra Leone,3/12/2015,23354,7152,ebola
+Sierra Leone,3/13/2015,23392,7168,ebola
+Sierra Leone,3/16/2015,23484,7216,ebola
+Sierra Leone,3/17/2015,23502,7224,ebola
+Sierra Leone,3/18/2015,23502,7224,ebola
+Sierra Leone,3/20/2015,23588,7266,ebola
+Sierra Leone,3/23/2015,23658,7326,ebola
+Sierra Leone,3/24/2015,23682,7336,ebola
+Sierra Leone,3/25/2015,23682,7336,ebola
+Sierra Leone,3/26/2015,23732,7370,ebola
+Sierra Leone,3/27/2015,23778,7388,ebola
+Sierra Leone,4/7/2015,24278,7506,ebola
+Sierra Leone,4/9/2015,24310,7524,ebola
+Sierra Leone,4/13/2015,24376,7550,ebola
+Sierra Leone,4/14/2015,24402,7556,ebola
+Sierra Leone,4/15/2015,24402,7556,ebola
+Sierra Leone,4/16/2015,24446,7572,ebola
+Sierra Leone,4/17/2015,24488,7572,ebola
+Sierra Leone,4/20/2015,24512,7586,ebola
+Sierra Leone,4/21/2015,24530,7596,ebola
+Sierra Leone,4/22/2015,24534,7596,ebola
+Sierra Leone,4/23/2015,24588,7612,ebola
+Sierra Leone,4/24/2015,24626,7614,ebola
+Sierra Leone,4/27/2015,24724,7632,ebola
+Sierra Leone,4/28/2015,24742,7640,ebola
+Sierra Leone,4/30/2015,24774,7644,ebola
+Sierra Leone,5/1/2015,24796,7644,ebola
+Sierra Leone,5/4/2015,24852,7646,ebola
+Sierra Leone,5/5/2015,24880,7648,ebola
+Sierra Leone,5/6/2015,24880,7648,ebola
+Sierra Leone,5/7/2015,24940,7650,ebola
+Sierra Leone,5/8/2015,24984,7650,ebola
+Sierra Leone,5/11/2015,25038,7650,ebola
+Sierra Leone,5/12/2015,25046,7650,ebola
+Sierra Leone,5/13/2015,25038,7650,ebola
+Sierra Leone,5/14/2015,25072,7650,ebola
+Sierra Leone,5/15/2015,25080,7650,ebola
+Sierra Leone,5/18/2015,25186,7654,ebola
+Sierra Leone,5/19/2015,25264,7656,ebola
+Sierra Leone,5/20/2015,25264,7656,ebola
+Sierra Leone,5/21/2015,25312,7656,ebola
+Sierra Leone,5/22/2015,25332,7656,ebola
+Sierra Leone,5/25/2015,25392,7658,ebola
+Sierra Leone,5/26/2015,25412,7658,ebola
+Sierra Leone,5/27/2015,25412,7658,ebola
+Sierra Leone,5/28/2015,25470,7664,ebola
+Sierra Leone,5/29/2015,25490,7664,ebola
+Sierra Leone,6/1/2015,25632,7664,ebola
+Sierra Leone,6/2/2015,25654,7666,ebola
+Sierra Leone,6/3/2015,25654,7666,ebola
+Sierra Leone,6/4/2015,25700,7666,ebola
+Sierra Leone,6/5/2015,25718,7666,ebola
+Sierra Leone,6/8/2015,25768,7668,ebola
+Sierra Leone,6/9/2015,25802,7672,ebola
+Sierra Leone,6/10/2015,25802,7672,ebola
+Sierra Leone,6/11/2015,25822,7676,ebola
+Sierra Leone,6/12/2015,25864,7676,ebola
+Sierra Leone,6/15/2015,25924,7680,ebola
+Sierra Leone,6/16/2015,25930,7680,ebola
+Sierra Leone,6/17/2015,25930,7680,ebola
+Sierra Leone,6/18/2015,25980,7686,ebola
+Sierra Leone,6/19/2015,26024,7694,ebola
+Sierra Leone,6/22/2015,26102,7698,ebola
+Sierra Leone,6/23/2015,26118,7698,ebola
+Sierra Leone,6/24/2015,26118,7698,ebola
+Sierra Leone,6/25/2015,26166,7704,ebola
+Sierra Leone,6/26/2015,26186,7704,ebola
+Sierra Leone,6/29/2015,26230,7706,ebola
+Sierra Leone,6/30/2015,26238,7706,ebola
+Sierra Leone,7/1/2015,26238,7706,ebola
+Sierra Leone,7/2/2015,26258,7708,ebola
+Sierra Leone,7/3/2015,26270,7712,ebola
+Sierra Leone,7/6/2015,26300,7722,ebola
+Sierra Leone,7/7/2015,26310,7722,ebola
+Sierra Leone,7/8/2015,26310,7722,ebola
+Sierra Leone,7/9/2015,26338,7724,ebola
+Sierra Leone,7/10/2015,26354,7724,ebola
+Sierra Leone,7/13/2015,26402,7734,ebola
+Sierra Leone,7/14/2015,26418,7736,ebola
+Sierra Leone,7/15/2015,26418,7736,ebola
+Sierra Leone,7/16/2015,26418,7736,ebola
+Sierra Leone,7/17/2015,26418,7736,ebola
+Sierra Leone,7/20/2015,26482,7740,ebola
+Sierra Leone,7/21/2015,26500,7740,ebola
+Sierra Leone,7/22/2015,26500,7740,ebola
+Sierra Leone,7/23/2015,26524,7740,ebola
+Sierra Leone,7/24/2015,26528,7740,ebola
+Sierra Leone,7/27/2015,26566,7744,ebola
+Sierra Leone,7/28/2015,26580,7744,ebola
+Sierra Leone,7/29/2015,26580,7744,ebola
+Sierra Leone,7/30/2015,26758,7744,ebola
+Sierra Leone,7/31/2015,26774,7744,ebola
+Sierra Leone,8/3/2015,26804,7744,ebola
+Sierra Leone,8/4/2015,26812,7744,ebola
+Sierra Leone,8/5/2015,26812,7744,ebola
+Sierra Leone,8/6/2015,26852,7744,ebola
+Sierra Leone,8/7/2015,26856,7744,ebola
+Sierra Leone,8/10/2015,26930,7744,ebola
+Sierra Leone,8/11/2015,26940,7744,ebola
+Sierra Leone,8/12/2015,26940,7744,ebola
+Sierra Leone,8/13/2015,26968,7744,ebola
+Sierra Leone,8/14/2015,26970,7746,ebola
+Sierra Leone,8/17/2015,26978,7746,ebola
+Sierra Leone,8/18/2015,26988,7746,ebola
+Sierra Leone,8/19/2015,26988,7746,ebola
+Sierra Leone,8/20/2015,27036,7746,ebola
+Sierra Leone,8/21/2015,27066,7746,ebola
+Sierra Leone,8/24/2015,27076,7746,ebola
+Sierra Leone,8/25/2015,27082,7746,ebola
+Sierra Leone,8/26/2015,27082,7746,ebola
+Sierra Leone,8/27/2015,27164,7746,ebola
+Sierra Leone,8/28/2015,27172,7746,ebola
+Sierra Leone,8/31/2015,27206,7748,ebola
+Sierra Leone,9/1/2015,27218,7748,ebola
+Sierra Leone,9/2/2015,27218,7748,ebola
+Sierra Leone,9/3/2015,27276,7748,ebola
+Sierra Leone,9/4/2015,27278,7748,ebola
+Sierra Leone,9/7/2015,27340,7748,ebola
+Sierra Leone,9/8/2015,27366,7748,ebola
+Sierra Leone,9/9/2015,27366,7748,ebola
+Sierra Leone,9/10/2015,27394,7748,ebola
+Sierra Leone,9/11/2015,27402,7748,ebola
+Sierra Leone,9/14/2015,27494,7748,ebola
+Sierra Leone,9/15/2015,27512,7748,ebola
+Sierra Leone,9/16/2015,27512,7748,ebola
+Sierra Leone,9/17/2015,27558,7752,ebola
+Sierra Leone,9/18/2015,27570,7752,ebola
+Sierra Leone,9/21/2015,27622,7752,ebola
+Sierra Leone,9/22/2015,27646,7752,ebola
+Sierra Leone,9/23/2015,27646,7752,ebola
+Sierra Leone,9/24/2015,27692,7752,ebola
+Sierra Leone,9/25/2015,27710,7752,ebola
+Sierra Leone,9/28/2015,27788,7752,ebola
+Sierra Leone,9/29/2015,27822,7752,ebola
+Sierra Leone,9/30/2015,27822,7752,ebola
+Sierra Leone,10/1/2015,27856,7752,ebola
+Sierra Leone,10/2/2015,27862,7752,ebola
+Sierra Leone,10/5/2015,27882,7752,ebola
+Sierra Leone,10/6/2015,27890,7752,ebola
+Sierra Leone,10/7/2015,27890,7752,ebola
+Sierra Leone,10/8/2015,27912,7752,ebola
+Sierra Leone,10/9/2015,27914,7752,ebola
+Sierra Leone,10/13/2015,27964,7752,ebola
+Sierra Leone,10/15/2015,27984,7752,ebola
+Sierra Leone,10/16/2015,27984,7752,ebola
+Sierra Leone,10/20/2015,28002,7752,ebola
+Sierra Leone,10/22/2015,28062,7752,ebola
+Sierra Leone,10/23/2015,28076,7752,ebola
+Sierra Leone,10/26/2015,28104,7752,ebola
+Sierra Leone,10/27/2015,28122,7752,ebola
+Sierra Leone,10/29/2015,28132,7752,ebola
+Sierra Leone,10/30/2015,28134,7752,ebola
+Sierra Leone,11/3/2015,28178,7752,ebola
+Sierra Leone,11/5/2015,28208,7752,ebola
+Sierra Leone,11/6/2015,28218,7752,ebola
+Sierra Leone,11/10/2015,28244,7752,ebola
+Sierra Leone,11/11/2015,28244,7752,ebola
+Sierra Leone,11/12/2015,28244,7752,ebola
+Sierra Leone,11/16/2015,28244,7752,ebola
+Sierra Leone,11/17/2015,28244,7752,ebola
+Sierra Leone,11/20/2015,28244,7752,ebola
+Sierra Leone,11/24/2015,28244,7752,ebola
+Sierra Leone,11/26/2015,28244,7752,ebola
+Sierra Leone,12/1/2015,28244,7752,ebola
+Sierra Leone,12/2/2015,28244,7752,ebola
+Sierra Leone,12/3/2015,28244,7752,ebola
+Sierra Leone,12/9/2015,28244,7752,ebola
+Sierra Leone,12/10/2015,28244,7752,ebola
+Sierra Leone,12/11/2015,28244,7752,ebola
+Sierra Leone,12/15/2015,28244,7752,ebola
+Sierra Leone,12/16/2015,28244,7752,ebola
+Sierra Leone,12/17/2015,28244,7752,ebola
+Sierra Leone,12/22/2015,28244,7752,ebola
+Sierra Leone,12/23/2015,28244,7752,ebola
+Sierra Leone,12/29/2015,28244,7752,ebola
+Sierra Leone,3/23/2016,28244,7752,ebola
+Spain,10/10/2014,2,0,ebola
+Spain,10/15/2014,2,0,ebola
+Spain,10/17/2014,2,0,ebola
+Spain,10/22/2014,2,0,ebola
+Spain,10/25/2014,2,0,ebola
+Spain,10/29/2014,2,0,ebola
+Spain,10/31/2014,2,0,ebola
+Spain,11/5/2014,2,0,ebola
+Spain,11/7/2014,2,0,ebola
+Spain,11/12/2014,2,0,ebola
+Spain,11/14/2014,2,0,ebola
+Spain,11/19/2014,2,0,ebola
+Spain,11/21/2014,2,0,ebola
+Spain,11/26/2014,2,0,ebola
+Spain,12/1/2014,2,0,ebola
+Spain,12/3/2014,2,0,ebola
+Spain,12/10/2014,2,0,ebola
+Spain,12/15/2014,2,0,ebola
+Spain,12/17/2014,2,0,ebola
+Spain,12/22/2014,2,0,ebola
+Spain,12/23/2014,2,0,ebola
+Spain,12/24/2014,2,0,ebola
+Spain,12/26/2014,2,0,ebola
+Spain,12/29/2014,2,0,ebola
+Spain,12/30/2014,2,0,ebola
+Spain,12/31/2014,2,0,ebola
+Spain,1/2/2015,2,0,ebola
+Spain,1/5/2015,2,0,ebola
+Spain,1/6/2015,2,0,ebola
+Spain,1/7/2015,2,0,ebola
+Spain,1/14/2015,2,0,ebola
+Spain,1/15/2015,2,0,ebola
+Spain,1/16/2015,2,0,ebola
+Spain,1/19/2015,2,0,ebola
+Spain,1/20/2015,2,0,ebola
+Spain,1/21/2015,2,0,ebola
+Spain,1/22/2015,2,0,ebola
+Spain,1/23/2015,2,0,ebola
+Spain,1/26/2015,2,0,ebola
+Spain,1/27/2015,2,0,ebola
+Spain,1/28/2015,2,0,ebola
+Spain,1/29/2015,2,0,ebola
+Spain,1/30/2015,2,0,ebola
+Spain,2/2/2015,2,0,ebola
+Spain,2/3/2015,2,0,ebola
+Spain,2/4/2015,2,0,ebola
+Spain,2/5/2015,2,0,ebola
+Spain,2/6/2015,2,0,ebola
+Spain,2/10/2015,2,0,ebola
+Spain,2/11/2015,2,0,ebola
+Spain,2/12/2015,2,0,ebola
+Spain,2/13/2015,2,0,ebola
+Spain,2/16/2015,2,0,ebola
+Spain,2/17/2015,2,0,ebola
+Spain,2/18/2015,2,0,ebola
+Spain,2/19/2015,2,0,ebola
+Spain,2/20/2015,2,0,ebola
+Spain,2/23/2015,2,0,ebola
+Spain,2/25/2015,2,0,ebola
+Spain,2/26/2015,2,0,ebola
+Spain,2/27/2015,2,0,ebola
+Spain,3/2/2015,2,0,ebola
+Spain,3/4/2015,2,0,ebola
+Spain,3/5/2015,2,0,ebola
+Spain,3/6/2015,2,0,ebola
+Spain,3/10/2015,2,0,ebola
+Spain,3/11/2015,2,0,ebola
+Spain,3/12/2015,2,0,ebola
+Spain,3/13/2015,2,0,ebola
+Spain,3/16/2015,2,0,ebola
+Spain,3/17/2015,2,0,ebola
+Spain,3/18/2015,2,0,ebola
+Spain,3/20/2015,2,0,ebola
+Spain,3/23/2015,2,0,ebola
+Spain,3/24/2015,2,0,ebola
+Spain,3/25/2015,2,0,ebola
+Spain,3/26/2015,2,0,ebola
+Spain,3/27/2015,2,0,ebola
+Spain,4/7/2015,2,0,ebola
+Spain,4/9/2015,2,0,ebola
+Spain,4/13/2015,2,0,ebola
+Spain,4/14/2015,2,0,ebola
+Spain,4/15/2015,2,0,ebola
+Spain,4/16/2015,2,0,ebola
+Spain,4/17/2015,2,0,ebola
+Spain,4/20/2015,2,0,ebola
+Spain,4/21/2015,2,0,ebola
+Spain,4/22/2015,2,0,ebola
+Spain,4/23/2015,2,0,ebola
+Spain,4/24/2015,2,0,ebola
+Spain,4/27/2015,2,0,ebola
+Spain,4/28/2015,2,0,ebola
+Spain,4/30/2015,2,0,ebola
+Spain,5/1/2015,2,0,ebola
+Spain,5/4/2015,2,0,ebola
+Spain,5/5/2015,2,0,ebola
+Spain,5/6/2015,2,0,ebola
+Spain,5/7/2015,2,0,ebola
+Spain,5/8/2015,2,0,ebola
+Spain,5/11/2015,2,0,ebola
+Spain,5/12/2015,2,0,ebola
+Spain,5/13/2015,2,0,ebola
+Spain,5/14/2015,2,0,ebola
+Spain,5/15/2015,2,0,ebola
+Spain,5/18/2015,2,0,ebola
+Spain,5/19/2015,2,0,ebola
+Spain,5/20/2015,2,0,ebola
+Spain,5/21/2015,2,0,ebola
+Spain,5/22/2015,2,0,ebola
+Spain,5/25/2015,2,0,ebola
+Spain,5/26/2015,2,0,ebola
+Spain,5/27/2015,2,0,ebola
+Spain,5/28/2015,2,0,ebola
+Spain,5/29/2015,2,0,ebola
+Spain,6/1/2015,2,0,ebola
+Spain,6/2/2015,2,0,ebola
+Spain,6/3/2015,2,0,ebola
+Spain,6/4/2015,2,0,ebola
+Spain,6/5/2015,2,0,ebola
+Spain,6/8/2015,2,0,ebola
+Spain,6/9/2015,2,0,ebola
+Spain,6/10/2015,2,0,ebola
+Spain,6/11/2015,2,0,ebola
+Spain,6/12/2015,2,0,ebola
+Spain,6/15/2015,2,0,ebola
+Spain,6/16/2015,2,0,ebola
+Spain,6/17/2015,2,0,ebola
+Spain,6/18/2015,2,0,ebola
+Spain,6/19/2015,2,0,ebola
+Spain,6/22/2015,2,0,ebola
+Spain,6/23/2015,2,0,ebola
+Spain,6/24/2015,2,0,ebola
+Spain,6/25/2015,2,0,ebola
+Spain,6/26/2015,2,0,ebola
+Spain,6/29/2015,2,0,ebola
+Spain,6/30/2015,2,0,ebola
+Spain,7/1/2015,2,0,ebola
+Spain,7/2/2015,2,0,ebola
+Spain,7/3/2015,2,0,ebola
+Spain,7/6/2015,2,0,ebola
+Spain,7/7/2015,2,0,ebola
+Spain,7/8/2015,2,0,ebola
+Spain,7/9/2015,2,0,ebola
+Spain,7/10/2015,2,0,ebola
+Spain,7/13/2015,2,0,ebola
+Spain,7/14/2015,2,0,ebola
+Spain,7/15/2015,2,0,ebola
+Spain,7/16/2015,2,0,ebola
+Spain,7/17/2015,2,0,ebola
+Spain,7/20/2015,2,0,ebola
+Spain,7/21/2015,2,0,ebola
+Spain,7/22/2015,2,0,ebola
+Spain,7/23/2015,2,0,ebola
+Spain,7/24/2015,2,0,ebola
+Spain,7/27/2015,2,0,ebola
+Spain,7/28/2015,2,0,ebola
+Spain,7/29/2015,2,0,ebola
+Spain,7/30/2015,2,0,ebola
+Spain,7/31/2015,2,0,ebola
+Spain,8/3/2015,2,0,ebola
+Spain,8/4/2015,2,0,ebola
+Spain,8/5/2015,2,0,ebola
+Spain,8/6/2015,2,0,ebola
+Spain,8/7/2015,2,0,ebola
+Spain,8/10/2015,2,0,ebola
+Spain,8/11/2015,2,0,ebola
+Spain,8/12/2015,2,0,ebola
+Spain,8/13/2015,2,0,ebola
+Spain,8/14/2015,2,0,ebola
+Spain,8/17/2015,2,0,ebola
+Spain,8/18/2015,2,0,ebola
+Spain,8/19/2015,2,0,ebola
+Spain,8/20/2015,2,0,ebola
+Spain,8/21/2015,2,0,ebola
+Spain,8/24/2015,2,0,ebola
+Spain,8/25/2015,2,0,ebola
+Spain,8/26/2015,2,0,ebola
+Spain,8/27/2015,2,0,ebola
+Spain,8/28/2015,2,0,ebola
+Spain,8/31/2015,2,0,ebola
+Spain,9/1/2015,2,0,ebola
+Spain,9/2/2015,2,0,ebola
+Spain,9/3/2015,2,0,ebola
+Spain,9/4/2015,2,0,ebola
+Spain,9/7/2015,2,0,ebola
+Spain,9/8/2015,2,0,ebola
+Spain,9/9/2015,2,0,ebola
+Spain,9/10/2015,2,0,ebola
+Spain,9/11/2015,2,0,ebola
+Spain,9/14/2015,2,0,ebola
+Spain,9/15/2015,2,0,ebola
+Spain,9/16/2015,2,0,ebola
+Spain,9/17/2015,2,0,ebola
+Spain,9/18/2015,2,0,ebola
+Spain,9/21/2015,2,0,ebola
+Spain,9/22/2015,2,0,ebola
+Spain,9/23/2015,2,0,ebola
+Spain,9/24/2015,2,0,ebola
+Spain,9/25/2015,2,0,ebola
+Spain,9/28/2015,2,0,ebola
+Spain,9/29/2015,2,0,ebola
+Spain,9/30/2015,2,0,ebola
+Spain,10/1/2015,2,0,ebola
+Spain,10/2/2015,2,0,ebola
+Spain,10/5/2015,2,0,ebola
+Spain,10/6/2015,2,0,ebola
+Spain,10/7/2015,2,0,ebola
+Spain,10/8/2015,2,0,ebola
+Spain,10/9/2015,2,0,ebola
+Spain,10/13/2015,2,0,ebola
+Spain,10/15/2015,2,0,ebola
+Spain,10/16/2015,2,0,ebola
+Spain,10/20/2015,2,0,ebola
+Spain,10/22/2015,2,0,ebola
+Spain,10/23/2015,2,0,ebola
+Spain,10/26/2015,2,0,ebola
+Spain,10/27/2015,2,0,ebola
+Spain,10/29/2015,2,0,ebola
+Spain,10/30/2015,2,0,ebola
+Spain,11/3/2015,2,0,ebola
+Spain,11/5/2015,2,0,ebola
+Spain,11/6/2015,2,0,ebola
+Spain,11/10/2015,2,0,ebola
+Spain,11/11/2015,2,0,ebola
+Spain,11/12/2015,2,0,ebola
+Spain,11/16/2015,2,0,ebola
+Spain,11/17/2015,2,0,ebola
+Spain,11/20/2015,2,0,ebola
+Spain,11/24/2015,2,0,ebola
+Spain,11/26/2015,2,0,ebola
+Spain,12/1/2015,2,0,ebola
+Spain,12/2/2015,2,0,ebola
+Spain,12/3/2015,2,0,ebola
+Spain,12/9/2015,2,0,ebola
+Spain,12/10/2015,2,0,ebola
+Spain,12/11/2015,2,0,ebola
+Spain,12/15/2015,2,0,ebola
+Spain,12/16/2015,2,0,ebola
+Spain,12/17/2015,2,0,ebola
+Spain,12/22/2015,2,0,ebola
+Spain,12/23/2015,2,0,ebola
+Spain,12/29/2015,2,0,ebola
+Spain,3/23/2016,2,0,ebola
+United Kingdom,1/2/2015,1,0,ebola
+United Kingdom,1/5/2015,1,0,ebola
+United Kingdom,1/6/2015,2,0,ebola
+United Kingdom,1/7/2015,2,0,ebola
+United Kingdom,1/8/2015,1,0,ebola
+United Kingdom,1/9/2015,1,0,ebola
+United Kingdom,1/12/2015,1,0,ebola
+United Kingdom,1/13/2015,1,0,ebola
+United Kingdom,1/14/2015,2,0,ebola
+United Kingdom,1/15/2015,2,0,ebola
+United Kingdom,1/16/2015,2,0,ebola
+United Kingdom,1/19/2015,2,0,ebola
+United Kingdom,1/20/2015,2,0,ebola
+United Kingdom,1/21/2015,2,0,ebola
+United Kingdom,1/22/2015,2,0,ebola
+United Kingdom,1/23/2015,2,0,ebola
+United Kingdom,1/26/2015,2,0,ebola
+United Kingdom,1/27/2015,2,0,ebola
+United Kingdom,1/28/2015,2,0,ebola
+United Kingdom,1/29/2015,2,0,ebola
+United Kingdom,1/30/2015,2,0,ebola
+United Kingdom,2/2/2015,2,0,ebola
+United Kingdom,2/3/2015,2,0,ebola
+United Kingdom,2/4/2015,2,0,ebola
+United Kingdom,2/5/2015,2,0,ebola
+United Kingdom,2/6/2015,2,0,ebola
+United Kingdom,2/10/2015,2,0,ebola
+United Kingdom,2/11/2015,2,0,ebola
+United Kingdom,2/12/2015,2,0,ebola
+United Kingdom,2/13/2015,2,0,ebola
+United Kingdom,2/16/2015,2,0,ebola
+United Kingdom,2/17/2015,2,0,ebola
+United Kingdom,2/18/2015,2,0,ebola
+United Kingdom,2/19/2015,2,0,ebola
+United Kingdom,2/20/2015,2,0,ebola
+United Kingdom,2/23/2015,2,0,ebola
+United Kingdom,2/25/2015,2,0,ebola
+United Kingdom,2/26/2015,2,0,ebola
+United Kingdom,2/27/2015,2,0,ebola
+United Kingdom,3/2/2015,2,0,ebola
+United Kingdom,3/4/2015,2,0,ebola
+United Kingdom,3/5/2015,2,0,ebola
+United Kingdom,3/6/2015,2,0,ebola
+United Kingdom,3/10/2015,2,0,ebola
+United Kingdom,3/11/2015,2,0,ebola
+United Kingdom,3/12/2015,2,0,ebola
+United Kingdom,3/13/2015,2,0,ebola
+United Kingdom,3/16/2015,2,0,ebola
+United Kingdom,3/17/2015,2,0,ebola
+United Kingdom,3/18/2015,2,0,ebola
+United Kingdom,3/20/2015,2,0,ebola
+United Kingdom,3/23/2015,2,0,ebola
+United Kingdom,3/24/2015,2,0,ebola
+United Kingdom,3/25/2015,2,0,ebola
+United Kingdom,3/26/2015,2,0,ebola
+United Kingdom,3/27/2015,2,0,ebola
+United Kingdom,4/7/2015,2,0,ebola
+United Kingdom,4/9/2015,2,0,ebola
+United Kingdom,4/13/2015,2,0,ebola
+United Kingdom,4/14/2015,2,0,ebola
+United Kingdom,4/15/2015,2,0,ebola
+United Kingdom,4/16/2015,2,0,ebola
+United Kingdom,4/17/2015,2,0,ebola
+United Kingdom,4/20/2015,2,0,ebola
+United Kingdom,4/21/2015,2,0,ebola
+United Kingdom,4/22/2015,2,0,ebola
+United Kingdom,4/23/2015,2,0,ebola
+United Kingdom,4/24/2015,2,0,ebola
+United Kingdom,4/27/2015,2,0,ebola
+United Kingdom,4/28/2015,2,0,ebola
+United Kingdom,4/30/2015,2,0,ebola
+United Kingdom,5/1/2015,2,0,ebola
+United Kingdom,5/4/2015,2,0,ebola
+United Kingdom,5/5/2015,2,0,ebola
+United Kingdom,5/6/2015,2,0,ebola
+United Kingdom,5/7/2015,2,0,ebola
+United Kingdom,5/8/2015,2,0,ebola
+United Kingdom,5/11/2015,2,0,ebola
+United Kingdom,5/12/2015,2,0,ebola
+United Kingdom,5/13/2015,2,0,ebola
+United Kingdom,5/14/2015,2,0,ebola
+United Kingdom,5/15/2015,2,0,ebola
+United Kingdom,5/18/2015,2,0,ebola
+United Kingdom,5/19/2015,2,0,ebola
+United Kingdom,5/20/2015,2,0,ebola
+United Kingdom,5/21/2015,2,0,ebola
+United Kingdom,5/22/2015,2,0,ebola
+United Kingdom,5/25/2015,2,0,ebola
+United Kingdom,5/26/2015,2,0,ebola
+United Kingdom,5/27/2015,2,0,ebola
+United Kingdom,5/28/2015,2,0,ebola
+United Kingdom,5/29/2015,2,0,ebola
+United Kingdom,6/1/2015,2,0,ebola
+United Kingdom,6/2/2015,2,0,ebola
+United Kingdom,6/3/2015,2,0,ebola
+United Kingdom,6/4/2015,2,0,ebola
+United Kingdom,6/5/2015,2,0,ebola
+United Kingdom,6/8/2015,2,0,ebola
+United Kingdom,6/9/2015,2,0,ebola
+United Kingdom,6/10/2015,2,0,ebola
+United Kingdom,6/11/2015,2,0,ebola
+United Kingdom,6/12/2015,2,0,ebola
+United Kingdom,6/15/2015,2,0,ebola
+United Kingdom,6/16/2015,2,0,ebola
+United Kingdom,6/17/2015,2,0,ebola
+United Kingdom,6/18/2015,2,0,ebola
+United Kingdom,6/19/2015,2,0,ebola
+United Kingdom,6/22/2015,2,0,ebola
+United Kingdom,6/23/2015,2,0,ebola
+United Kingdom,6/24/2015,2,0,ebola
+United Kingdom,6/25/2015,2,0,ebola
+United Kingdom,6/26/2015,2,0,ebola
+United Kingdom,6/29/2015,2,0,ebola
+United Kingdom,6/30/2015,2,0,ebola
+United Kingdom,7/1/2015,2,0,ebola
+United Kingdom,7/2/2015,2,0,ebola
+United Kingdom,7/3/2015,2,0,ebola
+United Kingdom,7/6/2015,2,0,ebola
+United Kingdom,7/7/2015,2,0,ebola
+United Kingdom,7/8/2015,2,0,ebola
+United Kingdom,7/9/2015,2,0,ebola
+United Kingdom,7/10/2015,2,0,ebola
+United Kingdom,7/13/2015,2,0,ebola
+United Kingdom,7/14/2015,2,0,ebola
+United Kingdom,7/15/2015,2,0,ebola
+United Kingdom,7/16/2015,2,0,ebola
+United Kingdom,7/17/2015,2,0,ebola
+United Kingdom,7/20/2015,2,0,ebola
+United Kingdom,7/21/2015,2,0,ebola
+United Kingdom,7/22/2015,2,0,ebola
+United Kingdom,7/23/2015,2,0,ebola
+United Kingdom,7/24/2015,2,0,ebola
+United Kingdom,7/27/2015,2,0,ebola
+United Kingdom,7/28/2015,2,0,ebola
+United Kingdom,7/29/2015,2,0,ebola
+United Kingdom,7/30/2015,2,0,ebola
+United Kingdom,7/31/2015,2,0,ebola
+United Kingdom,8/3/2015,2,0,ebola
+United Kingdom,8/4/2015,2,0,ebola
+United Kingdom,8/5/2015,2,0,ebola
+United Kingdom,8/6/2015,2,0,ebola
+United Kingdom,8/7/2015,2,0,ebola
+United Kingdom,8/10/2015,2,0,ebola
+United Kingdom,8/11/2015,2,0,ebola
+United Kingdom,8/12/2015,2,0,ebola
+United Kingdom,8/13/2015,2,0,ebola
+United Kingdom,8/14/2015,2,0,ebola
+United Kingdom,8/17/2015,2,0,ebola
+United Kingdom,8/18/2015,2,0,ebola
+United Kingdom,8/19/2015,2,0,ebola
+United Kingdom,8/20/2015,2,0,ebola
+United Kingdom,8/21/2015,2,0,ebola
+United Kingdom,8/24/2015,2,0,ebola
+United Kingdom,8/25/2015,2,0,ebola
+United Kingdom,8/26/2015,2,0,ebola
+United Kingdom,8/27/2015,2,0,ebola
+United Kingdom,8/28/2015,2,0,ebola
+United Kingdom,8/31/2015,2,0,ebola
+United Kingdom,9/1/2015,2,0,ebola
+United Kingdom,9/2/2015,2,0,ebola
+United Kingdom,9/3/2015,2,0,ebola
+United Kingdom,9/4/2015,2,0,ebola
+United Kingdom,9/7/2015,2,0,ebola
+United Kingdom,9/8/2015,2,0,ebola
+United Kingdom,9/9/2015,2,0,ebola
+United Kingdom,9/10/2015,2,0,ebola
+United Kingdom,9/11/2015,2,0,ebola
+United Kingdom,9/14/2015,2,0,ebola
+United Kingdom,9/15/2015,2,0,ebola
+United Kingdom,9/16/2015,2,0,ebola
+United Kingdom,9/17/2015,2,0,ebola
+United Kingdom,9/18/2015,2,0,ebola
+United Kingdom,9/21/2015,2,0,ebola
+United Kingdom,9/22/2015,2,0,ebola
+United Kingdom,9/23/2015,2,0,ebola
+United Kingdom,9/24/2015,2,0,ebola
+United Kingdom,9/25/2015,2,0,ebola
+United Kingdom,9/28/2015,2,0,ebola
+United Kingdom,9/29/2015,2,0,ebola
+United Kingdom,9/30/2015,2,0,ebola
+United Kingdom,10/1/2015,2,0,ebola
+United Kingdom,10/2/2015,2,0,ebola
+United Kingdom,10/5/2015,2,0,ebola
+United Kingdom,10/6/2015,2,0,ebola
+United Kingdom,10/7/2015,2,0,ebola
+United Kingdom,10/8/2015,2,0,ebola
+United Kingdom,10/9/2015,2,0,ebola
+United Kingdom,10/13/2015,2,0,ebola
+United Kingdom,10/15/2015,2,0,ebola
+United Kingdom,10/16/2015,2,0,ebola
+United Kingdom,10/20/2015,2,0,ebola
+United Kingdom,10/22/2015,2,0,ebola
+United Kingdom,10/23/2015,2,0,ebola
+United Kingdom,10/26/2015,2,0,ebola
+United Kingdom,10/27/2015,2,0,ebola
+United Kingdom,10/29/2015,2,0,ebola
+United Kingdom,10/30/2015,2,0,ebola
+United Kingdom,11/3/2015,2,0,ebola
+United Kingdom,11/5/2015,2,0,ebola
+United Kingdom,11/6/2015,2,0,ebola
+United Kingdom,11/10/2015,2,0,ebola
+United Kingdom,11/11/2015,2,0,ebola
+United Kingdom,11/12/2015,2,0,ebola
+United Kingdom,11/16/2015,2,0,ebola
+United Kingdom,11/17/2015,2,0,ebola
+United Kingdom,11/20/2015,2,0,ebola
+United Kingdom,11/24/2015,2,0,ebola
+United Kingdom,11/26/2015,2,0,ebola
+United Kingdom,12/1/2015,2,0,ebola
+United Kingdom,12/2/2015,2,0,ebola
+United Kingdom,12/3/2015,2,0,ebola
+United Kingdom,12/9/2015,2,0,ebola
+United Kingdom,12/10/2015,2,0,ebola
+United Kingdom,12/11/2015,2,0,ebola
+United Kingdom,12/15/2015,2,0,ebola
+United Kingdom,12/16/2015,2,0,ebola
+United Kingdom,12/17/2015,2,0,ebola
+United Kingdom,12/22/2015,2,0,ebola
+United Kingdom,12/23/2015,2,0,ebola
+United Kingdom,12/29/2015,2,0,ebola
+United Kingdom,3/23/2016,2,0,ebola
+United States of America,10/3/2014,2,0,ebola
+United States of America,10/8/2014,2,0,ebola
+United States of America,10/10/2014,2,0,ebola
+United States of America,10/15/2014,4,2,ebola
+United States of America,10/17/2014,6,2,ebola
+United States of America,10/22/2014,6,2,ebola
+United States of America,10/25/2014,8,2,ebola
+United States of America,10/29/2014,8,2,ebola
+United States of America,10/31/2014,8,2,ebola
+United States of America,11/5/2014,8,2,ebola
+United States of America,11/7/2014,8,2,ebola
+United States of America,11/12/2014,8,2,ebola
+United States of America,11/14/2014,8,2,ebola
+United States of America,11/19/2014,8,2,ebola
+United States of America,11/21/2014,8,2,ebola
+United States of America,11/26/2014,8,2,ebola
+United States of America,12/1/2014,8,2,ebola
+United States of America,12/3/2014,8,2,ebola
+United States of America,12/10/2014,8,2,ebola
+United States of America,12/15/2014,8,2,ebola
+United States of America,12/17/2014,8,2,ebola
+United States of America,12/22/2014,8,2,ebola
+United States of America,12/23/2014,8,2,ebola
+United States of America,12/24/2014,8,2,ebola
+United States of America,12/26/2014,8,2,ebola
+United States of America,12/29/2014,8,2,ebola
+United States of America,12/30/2014,8,2,ebola
+United States of America,12/31/2014,8,2,ebola
+United States of America,1/2/2015,8,2,ebola
+United States of America,1/5/2015,8,2,ebola
+United States of America,1/6/2015,8,2,ebola
+United States of America,1/7/2015,8,2,ebola
+United States of America,1/14/2015,8,2,ebola
+United States of America,1/15/2015,8,2,ebola
+United States of America,1/16/2015,8,2,ebola
+United States of America,1/19/2015,8,2,ebola
+United States of America,1/20/2015,8,2,ebola
+United States of America,1/21/2015,8,2,ebola
+United States of America,1/22/2015,8,2,ebola
+United States of America,1/23/2015,8,2,ebola
+United States of America,1/26/2015,8,2,ebola
+United States of America,1/27/2015,8,2,ebola
+United States of America,1/28/2015,8,2,ebola
+United States of America,1/29/2015,8,2,ebola
+United States of America,1/30/2015,8,2,ebola
+United States of America,2/2/2015,8,2,ebola
+United States of America,2/3/2015,8,2,ebola
+United States of America,2/4/2015,8,2,ebola
+United States of America,2/5/2015,8,2,ebola
+United States of America,2/6/2015,8,2,ebola
+United States of America,2/10/2015,8,2,ebola
+United States of America,2/11/2015,8,2,ebola
+United States of America,2/12/2015,8,2,ebola
+United States of America,2/13/2015,8,2,ebola
+United States of America,2/16/2015,8,2,ebola
+United States of America,2/17/2015,8,2,ebola
+United States of America,2/18/2015,8,2,ebola
+United States of America,2/19/2015,8,2,ebola
+United States of America,2/20/2015,8,2,ebola
+United States of America,2/23/2015,8,2,ebola
+United States of America,2/25/2015,8,2,ebola
+United States of America,2/26/2015,8,2,ebola
+United States of America,2/27/2015,8,2,ebola
+United States of America,3/2/2015,8,2,ebola
+United States of America,3/4/2015,8,2,ebola
+United States of America,3/5/2015,8,2,ebola
+United States of America,3/6/2015,8,2,ebola
+United States of America,3/10/2015,8,2,ebola
+United States of America,3/11/2015,8,2,ebola
+United States of America,3/12/2015,8,2,ebola
+United States of America,3/13/2015,8,2,ebola
+United States of America,3/16/2015,8,2,ebola
+United States of America,3/17/2015,8,2,ebola
+United States of America,3/18/2015,8,2,ebola
+United States of America,3/20/2015,8,2,ebola
+United States of America,3/23/2015,8,2,ebola
+United States of America,3/24/2015,8,2,ebola
+United States of America,3/25/2015,8,2,ebola
+United States of America,3/26/2015,8,2,ebola
+United States of America,3/27/2015,8,2,ebola
+United States of America,4/7/2015,8,2,ebola
+United States of America,4/9/2015,8,2,ebola
+United States of America,4/13/2015,8,2,ebola
+United States of America,4/14/2015,8,2,ebola
+United States of America,4/15/2015,8,2,ebola
+United States of America,4/16/2015,8,2,ebola
+United States of America,4/17/2015,8,2,ebola
+United States of America,4/20/2015,8,2,ebola
+United States of America,4/21/2015,8,2,ebola
+United States of America,4/22/2015,8,2,ebola
+United States of America,4/23/2015,8,2,ebola
+United States of America,4/24/2015,8,2,ebola
+United States of America,4/27/2015,8,2,ebola
+United States of America,4/28/2015,8,2,ebola
+United States of America,4/30/2015,8,2,ebola
+United States of America,5/1/2015,8,2,ebola
+United States of America,5/4/2015,8,2,ebola
+United States of America,5/5/2015,8,2,ebola
+United States of America,5/6/2015,8,2,ebola
+United States of America,5/7/2015,8,2,ebola
+United States of America,5/8/2015,8,2,ebola
+United States of America,5/11/2015,8,2,ebola
+United States of America,5/12/2015,8,2,ebola
+United States of America,5/13/2015,8,2,ebola
+United States of America,5/14/2015,8,2,ebola
+United States of America,5/15/2015,8,2,ebola
+United States of America,5/18/2015,8,2,ebola
+United States of America,5/19/2015,8,2,ebola
+United States of America,5/20/2015,8,2,ebola
+United States of America,5/21/2015,8,2,ebola
+United States of America,5/22/2015,8,2,ebola
+United States of America,5/25/2015,8,2,ebola
+United States of America,5/26/2015,8,2,ebola
+United States of America,5/27/2015,8,2,ebola
+United States of America,5/28/2015,8,2,ebola
+United States of America,5/29/2015,8,2,ebola
+United States of America,6/1/2015,8,2,ebola
+United States of America,6/2/2015,8,2,ebola
+United States of America,6/3/2015,8,2,ebola
+United States of America,6/4/2015,8,2,ebola
+United States of America,6/5/2015,8,2,ebola
+United States of America,6/8/2015,8,2,ebola
+United States of America,6/9/2015,8,2,ebola
+United States of America,6/10/2015,8,2,ebola
+United States of America,6/11/2015,8,2,ebola
+United States of America,6/12/2015,8,2,ebola
+United States of America,6/15/2015,8,2,ebola
+United States of America,6/16/2015,8,2,ebola
+United States of America,6/17/2015,8,2,ebola
+United States of America,6/18/2015,8,2,ebola
+United States of America,6/19/2015,8,2,ebola
+United States of America,6/22/2015,8,2,ebola
+United States of America,6/23/2015,8,2,ebola
+United States of America,6/24/2015,8,2,ebola
+United States of America,6/25/2015,8,2,ebola
+United States of America,6/26/2015,8,2,ebola
+United States of America,6/29/2015,8,2,ebola
+United States of America,6/30/2015,8,2,ebola
+United States of America,7/1/2015,8,2,ebola
+United States of America,7/2/2015,8,2,ebola
+United States of America,7/3/2015,8,2,ebola
+United States of America,7/6/2015,8,2,ebola
+United States of America,7/7/2015,8,2,ebola
+United States of America,7/8/2015,8,2,ebola
+United States of America,7/9/2015,8,2,ebola
+United States of America,7/10/2015,8,2,ebola
+United States of America,7/13/2015,8,2,ebola
+United States of America,7/14/2015,8,2,ebola
+United States of America,7/15/2015,8,2,ebola
+United States of America,7/16/2015,8,2,ebola
+United States of America,7/17/2015,8,2,ebola
+United States of America,7/20/2015,8,2,ebola
+United States of America,7/21/2015,8,2,ebola
+United States of America,7/22/2015,8,2,ebola
+United States of America,7/23/2015,8,2,ebola
+United States of America,7/24/2015,8,2,ebola
+United States of America,7/27/2015,8,2,ebola
+United States of America,7/28/2015,8,2,ebola
+United States of America,7/29/2015,8,2,ebola
+United States of America,7/30/2015,8,2,ebola
+United States of America,7/31/2015,8,2,ebola
+United States of America,8/3/2015,8,2,ebola
+United States of America,8/4/2015,8,2,ebola
+United States of America,8/5/2015,8,2,ebola
+United States of America,8/6/2015,8,2,ebola
+United States of America,8/7/2015,8,2,ebola
+United States of America,8/10/2015,8,2,ebola
+United States of America,8/11/2015,8,2,ebola
+United States of America,8/12/2015,8,2,ebola
+United States of America,8/13/2015,8,2,ebola
+United States of America,8/14/2015,8,2,ebola
+United States of America,8/17/2015,8,2,ebola
+United States of America,8/18/2015,8,2,ebola
+United States of America,8/19/2015,8,2,ebola
+United States of America,8/20/2015,8,2,ebola
+United States of America,8/21/2015,8,2,ebola
+United States of America,8/24/2015,8,2,ebola
+United States of America,8/25/2015,8,2,ebola
+United States of America,8/26/2015,8,2,ebola
+United States of America,8/27/2015,8,2,ebola
+United States of America,8/28/2015,8,2,ebola
+United States of America,8/31/2015,8,2,ebola
+United States of America,9/1/2015,8,2,ebola
+United States of America,9/2/2015,8,2,ebola
+United States of America,9/3/2015,8,2,ebola
+United States of America,9/4/2015,8,2,ebola
+United States of America,9/7/2015,8,2,ebola
+United States of America,9/8/2015,8,2,ebola
+United States of America,9/9/2015,8,2,ebola
+United States of America,9/10/2015,8,2,ebola
+United States of America,9/11/2015,8,2,ebola
+United States of America,9/14/2015,8,2,ebola
+United States of America,9/15/2015,8,2,ebola
+United States of America,9/16/2015,8,2,ebola
+United States of America,9/17/2015,8,2,ebola
+United States of America,9/18/2015,8,2,ebola
+United States of America,9/21/2015,8,2,ebola
+United States of America,9/22/2015,8,2,ebola
+United States of America,9/23/2015,8,2,ebola
+United States of America,9/24/2015,8,2,ebola
+United States of America,9/25/2015,8,2,ebola
+United States of America,9/28/2015,8,2,ebola
+United States of America,9/29/2015,8,2,ebola
+United States of America,9/30/2015,8,2,ebola
+United States of America,10/1/2015,8,2,ebola
+United States of America,10/2/2015,8,2,ebola
+United States of America,10/5/2015,8,2,ebola
+United States of America,10/6/2015,8,2,ebola
+United States of America,10/7/2015,8,2,ebola
+United States of America,10/8/2015,8,2,ebola
+United States of America,10/9/2015,8,2,ebola
+United States of America,10/13/2015,8,2,ebola
+United States of America,10/15/2015,8,2,ebola
+United States of America,10/16/2015,8,2,ebola
+United States of America,10/20/2015,8,2,ebola
+United States of America,10/22/2015,8,2,ebola
+United States of America,10/23/2015,8,2,ebola
+United States of America,10/26/2015,8,2,ebola
+United States of America,10/27/2015,8,2,ebola
+United States of America,10/29/2015,8,2,ebola
+United States of America,10/30/2015,8,2,ebola
+United States of America,11/3/2015,8,2,ebola
+United States of America,11/5/2015,8,2,ebola
+United States of America,11/6/2015,8,2,ebola
+United States of America,11/10/2015,8,2,ebola
+United States of America,11/11/2015,8,2,ebola
+United States of America,11/12/2015,8,2,ebola
+United States of America,11/16/2015,8,2,ebola
+United States of America,11/17/2015,8,2,ebola
+United States of America,11/20/2015,8,2,ebola
+United States of America,11/24/2015,8,2,ebola
+United States of America,11/26/2015,8,2,ebola
+United States of America,12/1/2015,8,2,ebola
+United States of America,12/2/2015,8,2,ebola
+United States of America,12/3/2015,8,2,ebola
+United States of America,12/9/2015,8,2,ebola
+United States of America,12/10/2015,8,2,ebola
+United States of America,12/11/2015,8,2,ebola
+United States of America,12/15/2015,8,2,ebola
+United States of America,12/16/2015,8,2,ebola
+United States of America,12/17/2015,8,2,ebola
+United States of America,12/22/2015,8,2,ebola
+United States of America,12/23/2015,8,2,ebola
+United States of America,12/29/2015,8,2,ebola
+United States of America,3/23/2016,8,2,ebola
