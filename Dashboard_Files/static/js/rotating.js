@@ -1,7 +1,7 @@
 (function() {
   var globe = planetaryjs.planet();
   // Load our custom `autorotate` plugin; see below.
-  globe.loadPlugin(autorotate(10));
+  globe.loadPlugin(autorotate(10));/*samsaysaddthis*/
   // The `earth` plugin draws the oceans and the land; it's actually
   // a combination of several separate built-in plugins.
   //
@@ -12,18 +12,18 @@
     oceans:   { fill:   '#000080' },
     land:     { fill:   '#339966' },
     borders:  { stroke: '#008000' }
-  }));
+  }));/*samsaysaddthis*/
   // Load our custom `lakes` plugin to draw lakes; see below.
   globe.loadPlugin(lakes({
     fill: '#000080'
-  }));
+  }));/*samsaysaddthis*/
   // The `pings` plugin draws animated pings on the globe.
-  globe.loadPlugin(planetaryjs.plugins.pings());
+  globe.loadPlugin(planetaryjs.plugins.pings());/*samsaysaddthis*/
   // The `zoom` and `drag` plugins enable
   // manipulating the globe with the mouse.
   globe.loadPlugin(planetaryjs.plugins.zoom({
     scaleExtent: [100, 300]
-  }));
+  }));/*samsaysaddthis*/
   globe.loadPlugin(planetaryjs.plugins.drag({
     // Dragging the globe should pause the
     // automatic rotation until we release the mouse.
@@ -33,20 +33,23 @@
     onDragEnd: function() {
       this.plugins.autorotate.resume();
     }
-  }));
+  }));/*samsaysaddthis*/
   // Set up the globe's initial scale, offset, and rotation.
-  globe.projection.scale(175).translate([175, 175]).rotate([0, -10, 0]);
+  globe.projection.scale(175).translate([175, 175]).rotate([0, -10, 0]);/*samsaysaddthis*/
 
   // Every few hundred milliseconds, we'll draw another random ping.
   var colors = ['red', 'yellow', 'white', 'orange', 'green', 'cyan', 'pink'];
+
+  //start loop here 
   setInterval(function() {
     var lat = Math.random() * 170 - 85;
     var lng = Math.random() * 360 - 180;
     var color = colors[Math.floor(Math.random() * colors.length)];
     globe.plugins.pings.add(lng, lat, { color: color, ttl: 2000, angle: Math.random() * 10 });
   }, 150);
+  //end foreach
 
-  var canvas = document.getElementById('rotatingGlobe');
+  var canvas = document.getElementById('rotatingGlobe');/*samsaysaddthis*/
   // Special code to handle high-density displays (e.g. retina, some phones)
   // In the future, Planetary.js will handle this by itself (or via a plugin).
   if (window.devicePixelRatio == 2) {
@@ -54,9 +57,9 @@
     canvas.height = 800;
     context = canvas.getContext('2d');
     context.scale(2, 2);
-  }
+  }/*samsaysaddthis*/
   // Draw that globe!
-  globe.draw(canvas);
+  globe.draw(canvas);/*samsaysaddthis*/
 
   // This plugin will automatically rotate the globe around its vertical
   // axis a configured number of degrees every second.
