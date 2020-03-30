@@ -64,7 +64,7 @@
    // Mark a ping for the covid19
   ////read in the data 
 
-  function getRightPandemic(pandemic) {
+  getRightPandemic(pandemic) {
     // read the json file to get data
     // The data from the JSON file is arbitrarily named importedData as the argument
 
