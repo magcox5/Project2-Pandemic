@@ -52,32 +52,29 @@ function init() {
         });
 
         // call the functions to display the data and the plots to the page
-        getPlot(data.pandemic[0]);
+        getDeaths(data.pandemic[0]);
         getRightID(data.pandemic[0]);
     });
 }
-
-function getPlot(id) {
-// Use the D3 library to read in samples2.json
-
-    d3.json("data/samples3.json").then((data)=> {
-        console.log(data)
-  
-        var deaths = data.metadata.map(d => d.deaths)
-        console.log(`Death Count: ${deaths}`)
-
-        var cases = data.metadata.map(d => d.cases)
-        console.log(`Cases Count: ${cases}`)
-        
-        // filter countrydeaths by country 
-        var countries = data.countries.filter(s => s.country.toString() === country)[0];
-        
-        console.log(countries);
-  
-        // Getting the top 10 Deaths by country 
-        var countrydeaths = samples3.deaths.slice(0, 10).reverse();
-  
-       console.log(countrydeaths)
+function getDeaths(id) {
+    // Use the D3 library to read in samples.json
+    
+        d3.json("data/samples3.json").then((data)=> {
+            console.log(data)
+      
+            var deaths = data.metadata.map(d => d.deaths)
+            console.log(`Total Deaths: ${deaths}`)
+            
+            // filter deaths by country 
+            var deaths = data.metadata.filter(s => s.id.toString() === id)[0];
+            
+            console.log(deaths);
+      
+            // Getting the top 10 
+            var topdeaths = metadata.deaths.slice(0, 10).reverse();
+      
+           console.log(topdeaths)
+ 
 
 // Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 // Use sample_values as the values for the bar chart.
@@ -87,21 +84,21 @@ function getPlot(id) {
 // make a function for data plotting (bar and bubble) for top 10
 
        var Deaths_top = (samples.Country.slice(0, 10)).reverse();        
-        // get the otu ids   
+        // get the countries   
         var Country_id = Country_top.map(d => "Country " + d)
   
        console.log(Country_id)
   
   
-        // get the otu labels for the top 10 OTUs found per individual.
+        // get the country names for the top 10 countries that lost people to pandemics.
         var labels = metadata.country.slice(0, 10);
   
       //   console.log(`Sample Values: ${samplevalues}`)
       //   console.log(`Id Values: ${OTU_top}`)
         // create trace variable for the plot
         var trace = {
-            x: cases,
-            y: country,
+            x: topdeaths,
+            y: Country_id,
             textposition: "inside",
             hovertext : labels,
             type:"bar",
@@ -158,9 +155,8 @@ function getPlot(id) {
         // make a bubble plot
         Plotly.newPlot("bubble", data, bubbleChart); 
 
-
-      });
-  }  
+    
+}  
 
 
 init();
