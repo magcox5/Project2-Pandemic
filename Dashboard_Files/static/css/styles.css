@@ -1,0 +1,35 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+.navbar {
+    margin-bottom: 50px;
+  }
+.jumbotron {
+    background-color: rgba(38, 149, 71, 0.417) !important;
+    background-image:linear-gradient(to bottom, rgba(38, 149, 71, 0.417), rgba(0,0,255,0.5)),
+    url('https://img.hpnonline.com/files/base/ebm/hpn/image/2020/03/WHO_Director_General_s_remarks_on_COVID_19_pandemic_in_briefing_pic___3.12.20du___coronavirus_4879502_1920___Pixabay.5e6a54db8de07.png?auto=format&w=720');
+}
+.jumbotron h1 {
+    font-size: 63px;
+    color: rgb(255, 252, 233);
+}
+.jumbotron p {
+    color: rgb(248, 246, 236);
+    text-shadow: rgb(5, 5, 5);
+}
+#charts {
+    height: 800px;
+}
+
+.well {
+    background-color: rgba(38, 149, 71, 0.417) !important;
+}
+.panel {
+    background-color: rgba(38, 149, 71, 0.417) !important;
+}
+
+.panel-heading {
+    background-color: rgb(5, 14, 149) !important;
+}
