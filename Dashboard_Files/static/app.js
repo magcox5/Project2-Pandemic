@@ -115,13 +115,13 @@ function getNewPlanet(pandemics){
     for (let index = 0; index < pandemics.length; index++) {
         const element = pandemics[index];
     setInterval(function() {
-      var lat = element["lat"];
-      var lng = element["lon"];
+      var lat = element["Lat"];
+      var lng = element["Lon"];
     // var lat = Math.random() * 170 - 85;
     // var lng = Math.random() * 360 - 180;
       var color = colors[Math.floor(Math.random() * colors.length)];
      globe.plugins.pings.add(lng, lat, { color: color, ttl: 2000, angle: Math.random() * 10 });
-    }, 250);
+    }, 150);
 
     }
     //end foreach
@@ -162,7 +162,7 @@ function getNewPlanet(pandemics){
           // This plugin uses the built-in projection (provided by D3)
           // to rotate the globe each time we draw it.
           var rotation = planet.projection.rotate();
-          rotation[0] += degPerSec * delta / 1000;
+          rotation[0] += degPerSec * delta / 2000;
           if (rotation[0] >= 180) rotation[0] -= 360;
           planet.projection.rotate(rotation);
           lastTick = now;

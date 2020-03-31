@@ -1,2221 +1,3740 @@
-{"names":["h1n1","covid19"]
+{"names":["Swineflu","covid19","Ebola"]
   
     ,"pandemics":
       [
   
-          {
-              "Pandemic": "h1n1",
-              "Country": "Algeria",
-              "year": 2009,
-              "Cases": 19,
-              "Deaths": 0,
-              "lon": 2.61732301,
-              "lat": 28.15893849
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Antigua and Barbuda",
-              "year": 2009,
-              "Cases": 12,
-              "Deaths": 0,
-              "lon": -61.79469343,
-              "lat": 17.277499600000002
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Argentina",
-              "year": 2009,
-              "Cases": 14233,
-              "Deaths": 175,
-              "lon": -65.17980692,
-              "lat": -35.3813488
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Australia",
-              "year": 2009,
-              "Cases": 39497,
-              "Deaths": 39,
-              "lon": 123.58383789,
-              "lat": -12.42993164
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Australia",
-              "year": 2009,
-              "Cases": 39497,
-              "Deaths": 39,
-              "lon": 134.49100008,
-              "lat": -25.73288704
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Australia",
-              "year": 2009,
-              "Cases": 39497,
-              "Deaths": 39,
-              "lon": 73.52051709999998,
-              "lat": -53.08724656
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Australia",
-              "year": 2009,
-              "Cases": 39497,
-              "Deaths": 39,
-              "lon": 104.85189795,
-              "lat": -10.6478515
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Australia",
-              "year": 2009,
-              "Cases": 39497,
-              "Deaths": 39,
-              "lon": 167.94921678,
-              "lat": -29.0514609
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Austria",
-              "year": 2009,
-              "Cases": 149,
-              "Deaths": 0,
-              "lon": 14.1264761,
-              "lat": 47.58549439
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bahamas",
-              "year": 2009,
-              "Cases": 46,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bahrain",
-              "year": 2009,
-              "Cases": 139,
-              "Deaths": 0,
-              "lon": 50.54196932,
-              "lat": 26.04205135
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bangladesh",
-              "year": 2009,
-              "Cases": 35,
-              "Deaths": 0,
-              "lon": 90.23812743,
-              "lat": 23.86731158
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Barbados",
-              "year": 2009,
-              "Cases": 84,
-              "Deaths": 0,
-              "lon": -59.559797,
-              "lat": 13.18145428
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Belgium",
-              "year": 2009,
-              "Cases": 473,
-              "Deaths": 0,
-              "lon": 4.64065114,
-              "lat": 50.63981576
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bermuda, UKOT",
-              "year": 2009,
-              "Cases": 9,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bolivia",
-              "year": 2009,
-              "Cases": 1200,
-              "Deaths": 0,
-              "lon": -64.68538645,
-              "lat": -16.70814787
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bosnia and Hezegovina",
-              "year": 2009,
-              "Cases": 2,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Brazil",
-              "year": 2009,
-              "Cases": 3973,
-              "Deaths": 3,
-              "lon": -53.09783113,
-              "lat": -10.78777702
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "British Virgin Islands, UKOT",
-              "year": 2009,
-              "Cases": 11,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Brunei Darussalam",
-              "year": 2009,
-              "Cases": 283,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Bulgaria",
-              "year": 2009,
-              "Cases": 67,
-              "Deaths": 0,
-              "lon": 25.21552909,
-              "lat": 42.76890318
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cambodia",
-              "year": 2009,
-              "Cases": 32,
-              "Deaths": 0,
-              "lon": 104.90694325,
-              "lat": 12.72004786
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Canada",
-              "year": 2009,
-              "Cases": 81685,
-              "Deaths": 194,
-              "lon": -98.30777028,
-              "lat": 61.36206324
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cap Verde",
-              "year": 2009,
-              "Cases": 18,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cayman Islands, UKOT",
-              "year": 2009,
-              "Cases": 86,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Chile",
-              "year": 2009,
-              "Cases": 53937,
-              "Deaths": 76,
-              "lon": -71.38256213,
-              "lat": -37.73070989
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "China",
-              "year": 2009,
-              "Cases": 11687,
-              "Deaths": 0,
-              "lon": 103.81907349,
-              "lat": 36.56176546
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "China",
-              "year": 2009,
-              "Cases": 11687,
-              "Deaths": 0,
-              "lon": 114.11380454,
-              "lat": 22.39827737
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "China",
-              "year": 2009,
-              "Cases": 11687,
-              "Deaths": 0,
-              "lon": 113.50932116,
-              "lat": 22.22311688
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Colombia",
-              "year": 2009,
-              "Cases": 1037,
-              "Deaths": 19,
-              "lon": -73.08114582,
-              "lat": 3.91383431
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cook Island",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Costa Rica",
-              "year": 2009,
-              "Cases": 2444,
-              "Deaths": 24,
-              "lon": -84.19208768,
-              "lat": 9.97634464
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Costa Rica*",
-              "year": 2009,
-              "Cases": 227,
-              "Deaths": 2,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cote d'Ivoire",
-              "year": 2009,
-              "Cases": 12,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Croatia",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": 16.40412899,
-              "lat": 45.08047631
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cuba",
-              "year": 2009,
-              "Cases": 383,
-              "Deaths": 0,
-              "lon": -79.01605384,
-              "lat": 21.62289528
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Cyprus",
-              "year": 2009,
-              "Cases": 280,
-              "Deaths": 0,
-              "lon": 33.0060022,
-              "lat": 34.91667211
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Czech Republic",
-              "year": 2009,
-              "Cases": 101,
-              "Deaths": 0,
-              "lon": 15.31240163,
-              "lat": 49.73341233
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Denmark",
-              "year": 2009,
-              "Cases": 422,
-              "Deaths": 0,
-              "lon": 10.02800992,
-              "lat": 55.98125296
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Denmark",
-              "year": 2009,
-              "Cases": 422,
-              "Deaths": 0,
-              "lon": -6.88095423,
-              "lat": 62.05385403
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Denmark",
-              "year": 2009,
-              "Cases": 422,
-              "Deaths": 0,
-              "lon": -41.34191127,
-              "lat": 74.71051289
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Dominica",
-              "year": 2009,
-              "Cases": 14,
-              "Deaths": 0,
-              "lon": -61.357726,
-              "lat": 15.4394702
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Dominican Republic",
-              "year": 2009,
-              "Cases": 1385,
-              "Deaths": 20,
-              "lon": -70.50568896,
-              "lat": 18.89433082
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Ecuador",
-              "year": 2009,
-              "Cases": 1719,
-              "Deaths": 0,
-              "lon": -78.75201922,
-              "lat": -1.42381612
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Egypt",
-              "year": 2009,
-              "Cases": 488,
-              "Deaths": 0,
-              "lon": 29.86190099,
-              "lat": 26.49593311
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "El Salvador",
-              "year": 2009,
-              "Cases": 2317,
-              "Deaths": 0,
-              "lon": -88.87164469,
-              "lat": 13.73943744
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Estonia",
-              "year": 2009,
-              "Cases": 103,
-              "Deaths": 0,
-              "lon": 25.54248537,
-              "lat": 58.67192972
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Ethiopia",
-              "year": 2009,
-              "Cases": 14,
-              "Deaths": 0,
-              "lon": 39.60080098,
-              "lat": 8.62278679
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Fiji",
-              "year": 2009,
-              "Cases": 13,
-              "Deaths": 0,
-              "lon": 165.45195432,
-              "lat": -17.42858032
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Finland",
-              "year": 2009,
-              "Cases": 274,
-              "Deaths": 0,
-              "lon": 19.95328768,
-              "lat": 60.21488688
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Finland",
-              "year": 2009,
-              "Cases": 274,
-              "Deaths": 0,
-              "lon": 26.2746656,
-              "lat": 64.49884603
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": 69.22666758,
-              "lat": -49.24895485
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": -62.84067779,
-              "lat": 17.89880451
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": -2.76172945,
-              "lat": 42.17344011
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": -63.05972851,
-              "lat": 18.08888611
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": 165.68492374,
-              "lat": -21.29991806
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": -144.90494387,
-              "lat": -14.72227409
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": -56.30319779,
-              "lat": 46.91918789
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France",
-              "year": 2009,
-              "Cases": 2417,
-              "Deaths": 0,
-              "lon": -177.34834825,
-              "lat": -13.88737039
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France, French Polynesia, FOC",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "France, Martinique, FOC",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Germany",
-              "year": 2009,
-              "Cases": 3787,
-              "Deaths": 0,
-              "lon": 10.38578051,
-              "lat": 51.10698181
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Grand Total",
-              "year": 2009,
-              "Cases": 785800,
-              "Deaths": 3774,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Greece",
-              "year": 2009,
-              "Cases": 735,
-              "Deaths": 0,
-              "lon": 22.95555794,
-              "lat": 39.07469623
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Guatemala",
-              "year": 2009,
-              "Cases": 525,
-              "Deaths": 3,
-              "lon": -90.36482009,
-              "lat": 15.69403664
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "GuatemalaÂ",
-              "year": 2009,
-              "Cases": 1915,
-              "Deaths": 13,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Guyana",
-              "year": 2009,
-              "Cases": 2,
-              "Deaths": 0,
-              "lon": -58.98202459,
-              "lat": 4.79378034
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Honduras",
-              "year": 2009,
-              "Cases": 1466,
-              "Deaths": 5,
-              "lon": -86.6151661,
-              "lat": 14.82688165
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Hungary",
-              "year": 2009,
-              "Cases": 96,
-              "Deaths": 0,
-              "lon": 19.39559116,
-              "lat": 47.16277506
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Iceland",
-              "year": 2009,
-              "Cases": 57,
-              "Deaths": 0,
-              "lon": -18.57396167,
-              "lat": 64.99575386
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "India",
-              "year": 2009,
-              "Cases": 686,
-              "Deaths": 0,
-              "lon": 79.61197609999998,
-              "lat": 22.88578212
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Indonesia",
-              "year": 2009,
-              "Cases": 46,
-              "Deaths": 0,
-              "lon": 117.24011366,
-              "lat": -2.21505456
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Iran",
-              "year": 2009,
-              "Cases": 4,
-              "Deaths": 0,
-              "lon": 54.27407004,
-              "lat": 32.57503292
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Iran, Islamic Republic",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Iraq",
-              "year": 2009,
-              "Cases": 44,
-              "Deaths": 0,
-              "lon": 43.74353149,
-              "lat": 33.03970582
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Ireland",
-              "year": 2009,
-              "Cases": 390,
-              "Deaths": 0,
-              "lon": -8.13793569,
-              "lat": 53.17544870000001
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Israel",
-              "year": 2009,
-              "Cases": 4179,
-              "Deaths": 0,
-              "lon": 35.00444693,
-              "lat": 31.46110101
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Israel",
-              "year": 2009,
-              "Cases": 4179,
-              "Deaths": 0,
-              "lon": 35.19628705,
-              "lat": 31.91613893
-            },
-            {
-              "Pandemic": "h1n1",
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Algeria",
+          "Year": 2009,
+          "Cases": 19,
+          "Deaths": 0,
+          "Lon": 2.61732301,
+          "Lat": 28.15893849,
+          "population": 35333882.00000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Antigua and Barbuda",
+          "Year": 2009,
+          "Cases": 12,
+          "Deaths": 0,
+          "Lon": -61.79469343,
+          "Lat": 17.277499600000002,
+          "population": 86743
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Argentina",
+          "Year": 2009,
+          "Cases": 14233,
+          "Deaths": 175,
+          "Lon": -65.17980692,
+          "Lat": -35.3813488,
+          "population": 40482786
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Australia",
+          "Year": 2009,
+          "Cases": 39497,
+          "Deaths": 39,
+          "Lon": 134.49100008,
+          "Lat": -25.73288704,
+          "population": 21750852.000000004
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Austria",
+          "Year": 2009,
+          "Cases": 149,
+          "Deaths": 0,
+          "Lon": 14.1264761,
+          "Lat": 47.58549439,
+          "population": 8372658.000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bahamas",
+          "Year": 2009,
+          "Cases": 46,
+          "Deaths": 0,
+          "Lon": -76.62843038,
+          "Lat": 24.29036702,
+          "population": 349600
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bahrain",
+          "Year": 2009,
+          "Cases": 139,
+          "Deaths": 0,
+          "Lon": 50.54196932,
+          "Lat": 26.04205135,
+          "population": 1185075
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bangladesh",
+          "Year": 2009,
+          "Cases": 35,
+          "Deaths": 0,
+          "Lon": 90.23812743,
+          "Lat": 23.86731158,
+          "population": 145924795
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Barbados",
+          "Year": 2009,
+          "Cases": 84,
+          "Deaths": 0,
+          "Lon": -59.559796999999996,
+          "Lat": 13.18145428,
+          "population": 281107
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Belgium",
+          "Year": 2009,
+          "Cases": 473,
+          "Deaths": 0,
+          "Lon": 4.64065114,
+          "Lat": 50.63981576,
+          "population": 10859934
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bermuda",
+          "Year": 2009,
+          "Cases": 9,
+          "Deaths": 0,
+          "Lon": -64.7545589,
+          "Lat": 32.31367802,
+          "population": 65675
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bolivia (Plurinational State of)",
+          "Year": 2009,
+          "Cases": 1200,
+          "Deaths": 0,
+          "Lon": -64.68538645,
+          "Lat": -16.70814787,
+          "population": 9884790
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bosnia and Herzegovina",
+          "Year": 2009,
+          "Cases": 2,
+          "Deaths": 0,
+          "Lon": 17.76876733,
+          "Lat": 44.17450125,
+          "population": 3735945
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Brazil",
+          "Year": 2009,
+          "Cases": 3973,
+          "Deaths": 3,
+          "Lon": -53.09783113,
+          "Lat": -10.78777702,
+          "population": 193886505
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "British Virgin Islands",
+          "Year": 2009,
+          "Cases": 11,
+          "Deaths": 0,
+          "Lon": -64.47146992,
+          "Lat": 18.52585755,
+          "population": 27035
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Brunei Darussalam",
+          "Year": 2009,
+          "Cases": 283,
+          "Deaths": 0,
+          "Lon": 114.72203035,
+          "Lat": 4.51968958,
+          "population": 383902
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Bulgaria",
+          "Year": 2009,
+          "Cases": 67,
+          "Deaths": 0,
+          "Lon": 25.21552909,
+          "Lat": 42.76890318,
+          "population": 7473509
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Cambodia",
+          "Year": 2009,
+          "Cases": 32,
+          "Deaths": 0,
+          "Lon": 104.90694325,
+          "Lat": 12.72004786,
+          "population": 14093605
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Canada",
+          "Year": 2009,
+          "Cases": 81685,
+          "Deaths": 194,
+          "Lon": -98.30777028,
+          "Lat": 61.36206324,
+          "population": 33746093
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Cabo Verde",
+          "Year": 2009,
+          "Cases": 18,
+          "Deaths": 0,
+          "Lon": -23.959888199999998,
+          "Lat": 15.95523324,
+          "population": 486667
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Cayman Islands",
+          "Year": 2009,
+          "Cases": 86,
+          "Deaths": 0,
+          "Lon": -80.91213321,
+          "Lat": 19.42896497,
+          "population": 55321.00000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Chile",
+          "Year": 2009,
+          "Cases": 53937,
+          "Deaths": 76,
+          "Lon": -71.38256213,
+          "Lat": -37.73070989,
+          "population": 16886183.999999996
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "China",
+          "Year": 2009,
+          "Cases": 11687,
+          "Deaths": 0,
+          "Lon": 103.81907349,
+          "Lat": 36.56176546,
+          "population": 1361169410
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Colombia",
+          "Year": 2009,
+          "Cases": 1037,
+          "Deaths": 19,
+          "Lon": -73.08114582,
+          "Lat": 3.91383431,
+          "population": 44750054
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Cook Islands",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": -159.78724218,
+          "Lat": -21.21927288,
+          "population": 18602
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Costa Rica",
+          "Year": 2009,
+          "Cases": 2671,
+          "Deaths": 26,
+          "Lon": -84.19208768,
+          "Lat": 9.97634464,
+          "population": 4520739.000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Côte d'Ivoire",
+          "Year": 2009,
+          "Cases": 12,
+          "Deaths": 0,
+          "Lon": -5.5692157,
+          "Lat": 7.6284262,
+          "population": 20059147
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Croatia",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": 16.40412899,
+          "Lat": 45.08047631,
+          "population": 4341260.999999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Cuba",
+          "Year": 2009,
+          "Cases": 383,
+          "Deaths": 0,
+          "Lon": -79.01605384,
+          "Lat": 21.62289528,
+          "population": 11226711.000000002
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Cyprus",
+          "Year": 2009,
+          "Cases": 280,
+          "Deaths": 0,
+          "Lon": 33.0060022,
+          "Lat": 34.91667211,
+          "population": 1098089
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Czechia",
+          "Year": 2009,
+          "Cases": 101,
+          "Deaths": 0,
+          "Lon": 15.31240163,
+          "Lat": 49.73341233,
+          "population": 10488155
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Denmark",
+          "Year": 2009,
+          "Cases": 422,
+          "Deaths": 0,
+          "Lon": 10.02800992,
+          "Lat": 55.98125296,
+          "population": 5526389
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Dominica",
+          "Year": 2009,
+          "Cases": 14,
+          "Deaths": 0,
+          "Lon": -61.357726,
+          "Lat": 15.439470199999999,
+          "population": 70848
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Dominican Republic",
+          "Year": 2009,
+          "Cases": 1385,
+          "Deaths": 20,
+          "Lon": -70.50568896,
+          "Lat": 18.89433082,
+          "population": 9576735.999999998
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Ecuador",
+          "Year": 2009,
+          "Cases": 1719,
+          "Deaths": 0,
+          "Lon": -78.75201922,
+          "Lat": -1.42381612,
+          "population": 14774412
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Egypt",
+          "Year": 2009,
+          "Cases": 488,
+          "Deaths": 0,
+          "Lon": 29.86190099,
+          "Lat": 26.49593311,
+          "population": 81134789
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "El Salvador",
+          "Year": 2009,
+          "Cases": 2317,
+          "Deaths": 0,
+          "Lon": -88.87164469,
+          "Lat": 13.73943744,
+          "population": 6157678.000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Estonia",
+          "Year": 2009,
+          "Cases": 103,
+          "Deaths": 0,
+          "Lon": 25.54248537,
+          "Lat": 58.67192972,
+          "population": 1336140
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Ethiopia",
+          "Year": 2009,
+          "Cases": 14,
+          "Deaths": 0,
+          "Lon": 39.60080098,
+          "Lat": 8.62278679,
+          "population": 85233923.00000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Fiji",
+          "Year": 2009,
+          "Cases": 13,
+          "Deaths": 0,
+          "Lon": 165.45195432,
+          "Lat": -17.42858032,
+          "population": 853636.0000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Finland",
+          "Year": 2009,
+          "Cases": 274,
+          "Deaths": 0,
+          "Lon": 26.274665600000002,
+          "Lat": 64.49884603,
+          "population": 5342266
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "France",
+          "Year": 2009,
+          "Cases": 2417,
+          "Deaths": 0,
+          "Lon": -2.76172945,
+          "Lat": 42.17344011,
+          "population": 62542883
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "French Polynesia",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": -144.90494387,
+          "Lat": -14.72227409,
+          "population": 265256
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "French Polynesia",
+          "Year": 2009,
+          "Cases": 15,
+          "Deaths": 0,
+          "Lon": -144.90494387,
+          "Lat": -14.72227409,
+          "population": 265256
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Germany",
+          "Year": 2009,
+          "Cases": 3787,
+          "Deaths": 0,
+          "Lon": 10.38578051,
+          "Lat": 51.10698181,
+          "population": 80899961
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Greece",
+          "Year": 2009,
+          "Cases": 735,
+          "Deaths": 0,
+          "Lon": 22.95555794,
+          "Lat": 39.07469623,
+          "population": 10959268
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Guatemala",
+          "Year": 2009,
+          "Cases": 2440,
+          "Deaths": 16,
+          "Lon": -90.36482009,
+          "Lat": 15.69403664,
+          "population": 14316251
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Guyana",
+          "Year": 2009,
+          "Cases": 2,
+          "Deaths": 0,
+          "Lon": -58.98202459,
+          "Lat": 4.79378034,
+          "population": 747718.0000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Honduras",
+          "Year": 2009,
+          "Cases": 1466,
+          "Deaths": 5,
+          "Lon": -86.6151661,
+          "Lat": 14.82688165,
+          "population": 8150780
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Hungary",
+          "Year": 2009,
+          "Cases": 96,
+          "Deaths": 0,
+          "Lon": 19.39559116,
+          "Lat": 47.16277506,
+          "population": 9959439
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Iceland",
+          "Year": 2009,
+          "Cases": 57,
+          "Deaths": 0,
+          "Lon": -18.57396167,
+          "Lat": 64.99575386,
+          "population": 316057
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "India",
+          "Year": 2009,
+          "Cases": 686,
+          "Deaths": 0,
+          "Lon": 79.61197609999999,
+          "Lat": 22.88578212,
+          "population": 1217726217
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Indonesia",
+          "Year": 2009,
+          "Cases": 46,
+          "Deaths": 0,
+          "Lon": 117.24011366,
+          "Lat": -2.21505456,
+          "population": 238620553.99999997
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Iran (Islamic Republic of)",
+          "Year": 2009,
+          "Cases": 4,
+          "Deaths": 0,
+          "Lon": 54.27407004,
+          "Lat": 32.57503292,
+          "population": 72924833
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Iraq",
+          "Year": 2009,
+          "Cases": 44,
+          "Deaths": 0,
+          "Lon": 43.74353149,
+          "Lat": 33.03970582,
+          "population": 28973157.000000004
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Ireland",
+          "Year": 2009,
+          "Cases": 390,
+          "Deaths": 0,
+          "Lon": -8.13793569,
+          "Lat": 53.17544870000001,
+          "population": 4494572
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Isle of Man",
+          "Year": 2009,
+          "Cases": 8,
+          "Deaths": 0,
+          "Lon": -4.53873952,
+          "Lat": 54.22418911,
+          "population": 84378.99999999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Israel",
+          "Year": 2009,
+          "Cases": 4179,
+          "Deaths": 0,
+          "Lon": 35.00444693,
+          "Lat": 31.46110101,
+          "population": 7190036.999999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Italy",
+          "Year": 2009,
+          "Cases": 1432,
+          "Deaths": 0,
+          "Lon": 12.07001339,
+          "Lat": 42.79662641,
+          "population": 59105622
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Jamaica",
+          "Year": 2009,
+          "Cases": 249,
+          "Deaths": 0,
+          "Lon": -77.31482593,
+          "Lat": 18.15694878,
+          "population": 2795839.0000000005
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Japan",
+          "Year": 2009,
+          "Cases": 15334,
+          "Deaths": 0,
+          "Lon": 138.03089558,
+          "Lat": 37.59230135,
+          "population": 128555196
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Jordan",
+          "Year": 2009,
+          "Cases": 130,
+          "Deaths": 0,
+          "Lon": 36.77136104,
+          "Lat": 31.24579091,
+          "population": 6893258.000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Kenya",
+          "Year": 2009,
+          "Cases": 28,
+          "Deaths": 0,
+          "Lon": 37.79593973,
+          "Lat": 0.59988022,
+          "population": 40901797.99999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Republic of Korea",
+          "Year": 2009,
+          "Cases": 1781,
+          "Deaths": 0,
+          "Lon": 127.83916086,
+          "Lat": 36.38523983,
+          "population": 49347450
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Kuwait",
+          "Year": 2009,
+          "Cases": 468,
+          "Deaths": 0,
+          "Lon": 47.58700459,
+          "Lat": 29.33431262,
+          "population": 2821040.9999999995
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Lao People's Democratic Republic",
+          "Year": 2009,
+          "Cases": 23,
+          "Deaths": 0,
+          "Lon": 103.73772412,
+          "Lat": 18.50217433,
+          "population": 6148621
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Latvia",
+          "Year": 2009,
+          "Cases": 6,
+          "Deaths": 0,
+          "Lon": 24.91235983,
+          "Lat": 56.85085163,
+          "population": 2144784
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Lebanon",
+          "Year": 2009,
+          "Cases": 286,
+          "Deaths": 0,
+          "Lon": 35.88016072,
+          "Lat": 33.92306631,
+          "population": 4813026
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Liechtenstein",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": 9.53574312,
+          "Lat": 47.13665835,
+          "population": 35723
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Lithuania",
+          "Year": 2009,
+          "Cases": 8,
+          "Deaths": 0,
+          "Lon": 23.88719355,
+          "Lat": 55.32610984,
+          "population": 3167270
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Luxembourg",
+          "Year": 2009,
+          "Cases": 37,
+          "Deaths": 0,
+          "Lon": 6.07182201,
+          "Lat": 49.76725361,
+          "population": 496536
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Malaysia",
+          "Year": 2009,
+          "Cases": 688,
+          "Deaths": 0,
+          "Lon": 109.69762284,
+          "Lat": 3.78986846,
+          "population": 27735037.999999996
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Malta",
+          "Year": 2009,
+          "Cases": 26,
+          "Deaths": 0,
+          "Lon": 14.40523316,
+          "Lat": 35.92149632,
+          "population": 411559
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Mauritius",
+          "Year": 2009,
+          "Cases": 9,
+          "Deaths": 0,
+          "Lon": 57.57120551,
+          "Lat": -20.27768704,
+          "population": 1243996
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Mexico",
+          "Year": 2009,
+          "Cases": 142567,
+          "Deaths": 2271,
+          "Lon": -102.52345169,
+          "Lat": 23.94753724,
+          "population": 112463886
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Monaco",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": 7.40627677,
+          "Lat": 43.75274627,
+          "population": 35223
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Montenegro",
+          "Year": 2009,
+          "Cases": 26,
+          "Deaths": 0,
+          "Lon": 19.23883939,
+          "Lat": 42.78890259,
+          "population": 622933
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Morocco",
+          "Year": 2009,
+          "Cases": 100,
+          "Deaths": 0,
+          "Lon": -8.45615795,
+          "Lat": 29.83762955,
+          "population": 31929087.000000004
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Myanmar",
+          "Year": 2009,
+          "Cases": 3,
+          "Deaths": 0,
+          "Lon": 96.48843321,
+          "Lat": 21.18566599,
+          "population": 50250365.99999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Nepal",
+          "Year": 2009,
+          "Cases": 16,
+          "Deaths": 0,
+          "Lon": 83.91582640000001,
+          "Lat": 28.24891365,
+          "population": 26883531.000000004
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Netherlands",
+          "Year": 2009,
+          "Cases": 1171,
+          "Deaths": 0,
+          "Lon": 5.28144793,
+          "Lat": 52.100789899999995,
+          "population": 16626379
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Curaçao",
+          "Year": 2009,
+          "Cases": 38,
+          "Deaths": 0,
+          "Lon": -68.97119369,
+          "Lat": 12.19551675,
+          "population": 145364
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Saint Martin (French part)",
+          "Year": 2009,
+          "Cases": 26,
+          "Deaths": 0,
+          "Lon": -63.05972851,
+          "Lat": 18.08888611,
+          "population": 37380
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Aruba",
+          "Year": 2009,
+          "Cases": 10,
+          "Deaths": 0,
+          "Lon": -69.98267711,
+          "Lat": 12.52088038,
+          "population": 101452.00000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Curaçao",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": -68.97119369,
+          "Lat": 12.19551675,
+          "population": 145364
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "New Zealand",
+          "Year": 2009,
+          "Cases": 4957,
+          "Deaths": 3,
+          "Lon": 171.48492347,
+          "Lat": -41.81113557,
+          "population": 4323338
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Nicaragua",
+          "Year": 2009,
+          "Cases": 2345,
+          "Deaths": 0,
+          "Lon": -85.0305297,
+          "Lat": 12.84709429,
+          "population": 5745538
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Norway",
+          "Year": 2009,
+          "Cases": 330,
+          "Deaths": 0,
+          "Lon": 15.34834656,
+          "Lat": 68.75015572,
+          "population": 4826847
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Oman",
+          "Year": 2009,
+          "Cases": 25,
+          "Deaths": 0,
+          "Lon": 56.09166155,
+          "Lat": 20.60515333,
+          "population": 2876185.9999999995
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Palau",
+          "Year": 2009,
+          "Cases": 2,
+          "Deaths": 0,
+          "Lon": 134.40807966,
+          "Lat": 7.28742784,
+          "population": 18290
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Panama",
+          "Year": 2009,
+          "Cases": 5176,
+          "Deaths": 0,
+          "Lon": -80.11915156,
+          "Lat": 8.51750797,
+          "population": 3579215
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Papua New Guinea",
+          "Year": 2009,
+          "Cases": 8,
+          "Deaths": 0,
+          "Lon": 145.20744752,
+          "Lat": -6.46416646,
+          "population": 7144774
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Paraguay",
+          "Year": 2009,
+          "Cases": 738,
+          "Deaths": 1,
+          "Lon": -58.40013703,
+          "Lat": -23.22823913,
+          "population": 6163970
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Peru",
+          "Year": 2009,
+          "Cases": 3856,
+          "Deaths": 0,
+          "Lon": -74.38242685,
+          "Lat": -9.15280381,
+          "population": 28792662.999999996
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Philippines",
+          "Year": 2009,
+          "Cases": 7269,
+          "Deaths": 6,
+          "Lon": 122.88393253,
+          "Lat": 11.77536778,
+          "population": 92414161
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Poland",
+          "Year": 2009,
+          "Cases": 185,
+          "Deaths": 0,
+          "Lon": 19.39012835,
+          "Lat": 52.12759564,
+          "population": 38351924
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Portugal",
+          "Year": 2009,
+          "Cases": 145,
+          "Deaths": 0,
+          "Lon": -8.50104361,
+          "Lat": 39.59550671,
+          "population": 10604066
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Puerto Rico",
+          "Year": 2009,
+          "Cases": 18,
+          "Deaths": 0,
+          "Lon": -66.47307604,
+          "Lat": 18.22813055,
+          "population": 3596532
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Qatar",
+          "Year": 2009,
+          "Cases": 87,
+          "Deaths": 0,
+          "Lon": 51.18479632,
+          "Lat": 25.30601188,
+          "population": 1654944
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Romania",
+          "Year": 2009,
+          "Cases": 291,
+          "Deaths": 0,
+          "Lon": 24.97293039,
+          "Lat": 45.85243127,
+          "population": 20637995
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Russian Federation",
+          "Year": 2009,
+          "Cases": 59,
+          "Deaths": 0,
+          "Lon": 96.68656112,
+          "Lat": 61.98052209,
+          "population": 143326904
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Saint Lucia",
+          "Year": 2009,
+          "Cases": 3,
+          "Deaths": 0,
+          "Lon": -60.96969923,
+          "Lat": 13.89479481,
+          "population": 172222.99999999997
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Samoa",
+          "Year": 2009,
+          "Cases": 9,
+          "Deaths": 0,
+          "Lon": -172.16485064,
+          "Lat": -13.75324346,
+          "population": 184553
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Saudi Arabia",
+          "Year": 2009,
+          "Cases": 536,
+          "Deaths": 0,
+          "Lon": 44.53686271,
+          "Lat": 24.12245841,
+          "population": 26630303
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Serbia",
+          "Year": 2009,
+          "Cases": 49,
+          "Deaths": 0,
+          "Lon": 20.78958334,
+          "Lat": 44.2215032,
+          "population": 9023354
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Singapore",
+          "Year": 2009,
+          "Cases": 4157,
+          "Deaths": 0,
+          "Lon": 103.81725592,
+          "Lat": 1.35876087,
+          "population": 4966614.000000001
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Slovakia",
+          "Year": 2009,
+          "Cases": 101,
+          "Deaths": 0,
+          "Lon": 19.47905218,
+          "Lat": 48.70547528,
+          "population": 5401149
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Slovenia",
+          "Year": 2009,
+          "Cases": 32,
+          "Deaths": 0,
+          "Lon": 14.80444238,
+          "Lat": 46.11554772,
+          "population": 2033807
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "South Africa",
+          "Year": 2009,
+          "Cases": 36,
+          "Deaths": 0,
+          "Lon": 25.08390093,
+          "Lat": -29.00034095,
+          "population": 50477013
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Spain",
+          "Year": 2009,
+          "Cases": 8614,
+          "Deaths": 3,
+          "Lon": -3.64755047,
+          "Lat": 40.24448698,
+          "population": 46583566
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Sri Lanka",
+          "Year": 2009,
+          "Cases": 78,
+          "Deaths": 0,
+          "Lon": 80.70108238,
+          "Lat": 7.61266509,
+          "population": 20123508
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Suriname",
+          "Year": 2009,
+          "Cases": 88,
+          "Deaths": 0,
+          "Lon": -55.9123457,
+          "Lat": 4.13055413,
+          "population": 523113.00000000006
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Sweden",
+          "Year": 2009,
+          "Cases": 678,
+          "Deaths": 0,
+          "Lon": 16.74558049,
+          "Lat": 62.77966519,
+          "population": 9313085
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Switzerland",
+          "Year": 2009,
+          "Cases": 555,
+          "Deaths": 0,
+          "Lon": 8.20867471,
+          "Lat": 46.79785878,
+          "population": 7713901.999999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Syrian Arab Republic",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": 38.50788204,
+          "Lat": 35.02547389,
+          "population": 21205873
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Thailand",
+          "Year": 2009,
+          "Cases": 8726,
+          "Deaths": 13,
+          "Lon": 101.0028813,
+          "Lat": 15.11815794,
+          "population": 66866834
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Togo",
+          "Year": 2009,
+          "Cases": 330,
+          "Deaths": 0,
+          "Lon": 0.96232845,
+          "Lat": 8.52531356,
+          "population": 6250840
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Tunisia",
+          "Year": 2009,
+          "Cases": 17,
+          "Deaths": 0,
+          "Lon": 9.55288359,
+          "Lat": 34.11956246,
+          "population": 10525691
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Turkey",
+          "Year": 2009,
+          "Cases": 323,
+          "Deaths": 0,
+          "Lon": 35.16895346,
+          "Lat": 39.0616029,
+          "population": 71321406
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Uganda",
+          "Year": 2009,
+          "Cases": 2,
+          "Deaths": 0,
+          "Lon": 32.36907971,
+          "Lat": 1.27469299,
+          "population": 31411096
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Ukraine",
+          "Year": 2009,
+          "Cases": 13,
+          "Deaths": 0,
+          "Lon": 31.38326469,
+          "Lat": 48.99656673,
+          "population": 45970942
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "United Arab Emirates",
+          "Year": 2009,
+          "Cases": 51,
+          "Deaths": 0,
+          "Lon": 54.300167099999996,
+          "Lat": 23.90528188,
+          "population": 7917368
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "United Kingdom",
+          "Year": 2009,
+          "Cases": 43708,
+          "Deaths": 15,
+          "Lon": -2.86563164,
+          "Lat": 54.12387156,
+          "population": 62828620
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Isle of Man",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": -4.53873952,
+          "Lat": 54.22418911,
+          "population": 84378.99999999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "United States of America",
+          "Year": 2009,
+          "Cases": 358659,
+          "Deaths": 1194,
+          "Lon": -112.46167369999999,
+          "Lat": 45.6795472,
+          "population": 306307565
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Uruguay",
+          "Year": 2009,
+          "Cases": 1458,
+          "Deaths": 6,
+          "Lon": -56.01807053,
+          "Lat": -32.79951534,
+          "population": 3349676
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Vanuatu",
+          "Year": 2009,
+          "Cases": 11,
+          "Deaths": 0,
+          "Lon": 167.68644636,
+          "Lat": -16.22640909,
+          "population": 230244.00000000003
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Venezuela (Bolivarian Republic of)",
+          "Year": 2009,
+          "Cases": 1327,
+          "Deaths": 0,
+          "Lon": -66.18184123,
+          "Lat": 7.12422421,
+          "population": 28031010
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Viet Nam",
+          "Year": 2009,
+          "Cases": 822,
+          "Deaths": 0,
+          "Lon": 106.29914698,
+          "Lat": 16.646016699999997,
+          "population": 87092250
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "United States Virgin Islands",
+          "Year": 2009,
+          "Cases": 1,
+          "Deaths": 0,
+          "Lon": -64.80301538,
+          "Lat": 17.95500624,
+          "population": 106416
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Israel",
+          "Year": 2009,
+          "Cases": 146,
+          "Deaths": 0,
+          "Lon": 35.00444693,
+          "Lat": 31.46110101,
+          "population": 7190036.999999999
+        },
+        {
+          "Pandemic": "Swineflu",
+          "Country": "Yemen",
+          "Year": 2009,
+          "Cases": 50,
+          "Deaths": 0,
+          "Lon": 47.58676189,
+          "Lat": 15.90928005,
+          "population": 22516464
+        },{
+          "Country": "Afghanistan",
+          "Year": 2020,
+          "Cases": 363,
+          "Deaths": 3,
+          "name": "Afghanistan",
+          "Lon": 66.00473366,
+          "Lat": 33.83523073,
+          "population": 35383028,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Albania",
+          "Year": 2020,
+          "Cases": 851,
+          "Deaths": 26,
+          "name": "Albania",
+          "Lon": 20.04983396,
+          "Lat": 41.14244989,
+          "population": 2886427,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Algeria",
+          "Year": 2020,
+          "Cases": 1485,
+          "Deaths": 113,
+          "name": "Algeria",
+          "Lon": 2.61732301,
+          "Lat": 28.15893849,
+          "population": 40551398,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Andorra",
+          "Year": 2020,
+          "Cases": 720,
+          "Deaths": 3,
+          "name": "Andorra",
+          "Lon": 1.56054378,
+          "Lat": 42.54229102,
+          "population": 77295,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Angola",
+          "Year": 2020,
+          "Cases": 11,
+          "Deaths": 0,
+          "name": "Angola",
+          "Lon": 17.53736768,
+          "Lat": -12.29336054,
+          "population": 28842482.000000004,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Antigua and Barbuda",
+          "Year": 2020,
+          "Cases": 16,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 94520,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Argentina",
+          "Year": 2020,
+          "Cases": 1707,
+          "Deaths": 41,
+          "name": "Argentina",
+          "Lon": -65.17980692,
+          "Lat": -35.3813488,
+          "population": 43508459,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Armenia",
+          "Year": 2020,
+          "Cases": 1370,
+          "Deaths": 0,
+          "name": "Armenia",
+          "Lon": 44.92993276,
+          "Lat": 40.28952569,
+          "population": 2936147,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Aruba",
+          "Year": 2020,
+          "Cases": 19,
+          "Deaths": 0,
+          "name": "Aruba",
+          "Lon": -69.98267711,
+          "Lat": 12.52088038,
+          "population": 104865,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Australia",
+          "Year": 2020,
+          "Cases": 11286,
+          "Deaths": 93,
+          "name": "Australia",
+          "Lon": 134.49100008,
+          "Lat": -25.73288704,
+          "population": 24262710,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Austria",
+          "Year": 2020,
+          "Cases": 27808,
+          "Deaths": 99,
+          "name": "Austria",
+          "Lon": 14.1264761,
+          "Lat": 47.58549439,
+          "population": 8747306,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Azerbaijan",
+          "Year": 2020,
+          "Cases": 574,
+          "Deaths": 12,
+          "name": "Azerbaijan",
+          "Lon": 47.54599879,
+          "Lat": 40.28827235,
+          "population": 9736041,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bahamas",
+          "Year": 2020,
+          "Cases": 26,
+          "Deaths": 0,
+          "name": "Bahamas",
+          "Lon": -76.62843038,
+          "Lat": 24.29036702,
+          "population": 377923,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bahrain",
+          "Year": 2020,
+          "Cases": 4526,
+          "Deaths": 13,
+          "name": "Bahrain",
+          "Lon": 50.54196932,
+          "Lat": 26.04205135,
+          "population": 1425793,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bangladesh",
+          "Year": 2020,
+          "Cases": 219,
+          "Deaths": 14,
+          "name": "Bangladesh",
+          "Lon": 90.23812743,
+          "Lat": 23.86731158,
+          "population": 157977150.99999997,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Barbados",
+          "Year": 2020,
+          "Cases": 69,
+          "Deaths": 0,
+          "name": "Barbados",
+          "Lon": -59.559796999999996,
+          "Lat": 13.18145428,
+          "population": 285798,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Belarus",
+          "Year": 2020,
+          "Cases": 709,
+          "Deaths": 0,
+          "name": "Belarus",
+          "Lon": 28.03209307,
+          "Lat": 53.53131377,
+          "population": 9445638,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Belgium",
+          "Year": 2020,
+          "Cases": 25935,
+          "Deaths": 456,
+          "name": "Belgium",
+          "Lon": 4.64065114,
+          "Lat": 50.63981576,
+          "population": 11354407,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Belize",
+          "Year": 2020,
+          "Cases": 2,
+          "Deaths": 0,
+          "name": "Belize",
+          "Lon": -88.71010486,
+          "Lat": 17.20027509,
+          "population": 368399,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Benin",
+          "Year": 2020,
+          "Cases": 23,
+          "Deaths": 0,
+          "name": "Benin",
+          "Lon": 2.32785254,
+          "Lat": 9.6417597,
+          "population": 10872072,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bhutan",
+          "Year": 2020,
+          "Cases": 24,
+          "Deaths": 0,
+          "name": "Bhutan",
+          "Lon": 90.40188155,
+          "Lat": 27.41106589,
+          "population": 736706,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bolivia (Plurinational State of)",
+          "Year": 2020,
+          "Cases": 187,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 11031822,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bosnia and Herzegovina",
+          "Year": 2020,
+          "Cases": 849,
+          "Deaths": 6,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 3386263,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Brazil",
+          "Year": 2020,
+          "Cases": 9720,
+          "Deaths": 141,
+          "name": "Brazil",
+          "Lon": -53.09783113,
+          "Lat": -10.78777702,
+          "population": 206163056,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Brunei Darussalam",
+          "Year": 2020,
+          "Cases": 848,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 419791,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Bulgaria",
+          "Year": 2020,
+          "Cases": 1342,
+          "Deaths": 31,
+          "name": "Bulgaria",
+          "Lon": 25.21552909,
+          "Lat": 42.76890318,
+          "population": 7151948,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Burkina Faso",
+          "Year": 2020,
+          "Cases": 487,
+          "Deaths": 17,
+          "name": "Burkina Faso",
+          "Lon": -1.75456601,
+          "Lat": 12.26953846,
+          "population": 18646350,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Cabo Verde",
+          "Year": 2020,
+          "Cases": 14,
+          "Deaths": 1,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 531140,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Cambodia",
+          "Year": 2020,
+          "Cases": 550,
+          "Deaths": 0,
+          "name": "Cambodia",
+          "Lon": 104.90694325,
+          "Lat": 12.72004786,
+          "population": 15766290,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Cameroon",
+          "Year": 2020,
+          "Cases": 264,
+          "Deaths": 0,
+          "name": "Cameroon",
+          "Lon": 12.73964156,
+          "Lat": 5.69109849,
+          "population": 23926549,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Canada",
+          "Year": 2020,
+          "Cases": 12502,
+          "Deaths": 136,
+          "name": "Canada",
+          "Lon": -98.30777028,
+          "Lat": 61.36206324,
+          "population": 36382942,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Cayman Islands",
+          "Year": 2020,
+          "Cases": 3,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 62563.99999999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Central African Republic",
+          "Year": 2020,
+          "Cases": 20,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 4537683,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Chad",
+          "Year": 2020,
+          "Cases": 8,
+          "Deaths": 0,
+          "name": "Chad",
+          "Lon": 18.64492513,
+          "Lat": 15.33333758,
+          "population": 14561658.000000002,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Channel Islands",
+          "Year": 2020,
+          "Cases": 1,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 166922,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Chile",
+          "Year": 2020,
+          "Cases": 4370,
+          "Deaths": 5,
+          "name": "Chile",
+          "Lon": -71.38256213,
+          "Lat": -37.73070989,
+          "population": 18209072,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "China",
+          "Year": 2020,
+          "Cases": 3606533,
+          "Deaths": 122579,
+          "name": "China",
+          "Lon": 103.81907349,
+          "Lat": 36.56176546,
+          "population": 1414049353,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "China, Hong Kong SAR",
+          "Year": 2020,
+          "Cases": 5646,
+          "Deaths": 114,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 7243541,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "China, Macao SAR",
+          "Year": 2020,
+          "Cases": 638,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 612824.0000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "China, Taiwan Province of China",
+          "Year": 2020,
+          "Cases": 2582,
+          "Deaths": 43,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 23618201,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Colombia",
+          "Year": 2020,
+          "Cases": 1618,
+          "Deaths": 8,
+          "name": "Colombia",
+          "Lon": -73.08114582,
+          "Lat": 3.91383431,
+          "population": 48175047.99999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Congo",
+          "Year": 2020,
+          "Cases": 25,
+          "Deaths": 0,
+          "name": "Congo",
+          "Lon": 15.21965762,
+          "Lat": -0.83787463,
+          "population": 4980996,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Costa Rica",
+          "Year": 2020,
+          "Cases": 1006,
+          "Deaths": 10,
+          "name": "Costa Rica",
+          "Lon": -84.19208768,
+          "Lat": 9.97634464,
+          "population": 4899335.999999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Croatia",
+          "Year": 2020,
+          "Cases": 1872,
+          "Deaths": 6,
+          "name": "Croatia",
+          "Lon": 16.40412899,
+          "Lat": 45.08047631,
+          "population": 4208611,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Cuba",
+          "Year": 2020,
+          "Cases": 202,
+          "Deaths": 7,
+          "name": "Cuba",
+          "Lon": -79.01605384,
+          "Lat": 21.62289528,
+          "population": 11335108,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "CuraÃ§ao",
+          "Year": 2020,
+          "Cases": 2,
+          "Deaths": 0,
+          "name": "CuraÃ§ao",
+          "Lon": -68.97119369,
+          "Lat": 12.19551675,
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Cyprus",
+          "Year": 2020,
+          "Cases": 764,
+          "Deaths": 5,
+          "name": "Cyprus",
+          "Lon": 33.0060022,
+          "Lat": 34.91667211,
+          "population": 1170188.9999999998,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Czechia",
+          "Year": 2020,
+          "Cases": 8369,
+          "Deaths": 5,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 10618868,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "CÃ´te d'Ivoire",
+          "Year": 2020,
+          "Cases": 162,
+          "Deaths": 0,
+          "name": "CÃ´te d'Ivoire",
+          "Lon": -5.5692157,
+          "Lat": 7.6284262,
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Democratic Republic of the Congo",
+          "Year": 2020,
+          "Cases": 183,
+          "Deaths": 5,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 78789130,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Denmark",
+          "Year": 2020,
+          "Cases": 15905,
+          "Deaths": 111,
+          "name": "Denmark",
+          "Lon": 10.02800992,
+          "Lat": 55.98125296,
+          "population": 5711346,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Djibouti",
+          "Year": 2020,
+          "Cases": 11,
+          "Deaths": 0,
+          "name": "Djibouti",
+          "Lon": 42.560675399999994,
+          "Lat": 11.74871806,
+          "population": 929117,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Dominica",
+          "Year": 2020,
+          "Cases": 5,
+          "Deaths": 0,
+          "name": "Dominica",
+          "Lon": -61.357726,
+          "Lat": 15.439470199999999,
+          "population": 71307,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Dominican Republic",
+          "Year": 2020,
+          "Cases": 1091,
+          "Deaths": 20,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 10397738.000000002,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Ecuador",
+          "Year": 2020,
+          "Cases": 4349,
+          "Deaths": 84,
+          "name": "Ecuador",
+          "Lon": -78.75201922,
+          "Lat": -1.42381612,
+          "population": 16491116.000000002,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Egypt",
+          "Year": 2020,
+          "Cases": 3118,
+          "Deaths": 100,
+          "name": "Egypt",
+          "Lon": 29.86190099,
+          "Lat": 26.49593311,
+          "population": 94447071,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "El Salvador",
+          "Year": 2020,
+          "Cases": 16,
+          "Deaths": 0,
+          "name": "El Salvador",
+          "Lon": -88.87164469,
+          "Lat": 13.73943744,
+          "population": 6356137,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Equatorial Guinea",
+          "Year": 2020,
+          "Cases": 49,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 1215181,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Eritrea",
+          "Year": 2020,
+          "Cases": 4,
+          "Deaths": 0,
+          "name": "Eritrea",
+          "Lon": 38.84617011,
+          "Lat": 15.36186618,
+          "population": 3376558,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Estonia",
+          "Year": 2020,
+          "Cases": 3052,
+          "Deaths": 0,
+          "name": "Estonia",
+          "Lon": 25.54248537,
+          "Lat": 58.67192972,
+          "population": 1316507,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Eswatini",
+          "Year": 2020,
+          "Cases": 20,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 1113994,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Ethiopia",
+          "Year": 2020,
+          "Cases": 77,
+          "Deaths": 0,
+          "name": "Ethiopia",
+          "Lon": 39.60080098,
+          "Lat": 8.62278679,
+          "population": 103603461,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Faroe Islands",
+          "Year": 2020,
+          "Cases": 10,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 48173,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Fiji",
+          "Year": 2020,
+          "Cases": 12,
+          "Deaths": 0,
+          "name": "Fiji",
+          "Lon": 165.45195432,
+          "Lat": -17.42858032,
+          "population": 872406.0000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Finland",
+          "Year": 2020,
+          "Cases": 5363,
+          "Deaths": 4,
+          "name": "Finland",
+          "Lon": 26.274665600000002,
+          "Lat": 64.49884603,
+          "population": 5497714,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "France",
+          "Year": 2020,
+          "Cases": 144802,
+          "Deaths": 4825,
+          "name": "France",
+          "Lon": -2.76172945,
+          "Lat": 42.17344011,
+          "population": 64667590,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "French Guiana",
+          "Year": 2020,
+          "Cases": 117,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 267824,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Gabon",
+          "Year": 2020,
+          "Cases": 29,
+          "Deaths": 5,
+          "name": "Gabon",
+          "Lon": 11.7886287,
+          "Lat": -0.58660025,
+          "population": 2007882,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Gambia",
+          "Year": 2020,
+          "Cases": 11,
+          "Deaths": 2,
+          "name": "Gambia",
+          "Lon": -15.39601295,
+          "Lat": 13.44965244,
+          "population": 2149134,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Georgia",
+          "Year": 2020,
+          "Cases": 629,
+          "Deaths": 0,
+          "name": "Georgia",
+          "Lon": 43.50780252,
+          "Lat": 42.16855755,
+          "population": 4015457.0000000005,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Germany",
+          "Year": 2020,
+          "Cases": 198142,
+          "Deaths": 675,
+          "name": "Germany",
+          "Lon": 10.38578051,
+          "Lat": 51.10698181,
+          "population": 82193770,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Ghana",
+          "Year": 2020,
+          "Cases": 178,
+          "Deaths": 6,
+          "name": "Ghana",
+          "Lon": -1.21676566,
+          "Lat": 7.95345644,
+          "population": 28481947,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Gibraltar",
+          "Year": 2020,
+          "Cases": 7,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 33738,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Greece",
+          "Year": 2020,
+          "Cases": 5987,
+          "Deaths": 101,
+          "name": "Greece",
+          "Lon": 22.95555794,
+          "Lat": 39.07469623,
+          "population": 10615183,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Greenland",
+          "Year": 2020,
+          "Cases": 3,
+          "Deaths": 0,
+          "name": "Greenland",
+          "Lon": -41.34191127,
+          "Lat": 74.71051289,
+          "population": 56408,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Grenada",
+          "Year": 2020,
+          "Cases": 3,
+          "Deaths": 0,
+          "name": "Grenada",
+          "Lon": -61.68220189,
+          "Lat": 12.11725044,
+          "population": 110262.99999999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Guadeloupe",
+          "Year": 2020,
+          "Cases": 187,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 399760,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Guam",
+          "Year": 2020,
+          "Cases": 6,
+          "Deaths": 0,
+          "name": "Guam",
+          "Lon": 144.76791022,
+          "Lat": 13.44165626,
+          "population": 162947.99999999997,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Guatemala",
+          "Year": 2020,
+          "Cases": 114,
+          "Deaths": 9,
+          "name": "Guatemala",
+          "Lon": -90.36482009,
+          "Lat": 15.69403664,
+          "population": 16583078.999999998,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Guernsey",
+          "Year": 2020,
+          "Cases": 3,
+          "Deaths": 0,
+          "name": "Guernsey",
+          "Lon": -2.57239064,
+          "Lat": 49.46809761,
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Guinea",
+          "Year": 2020,
+          "Cases": 20,
+          "Deaths": 0,
+          "name": "Guinea",
+          "Lon": -10.94066612,
+          "Lat": 10.43621593,
+          "population": 11738434,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Guyana",
+          "Year": 2020,
+          "Cases": 89,
+          "Deaths": 13,
+          "name": "Guyana",
+          "Lon": -58.98202459,
+          "Lat": 4.79378034,
+          "population": 771363,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Haiti",
+          "Year": 2020,
+          "Cases": 19,
+          "Deaths": 0,
+          "name": "Haiti",
+          "Lon": -72.68527509,
+          "Lat": 18.93502563,
+          "population": 10839976,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Holy See",
+          "Year": 2020,
+          "Cases": 18,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 790.9999999999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Honduras",
+          "Year": 2020,
+          "Cases": 177,
+          "Deaths": 0,
+          "name": "Honduras",
+          "Lon": -86.6151661,
+          "Lat": 14.82688165,
+          "population": 9270794,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Hungary",
+          "Year": 2020,
+          "Cases": 1035,
+          "Deaths": 34,
+          "name": "Hungary",
+          "Lon": 19.39559116,
+          "Lat": 47.16277506,
+          "population": 9752970,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Iceland",
+          "Year": 2020,
+          "Cases": 4667,
+          "Deaths": 13,
+          "name": "Iceland",
+          "Lon": -18.57396167,
+          "Lat": 64.99575386,
+          "population": 332209,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "India",
+          "Year": 2020,
+          "Cases": 3408,
+          "Deaths": 56,
+          "name": "India",
+          "Lon": 79.61197609999999,
+          "Lat": 22.88578212,
+          "population": 1324517250,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Indonesia",
+          "Year": 2020,
+          "Cases": 3860,
+          "Deaths": 292,
+          "name": "Indonesia",
+          "Lon": 117.24011366,
+          "Lat": -2.21505456,
+          "population": 261556386.00000003,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Iran (Islamic Republic of)",
+          "Year": 2020,
+          "Cases": 278992,
+          "Deaths": 16870,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 79563991,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Iraq",
+          "Year": 2020,
+          "Cases": 2806,
+          "Deaths": 224,
+          "name": "Iraq",
+          "Lon": 43.74353149,
+          "Lat": 33.03970582,
+          "population": 36610632.00000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Ireland",
+          "Year": 2020,
+          "Cases": 6651,
+          "Deaths": 39,
+          "name": "Ireland",
+          "Lon": -8.13793569,
+          "Lat": 53.17544870000001,
+          "population": 4695790,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Israel",
+          "Year": 2020,
+          "Cases": 8840,
+          "Deaths": 6,
+          "name": "Israel",
+          "Lon": 35.00444693,
+          "Lat": 31.46110101,
+          "population": 8108984,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Italy",
+          "Year": 2020,
+          "Cases": 571928,
+          "Deaths": 46856,
+          "name": "Italy",
+          "Lon": 12.07001339,
+          "Lat": 42.79662641,
+          "population": 60663068,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Jamaica",
+          "Year": 2020,
+          "Cases": 170,
+          "Deaths": 6,
+          "name": "Jamaica",
+          "Lon": -77.31482593,
+          "Lat": 18.15694878,
+          "population": 2906242,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Japan",
+          "Year": 2020,
+          "Cases": 18885,
+          "Deaths": 500,
+          "name": "Japan",
+          "Lon": 138.03089558,
+          "Lat": 37.59230135,
+          "population": 127763267,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Jersey",
+          "Year": 2020,
+          "Cases": 6,
+          "Deaths": 0,
+          "name": "Jersey",
+          "Lon": -2.12689938,
+          "Lat": 49.21837377,
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Jordan",
+          "Year": 2020,
+          "Cases": 755,
+          "Deaths": 0,
+          "name": "Jordan",
+          "Lon": 36.77136104,
+          "Lat": 31.24579091,
+          "population": 9554286,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Kazakhstan",
+          "Year": 2020,
+          "Cases": 436,
+          "Deaths": 3,
+          "name": "Kazakhstan",
+          "Lon": 67.29149357,
+          "Lat": 48.15688067,
+          "population": 17830902,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Kenya",
+          "Year": 2020,
+          "Cases": 91,
+          "Deaths": 0,
+          "name": "Kenya",
+          "Lon": 37.79593973,
+          "Lat": 0.59988022,
+          "population": 49051530.99999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Kosovo",
+          "Year": 2020,
+          "Cases": 14,
+          "Deaths": 0,
+          "name": "Kosovo",
+          "Lon": 20.87249811,
+          "Lat": 42.57078707,
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Kuwait",
+          "Year": 2020,
+          "Cases": 2652,
+          "Deaths": 0,
+          "name": "Kuwait",
+          "Lon": 47.58700459,
+          "Lat": 29.33431262,
+          "population": 3956862,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Kyrgyzstan",
+          "Year": 2020,
+          "Cases": 98,
+          "Deaths": 0,
+          "name": "Kyrgyzstan",
+          "Lon": 74.54165513,
+          "Lat": 41.46221943,
+          "population": 6074326.999999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Lao People's Democratic Republic",
+          "Year": 2020,
+          "Cases": 2,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 6845848.000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Latvia",
+          "Year": 2020,
+          "Cases": 1106,
+          "Deaths": 0,
+          "name": "Latvia",
+          "Lon": 24.91235983,
+          "Lat": 56.85085163,
+          "population": 1974265,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Lebanon",
+          "Year": 2020,
+          "Cases": 2323,
+          "Deaths": 49,
+          "name": "Lebanon",
+          "Lon": 35.88016072,
+          "Lat": 33.92306631,
+          "population": 6714281,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Liberia",
+          "Year": 2020,
+          "Cases": 20,
+          "Deaths": 0,
+          "name": "Liberia",
+          "Lon": -9.32207573,
+          "Lat": 6.45278492,
+          "population": 4586788,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Libya",
+          "Year": 2020,
+          "Cases": 1,
+          "Deaths": 0,
+          "name": "Libya",
+          "Lon": 18.00866169,
+          "Lat": 27.03094495,
+          "population": 6492160,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Liechtenstein",
+          "Year": 2020,
+          "Cases": 289,
+          "Deaths": 0,
+          "name": "Liechtenstein",
+          "Lon": 9.53574312,
+          "Lat": 47.13665835,
+          "population": 37655,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Lithuania",
+          "Year": 2020,
+          "Cases": 798,
+          "Deaths": 5,
+          "name": "Lithuania",
+          "Lon": 23.88719355,
+          "Lat": 55.32610984,
+          "population": 2889555,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Luxembourg",
+          "Year": 2020,
+          "Cases": 4872,
+          "Deaths": 46,
+          "name": "Luxembourg",
+          "Lon": 6.07182201,
+          "Lat": 49.76725361,
+          "population": 579266,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Madagascar",
+          "Year": 2020,
+          "Cases": 38,
+          "Deaths": 0,
+          "name": "Madagascar",
+          "Lon": 46.70473674,
+          "Lat": -19.37189587,
+          "population": 24894370,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Malaysia",
+          "Year": 2020,
+          "Cases": 12033,
+          "Deaths": 53,
+          "name": "Malaysia",
+          "Lon": 109.69762284,
+          "Lat": 3.78986846,
+          "population": 30684652,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Maldives",
+          "Year": 2020,
+          "Cases": 179,
+          "Deaths": 0,
+          "name": "Maldives",
+          "Lon": 73.45713004,
+          "Lat": 3.7287092000000004,
+          "population": 475505,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Malta",
+          "Year": 2020,
+          "Cases": 680,
+          "Deaths": 0,
+          "name": "Malta",
+          "Lon": 14.40523316,
+          "Lat": 35.92149632,
+          "population": 436099,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Martinique",
+          "Year": 2020,
+          "Cases": 172,
+          "Deaths": 6,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 376789,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Mauritania",
+          "Year": 2020,
+          "Cases": 17,
+          "Deaths": 0,
+          "name": "Mauritania",
+          "Lon": -10.34779815,
+          "Lat": 20.25736706,
+          "population": 4163532,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Mauritius",
+          "Year": 2020,
+          "Cases": 138,
+          "Deaths": 7,
+          "name": "Mauritius",
+          "Lon": 57.57120551,
+          "Lat": -20.27768704,
+          "population": 1261870,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Mayotte",
+          "Year": 2020,
+          "Cases": 21,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 246460,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Mexico",
+          "Year": 2020,
+          "Cases": 1809,
+          "Deaths": 13,
+          "name": "Mexico",
+          "Lon": -102.52345169,
+          "Lat": 23.94753724,
+          "population": 123333379,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Monaco",
+          "Year": 2020,
+          "Cases": 139,
+          "Deaths": 0,
+          "name": "Monaco",
+          "Lon": 7.40627677,
+          "Lat": 43.75274627,
+          "population": 38070,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Mongolia",
+          "Year": 2020,
+          "Cases": 70,
+          "Deaths": 0,
+          "name": "Mongolia",
+          "Lon": 103.05299765,
+          "Lat": 46.82681544,
+          "population": 3056357.9999999995,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Montenegro",
+          "Year": 2020,
+          "Cases": 129,
+          "Deaths": 2,
+          "name": "Montenegro",
+          "Lon": 19.23883939,
+          "Lat": 42.78890259,
+          "population": 627271,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Morocco",
+          "Year": 2020,
+          "Cases": 859,
+          "Deaths": 32,
+          "name": "Morocco",
+          "Lon": -8.45615795,
+          "Lat": 29.83762955,
+          "population": 35126274,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Mozambique",
+          "Year": 2020,
+          "Cases": 5,
+          "Deaths": 0,
+          "name": "Mozambique",
+          "Lon": 35.53367543,
+          "Lat": -17.27381643,
+          "population": 27829930,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Namibia",
+          "Year": 2020,
+          "Cases": 33,
+          "Deaths": 0,
+          "name": "Namibia",
+          "Lon": 17.20963567,
+          "Lat": -22.13032568,
+          "population": 2358044,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Nepal",
+          "Year": 2020,
+          "Cases": 62,
+          "Deaths": 0,
+          "name": "Nepal",
+          "Lon": 83.91582640000001,
+          "Lat": 28.24891365,
+          "population": 27263430,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Netherlands",
+          "Year": 2020,
+          "Cases": 34215,
+          "Deaths": 1181,
+          "name": "Netherlands",
+          "Lon": 5.28144793,
+          "Lat": 52.100789899999995,
+          "population": 16981285,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "New Zealand",
+          "Year": 2020,
+          "Cases": 582,
+          "Deaths": 0,
+          "name": "New Zealand",
+          "Lon": 171.48492347,
+          "Lat": -41.81113557,
+          "population": 4659265,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Nicaragua",
+          "Year": 2020,
+          "Cases": 10,
+          "Deaths": 0,
+          "name": "Nicaragua",
+          "Lon": -85.0305297,
+          "Lat": 12.84709429,
+          "population": 6303970,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Niger",
+          "Year": 2020,
+          "Cases": 10,
+          "Deaths": 0,
+          "name": "Niger",
+          "Lon": 9.38545882,
+          "Lat": 17.41912493,
+          "population": 20788789,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Nigeria",
+          "Year": 2020,
+          "Cases": 193,
+          "Deaths": 2,
+          "name": "Nigeria",
+          "Lon": 8.08943895,
+          "Lat": 9.59411452,
+          "population": 185960243.99999997,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "North Ireland",
+          "Year": 2020,
+          "Cases": 1,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "North Macedonia",
+          "Year": 2020,
+          "Cases": 762,
+          "Deaths": 5,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 2080746,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Norway",
+          "Year": 2020,
+          "Cases": 23756,
+          "Deaths": 68,
+          "name": "Norway",
+          "Lon": 15.34834656,
+          "Lat": 68.75015572,
+          "population": 5250950,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Oman",
+          "Year": 2020,
+          "Cases": 693,
+          "Deaths": 0,
+          "name": "Oman",
+          "Lon": 56.09166155,
+          "Lat": 20.60515333,
+          "population": 4479217.000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Others",
+          "Year": 2020,
+          "Cases": 26228,
+          "Deaths": 189,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Pakistan",
+          "Year": 2020,
+          "Cases": 5203,
+          "Deaths": 25,
+          "name": "Pakistan",
+          "Lon": 69.33957937,
+          "Lat": 29.9497515,
+          "population": 203631356.00000003,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Palestine",
+          "Year": 2020,
+          "Cases": 86,
+          "Deaths": 0,
+          "name": "Palestine",
+          "Lon": 35.19628705,
+          "Lat": 31.91613893,
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Panama",
+          "Year": 2020,
+          "Cases": 1753,
+          "Deaths": 23,
+          "name": "Panama",
+          "Lon": -80.11915156,
+          "Lat": 8.51750797,
+          "population": 4037073,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Papua New Guinea",
+          "Year": 2020,
+          "Cases": 5,
+          "Deaths": 0,
+          "name": "Papua New Guinea",
+          "Lon": 145.20744752,
+          "Lat": -6.46416646,
+          "population": 8271766,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Paraguay",
+          "Year": 2020,
+          "Cases": 172,
+          "Deaths": 5,
+          "name": "Paraguay",
+          "Lon": -58.40013703,
+          "Lat": -23.22823913,
+          "population": 6777878.000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Peru",
+          "Year": 2020,
+          "Cases": 2469,
+          "Deaths": 25,
+          "name": "Peru",
+          "Lon": -74.38242685,
+          "Lat": -9.15280381,
+          "population": 30926036,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Philippines",
+          "Year": 2020,
+          "Cases": 3266,
+          "Deaths": 255,
+          "name": "Philippines",
+          "Lon": 122.88393253,
+          "Lat": 11.77536778,
+          "population": 103663811.99999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Poland",
+          "Year": 2020,
+          "Cases": 4697,
+          "Deaths": 63,
+          "name": "Poland",
+          "Lon": 19.39012835,
+          "Lat": 52.12759564,
+          "population": 37989218,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Portugal",
+          "Year": 2020,
+          "Cases": 11129,
+          "Deaths": 94,
+          "name": "Portugal",
+          "Lon": -8.50104361,
+          "Lat": 39.59550671,
+          "population": 10325540,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Puerto Rico",
+          "Year": 2020,
+          "Cases": 3,
+          "Deaths": 0,
+          "name": "Puerto Rico",
+          "Lon": -66.47307604,
+          "Lat": 18.22813055,
+          "population": 3283120.9999999995,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Qatar",
+          "Year": 2020,
+          "Cases": 5947,
+          "Deaths": 0,
+          "name": "Qatar",
+          "Lon": 51.18479632,
+          "Lat": 25.30601188,
+          "population": 2654379.0000000005,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Republic of Korea",
+          "Year": 2020,
+          "Cases": 190800,
+          "Deaths": 1670,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 50983446,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Republic of Moldova",
+          "Year": 2020,
+          "Cases": 658,
+          "Deaths": 7,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 4066013,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Reunion",
+          "Year": 2020,
+          "Cases": 137,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Romania",
+          "Year": 2020,
+          "Cases": 3894,
+          "Deaths": 21,
+          "name": "Romania",
+          "Lon": 24.97293039,
+          "Lat": 45.85243127,
+          "population": 19796280,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Russian Federation",
+          "Year": 2020,
+          "Cases": 2769,
+          "Deaths": 6,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 145275374,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Rwanda",
+          "Year": 2020,
+          "Cases": 159,
+          "Deaths": 0,
+          "name": "Rwanda",
+          "Lon": 29.91988515,
+          "Lat": -1.99033832,
+          "population": 11668829,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Saint BarthÃ©lemy",
+          "Year": 2020,
+          "Cases": 17,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": "",
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Saint Lucia",
+          "Year": 2020,
+          "Cases": 23,
+          "Deaths": 0,
+          "name": "Saint Lucia",
+          "Lon": -60.96969923,
+          "Lat": 13.89479481,
+          "population": 180028,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Saint Martin (French part)",
+          "Year": 2020,
+          "Cases": 4,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 36061,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Saint Vincent and the Grenadines",
+          "Year": 2020,
+          "Cases": 11,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 109467.00000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "San Marino",
+          "Year": 2020,
+          "Cases": 1911,
+          "Deaths": 160,
+          "name": "San Marino",
+          "Lon": 12.45922334,
+          "Lat": 43.94186747,
+          "population": 33503,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Saudi Arabia",
+          "Year": 2020,
+          "Cases": 3732,
+          "Deaths": 1,
+          "name": "Saudi Arabia",
+          "Lon": 44.53686271,
+          "Lat": 24.12245841,
+          "population": 32443443,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Senegal",
+          "Year": 2020,
+          "Cases": 512,
+          "Deaths": 0,
+          "name": "Senegal",
+          "Lon": -14.4734924,
+          "Lat": 14.36624173,
+          "population": 14993514,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Serbia",
+          "Year": 2020,
+          "Cases": 1555,
+          "Deaths": 10,
+          "name": "Serbia",
+          "Lon": 20.78958334,
+          "Lat": 44.2215032,
+          "population": 8853963,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Seychelles",
+          "Year": 2020,
+          "Cases": 56,
+          "Deaths": 0,
+          "name": "Seychelles",
+          "Lon": 55.47603279,
+          "Lat": -4.66099094,
+          "population": 95711,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Singapore",
+          "Year": 2020,
+          "Cases": 7627,
+          "Deaths": 8,
+          "name": "Singapore",
+          "Lon": 103.81725592,
+          "Lat": 1.35876087,
+          "population": 5653625,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Slovakia",
+          "Year": 2020,
+          "Cases": 1424,
+          "Deaths": 4,
+          "name": "Slovakia",
+          "Lon": 19.47905218,
+          "Lat": 48.70547528,
+          "population": 5442001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Slovenia",
+          "Year": 2020,
+          "Cases": 3915,
+          "Deaths": 17,
+          "name": "Slovenia",
+          "Lon": 14.80444238,
+          "Lat": 46.11554772,
+          "population": 2074205,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Somalia",
+          "Year": 2020,
+          "Cases": 9,
+          "Deaths": 0,
+          "name": "Somalia",
+          "Lon": 45.70714487,
+          "Lat": 4.75062876,
+          "population": 14185635,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "South Africa",
+          "Year": 2020,
+          "Cases": 2221,
+          "Deaths": 0,
+          "name": "South Africa",
+          "Lon": 25.08390093,
+          "Lat": -29.00034095,
+          "population": 56207649.00000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Spain",
+          "Year": 2020,
+          "Cases": 232288,
+          "Deaths": 12448,
+          "name": "Spain",
+          "Lon": -3.64755047,
+          "Lat": 40.24448698,
+          "population": 46634130.99999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Sri Lanka",
+          "Year": 2020,
+          "Cases": 696,
+          "Deaths": 0,
+          "name": "Sri Lanka",
+          "Lon": 80.70108238,
+          "Lat": 7.61266509,
+          "population": 21021177.000000004,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "State of Palestine",
+          "Year": 2020,
+          "Cases": 25,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 4635644,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Sudan",
+          "Year": 2020,
+          "Cases": 20,
+          "Deaths": 12,
+          "name": "Sudan",
+          "Lon": 29.94046812,
+          "Lat": 15.99035669,
+          "population": 39847433,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Suriname",
+          "Year": 2020,
+          "Cases": 31,
+          "Deaths": 0,
+          "name": "Suriname",
+          "Lon": -55.9123457,
+          "Lat": 4.13055413,
+          "population": 564883,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Sweden",
+          "Year": 2020,
+          "Cases": 19873,
+          "Deaths": 160,
+          "name": "Sweden",
+          "Lon": 16.74558049,
+          "Lat": 62.77966519,
+          "population": 9836003,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Switzerland",
+          "Year": 2020,
+          "Cases": 58069,
+          "Deaths": 635,
+          "name": "Switzerland",
+          "Lon": 8.20867471,
+          "Lat": 46.79785878,
+          "population": 8379915.000000001,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Syrian Arab Republic",
+          "Year": 2020,
+          "Cases": 3,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 17465567,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Thailand",
+          "Year": 2020,
+          "Cases": 5583,
+          "Deaths": 27,
+          "name": "Thailand",
+          "Lon": 101.0028813,
+          "Lat": 15.11815794,
+          "population": 68971313,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Timor-Leste",
+          "Year": 2020,
+          "Cases": 4,
+          "Deaths": 0,
+          "name": "Timor-Leste",
+          "Lon": 125.84438982,
+          "Lat": -8.82889162,
+          "population": 1219289,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Togo",
+          "Year": 2020,
+          "Cases": 93,
+          "Deaths": 0,
+          "name": "Togo",
+          "Lon": 0.96232845,
+          "Lat": 8.52531356,
+          "population": 7509951.999999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Trinidad and Tobago",
+          "Year": 2020,
+          "Cases": 245,
+          "Deaths": 0,
+          "name": "Trinidad and Tobago",
+          "Lon": -61.26567923,
+          "Lat": 10.45733408,
+          "population": 1377562.9999999998,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Tunisia",
+          "Year": 2020,
+          "Cases": 583,
+          "Deaths": 13,
+          "name": "Tunisia",
+          "Lon": 9.55288359,
+          "Lat": 34.11956246,
+          "population": 11303942,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Turkey",
+          "Year": 2020,
+          "Cases": 6039,
+          "Deaths": 129,
+          "name": "Turkey",
+          "Lon": 35.16895346,
+          "Lat": 39.0616029,
+          "population": 79827868,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Uganda",
+          "Year": 2020,
+          "Cases": 20,
+          "Deaths": 0,
+          "name": "Uganda",
+          "Lon": 32.36907971,
+          "Lat": 1.27469299,
+          "population": 39649172.99999999,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Ukraine",
+          "Year": 2020,
+          "Cases": 389,
+          "Deaths": 25,
+          "name": "Ukraine",
+          "Lon": 31.38326469,
+          "Lat": 48.99656673,
+          "population": 44713708,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "United Arab Emirates",
+          "Year": 2020,
+          "Cases": 2411,
+          "Deaths": 10,
+          "name": "United Arab Emirates",
+          "Lon": 54.300167099999996,
+          "Lat": 23.90528188,
+          "population": 9360975,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "United Kingdom",
+          "Year": 2020,
+          "Cases": 44503,
+          "Deaths": 1859,
+          "name": "United Kingdom",
+          "Lon": -2.86563164,
+          "Lat": 54.12387156,
+          "population": 66297944,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "United Republic of Tanzania",
+          "Year": 2020,
+          "Cases": 59,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 53049231,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "United States of America",
+          "Year": 2020,
+          "Cases": 223838,
+          "Deaths": 3127,
+          "name": "",
+          "Lon":  -73.935242,
+          "Lat": 40.730610,
+          "population": 323015991.99999994,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Uruguay",
+          "Year": 2020,
+          "Cases": 833,
+          "Deaths": 0,
+          "name": "Uruguay",
+          "Lon": -56.01807053,
+          "Lat": -32.79951534,
+          "population": 3424139,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Uzbekistan",
+          "Year": 2020,
+          "Cases": 270,
+          "Deaths": 0,
+          "name": "Uzbekistan",
+          "Lon": 63.14001528,
+          "Lat": 41.75554225,
+          "population": 31441752.999999996,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Venezuela (Bolivarian Republic of)",
+          "Year": 2020,
+          "Cases": 483,
+          "Deaths": 0,
+          "name": "",
+          "Lon": "",
+          "Lat": "",
+          "population": 29851249,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Viet Nam",
+          "Year": 2020,
+          "Cases": 1696,
+          "Deaths": 0,
+          "name": "",
+          "Lon": 108.2772,
+          "Lat": 14.0583,
+          "population": 93640435,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Zambia",
+          "Year": 2020,
+          "Cases": 17,
+          "Deaths": 0,
+          "name": "Zambia",
+          "Lon": 27.77475946,
+          "Lat": -13.45824152,
+          "population": 16363448.999999998,
+          "Pandemic": "covid19"
+        },
+        {
+          "Country": "Zimbabwe",
+          "Year": 2020,
+          "Cases": 13,
+          "Deaths": 2,
+          "name": "Zimbabwe",
+          "Lon": 29.8514412,
+          "Lat": -19.00420419,
+          "population": 14030338,
+          "Pandemic": "covid19"
+        },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Guinea",
+              "Year": 2014,
+              "Cases": 56295,
+              "Deaths": 31014,
+              "Lon": -10.94066612,
+              "Lat": 10.43621593,
+              "population": 11150970000000
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Guinea",
+              "Year": 2015,
+              "Cases": 689976,
+              "Deaths": 428114,
+              "Lon": -10.94066612,
+              "Lat": 10.43621593,
+              "population": 11432096.000000002
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Guinea",
+              "Year": 2016,
+              "Cases": 3351,
+              "Deaths": 2083,
+              "Lon": -10.94066612,
+              "Lat": 10.43621593,
+              "population": 11738.434
+            },
+            {
+              "Pandemic": "Ebola",
               "Country": "Italy",
-              "year": 2009,
-              "Cases": 1432,
+              "Year": 2015,
+              "Cases": 140,
               "Deaths": 0,
-              "lon": 12.07001339,
-              "lat": 42.79662641
+              "Lon": 12.07001339,
+              "Lat": 42.79662641,
+              "population": 60578489
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Jamaica",
-              "year": 2009,
-              "Cases": 249,
-              "Deaths": 0,
-              "lon": -77.31482593,
-              "lat": 18.15694878
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Japan",
-              "year": 2009,
-              "Cases": 15334,
-              "Deaths": 0,
-              "lon": 138.03089558,
-              "lat": 37.59230135
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Jordan",
-              "year": 2009,
-              "Cases": 130,
-              "Deaths": 0,
-              "lon": 36.77136104,
-              "lat": 31.24579091
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Kenya",
-              "year": 2009,
-              "Cases": 28,
-              "Deaths": 0,
-              "lon": 37.79593973,
-              "lat": 0.59988022
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Korea, Republic of",
-              "year": 2009,
-              "Cases": 1781,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Kuwait",
-              "year": 2009,
-              "Cases": 468,
-              "Deaths": 0,
-              "lon": 47.58700459,
-              "lat": 29.33431262
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Laos",
-              "year": 2009,
-              "Cases": 23,
-              "Deaths": 0,
-              "lon": 103.73772412,
-              "lat": 18.50217433
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Latvia",
-              "year": 2009,
-              "Cases": 6,
-              "Deaths": 0,
-              "lon": 24.91235983,
-              "lat": 56.85085163
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Lebanon",
-              "year": 2009,
-              "Cases": 286,
-              "Deaths": 0,
-              "lon": 35.88016072,
-              "lat": 33.92306631
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Libya",
-              "year": 2009,
+              "Pandemic": "Ebola",
+              "Country": "Italy",
+              "Year": 2016,
               "Cases": 1,
               "Deaths": 0,
-              "lon": 18.00866169,
-              "lat": 27.03094495
+              "Lon": 12.07001339,
+              "Lat": 42.79662641,
+              "population": 60663.068
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Lithuania",
-              "year": 2009,
-              "Cases": 8,
+              "Pandemic": "Ebola",
+              "Country": "Liberia",
+              "Year": 2014,
+              "Cases": 72254,
+              "Deaths": 11385,
+              "Lon": -9.32207573,
+              "Lat": 6.45278492,
+              "population": 4359508000000
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Liberia",
+              "Year": 2015,
+              "Cases": 693322,
+              "Deaths": 15548,
+              "Lon": -9.32207573,
+              "Lat": 6.45278492,
+              "population": 4472229
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Liberia",
+              "Year": 2016,
+              "Cases": 3162,
+              "Deaths": 4,
+              "Lon": -9.32207573,
+              "Lat": 6.45278492,
+              "population": 4586.788
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Mali",
+              "Year": 2014,
+              "Cases": 111,
+              "Deaths": 21,
+              "Lon": -3.54269065,
+              "Lat": 17.34581581,
+              "population": 16934213000000
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Mali",
+              "Year": 2015,
+              "Cases": 1540,
               "Deaths": 0,
-              "lon": 23.88719355,
-              "lat": 55.32610984
+              "Lon": -3.54269065,
+              "Lat": 17.34581581,
+              "population": 17438772
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Luxembourg",
-              "year": 2009,
+              "Pandemic": "Ebola",
+              "Country": "Mali",
+              "Year": 2016,
+              "Cases": 7,
+              "Deaths": 0,
+              "Lon": -3.54269065,
+              "Lat": 17.34581581,
+              "population": 17965.448
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Nigeria",
+              "Year": 2014,
+              "Cases": 717,
+              "Deaths": 265,
+              "Lon": 8.08943895,
+              "Lat": 9.59411452,
+              "population": 176404931000000
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Nigeria",
+              "Year": 2015,
+              "Cases": 4104,
+              "Deaths": 1512,
+              "Lon": 8.08943895,
+              "Lat": 9.59411452,
+              "population": 181137454
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Nigeria",
+              "Year": 2016,
+              "Cases": 19,
+              "Deaths": 7,
+              "Lon": 8.08943895,
+              "Lat": 9.59411452,
+              "population": 185960.24399999998
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "Senegal",
+              "Year": 2014,
               "Cases": 37,
               "Deaths": 0,
-              "lon": 6.07182201,
-              "lat": 49.76725361
+              "Lon": -14.4734924,
+              "Lat": 14.36624173,
+              "population": 14174740000000
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Malaysia",
-              "year": 2009,
-              "Cases": 688,
+              "Pandemic": "Ebola",
+              "Country": "Senegal",
+              "Year": 2015,
+              "Cases": 216,
               "Deaths": 0,
-              "lon": 109.69762284,
-              "lat": 3.78986846
+              "Lon": -14.4734924,
+              "Lat": 14.36624173,
+              "population": 14578450
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Malta",
-              "year": 2009,
-              "Cases": 26,
-              "Deaths": 0,
-              "lon": 14.40523316,
-              "lat": 35.92149632
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Mauritius",
-              "year": 2009,
-              "Cases": 9,
-              "Deaths": 0,
-              "lon": 57.57120551,
-              "lat": -20.27768704
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Mexico",
-              "year": 2009,
-              "Cases": 142567,
-              "Deaths": 2271,
-              "lon": -102.52345169,
-              "lat": 23.94753724
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Monaco",
-              "year": 2009,
+              "Pandemic": "Ebola",
+              "Country": "Senegal",
+              "Year": 2016,
               "Cases": 1,
               "Deaths": 0,
-              "lon": 7.40627677,
-              "lat": 43.75274627
+              "Lon": -14.4734924,
+              "Lat": 14.36624173,
+              "population": 14993.514
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Montenegro",
-              "year": 2009,
-              "Cases": 26,
-              "Deaths": 0,
-              "lon": 19.23883939,
-              "lat": 42.78890259
+              "Pandemic": "Ebola",
+              "Country": "Sierra Leone",
+              "Year": 2014,
+              "Cases": 156787,
+              "Deaths": 41981,
+              "Lon": -11.79271247,
+              "Lat": 8.56329593,
+              "population": 7017153000000
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Morocco",
-              "year": 2009,
-              "Cases": 94,
-              "Deaths": 0,
-              "lon": -8.45615795,
-              "lat": 29.83762955
+              "Pandemic": "Ebola",
+              "Country": "Sierra Leone",
+              "Year": 2015,
+              "Cases": 1876380,
+              "Deaths": 752414,
+              "Lon": -11.79271247,
+              "Lat": 8.56329593,
+              "population": 7171909.000000001
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Morocco *",
-              "year": 2009,
-              "Cases": 6,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
+              "Pandemic": "Ebola",
+              "Country": "Sierra Leone",
+              "Year": 2016,
+              "Cases": 8704,
+              "Deaths": 3589,
+              "Lon": -11.79271247,
+              "Lat": 8.56329593,
+              "population": 7328.846
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Myanmar",
-              "year": 2009,
-              "Cases": 3,
-              "Deaths": 0,
-              "lon": 96.48843321,
-              "lat": 21.18566599
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Nepal",
-              "year": 2009,
-              "Cases": 16,
-              "Deaths": 0,
-              "lon": 83.91582640000001,
-              "lat": 28.24891365
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Netherlands",
-              "year": 2009,
-              "Cases": 1171,
-              "Deaths": 0,
-              "lon": -69.98267711,
-              "lat": 12.52088038
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Netherlands",
-              "year": 2009,
-              "Cases": 1171,
-              "Deaths": 0,
-              "lon": -68.97119369,
-              "lat": 12.19551675
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Netherlands",
-              "year": 2009,
-              "Cases": 1171,
-              "Deaths": 0,
-              "lon": 5.28144793,
-              "lat": 52.1007899
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Netherlands",
-              "year": 2009,
-              "Cases": 1171,
-              "Deaths": 0,
-              "lon": -63.05713363,
-              "lat": 18.05081728
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Netherlands, Curacao, OT",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "New Zealand",
-              "year": 2009,
-              "Cases": 4957,
-              "Deaths": 3,
-              "lon": -159.78724218,
-              "lat": -21.21927288
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "New Zealand",
-              "year": 2009,
-              "Cases": 4957,
-              "Deaths": 3,
-              "lon": -169.86994682,
-              "lat": -19.04945708
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "New Zealand",
-              "year": 2009,
-              "Cases": 4957,
-              "Deaths": 3,
-              "lon": 171.48492347,
-              "lat": -41.81113557
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Nicaragua",
-              "year": 2009,
-              "Cases": 2345,
-              "Deaths": 0,
-              "lon": -85.0305297,
-              "lat": 12.84709429
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Norway",
-              "year": 2009,
-              "Cases": 330,
-              "Deaths": 0,
-              "lon": 15.34834656,
-              "lat": 68.75015572
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Oman",
-              "year": 2009,
-              "Cases": 25,
-              "Deaths": 0,
-              "lon": 56.09166155,
-              "lat": 20.60515333
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Palau",
-              "year": 2009,
-              "Cases": 2,
-              "Deaths": 0,
-              "lon": 134.40807966,
-              "lat": 7.28742784
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Panama",
-              "year": 2009,
-              "Cases": 5176,
-              "Deaths": 0,
-              "lon": -80.11915156,
-              "lat": 8.51750797
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Papua New Guinea",
-              "year": 2009,
-              "Cases": 8,
-              "Deaths": 0,
-              "lon": 145.20744752,
-              "lat": -6.46416646
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Paraguay",
-              "year": 2009,
-              "Cases": 738,
-              "Deaths": 1,
-              "lon": -58.40013703,
-              "lat": -23.22823913
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Peru",
-              "year": 2009,
-              "Cases": 3856,
-              "Deaths": 0,
-              "lon": -74.38242685,
-              "lat": -9.15280381
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Philippines",
-              "year": 2009,
-              "Cases": 7269,
-              "Deaths": 6,
-              "lon": 122.88393253,
-              "lat": 11.77536778
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Poland",
-              "year": 2009,
-              "Cases": 185,
-              "Deaths": 0,
-              "lon": 19.39012835,
-              "lat": 52.12759564
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Portugal",
-              "year": 2009,
-              "Cases": 145,
-              "Deaths": 0,
-              "lon": -8.50104361,
-              "lat": 39.59550671
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Qatar",
-              "year": 2009,
-              "Cases": 87,
-              "Deaths": 0,
-              "lon": 51.18479632,
-              "lat": 25.30601188
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Romania",
-              "year": 2009,
-              "Cases": 291,
-              "Deaths": 0,
-              "lon": 24.97293039,
-              "lat": 45.85243127
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Russia",
-              "year": 2009,
-              "Cases": 59,
-              "Deaths": 0,
-              "lon": 96.68656112,
-              "lat": 61.98052209
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Saint Lucia",
-              "year": 2009,
-              "Cases": 3,
-              "Deaths": 0,
-              "lon": -60.96969923,
-              "lat": 13.89479481
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Samoa",
-              "year": 2009,
-              "Cases": 9,
-              "Deaths": 0,
-              "lon": -172.16485064,
-              "lat": -13.75324346
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Saudi Arabia",
-              "year": 2009,
-              "Cases": 536,
-              "Deaths": 0,
-              "lon": 44.53686271,
-              "lat": 24.12245841
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Serbia",
-              "year": 2009,
-              "Cases": 49,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Singapore",
-              "year": 2009,
-              "Cases": 4157,
-              "Deaths": 0,
-              "lon": 103.81725592,
-              "lat": 1.35876087
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Slovakia",
-              "year": 2009,
-              "Cases": 101,
-              "Deaths": 0,
-              "lon": 19.47905218,
-              "lat": 48.70547528
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Slovenia",
-              "year": 2009,
-              "Cases": 32,
-              "Deaths": 0,
-              "lon": 14.80444238,
-              "lat": 46.11554772
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "South Africa",
-              "year": 2009,
-              "Cases": 36,
-              "Deaths": 0,
-              "lon": 25.08390093,
-              "lat": -29.00034095
-            },
-            {
-              "Pandemic": "h1n1",
+              "Pandemic": "Ebola",
               "Country": "Spain",
-              "year": 2009,
-              "Cases": 8614,
-              "Deaths": 3,
-              "lon": -3.64755047,
-              "lat": 40.24448698
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Sri Lanka",
-              "year": 2009,
-              "Cases": 78,
-              "Deaths": 0,
-              "lon": 80.70108238,
-              "lat": 7.61266509
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Suriname",
-              "year": 2009,
-              "Cases": 88,
-              "Deaths": 0,
-              "lon": -55.9123457,
-              "lat": 4.13055413
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Sweden",
-              "year": 2009,
-              "Cases": 678,
-              "Deaths": 0,
-              "lon": 16.74558049,
-              "lat": 62.77966519
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Switzerland",
-              "year": 2009,
-              "Cases": 555,
-              "Deaths": 0,
-              "lon": 8.20867471,
-              "lat": 46.79785878
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Syria",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": 38.50788204,
-              "lat": 35.02547389
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Thailand",
-              "year": 2009,
-              "Cases": 8726,
-              "Deaths": 13,
-              "lon": 101.0028813,
-              "lat": 15.11815794
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "The former Yugoslav Republic of Macedonia",
-              "year": 2009,
-              "Cases": 2,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Trinidad and Tobago",
-              "year": 2009,
-              "Cases": 330,
-              "Deaths": 0,
-              "lon": -61.26567923,
-              "lat": 10.45733408
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Tunisia",
-              "year": 2009,
-              "Cases": 17,
-              "Deaths": 0,
-              "lon": 9.55288359,
-              "lat": 34.11956246
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Turkey",
-              "year": 2009,
-              "Cases": 323,
-              "Deaths": 0,
-              "lon": 35.16895346,
-              "lat": 39.0616029
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Uganda",
-              "year": 2009,
-              "Cases": 2,
-              "Deaths": 0,
-              "lon": 32.36907971,
-              "lat": 1.27469299
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Ukraine",
-              "year": 2009,
-              "Cases": 13,
-              "Deaths": 0,
-              "lon": 31.38326469,
-              "lat": 48.99656673
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Arab Emirates",
-              "year": 2009,
-              "Cases": 51,
-              "Deaths": 0,
-              "lon": 54.3001671,
-              "lat": 23.90528188
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -63.06498927,
-              "lat": 18.2239595
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -64.7545589,
-              "lat": 32.31367802
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -80.91213321,
-              "lat": 19.42896497
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -59.35238956,
-              "lat": -51.74483954
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -2.86563164,
-              "lat": 54.12387156
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -2.57239064,
-              "lat": 49.46809761
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -4.53873952,
-              "lat": 54.22418911
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": 72.44541229,
-              "lat": -7.33059751
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -2.12689938,
-              "lat": 49.21837377
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -62.18518546,
-              "lat": 16.73941406
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -128.31704202,
-              "lat": -24.36500535
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -36.43318388,
-              "lat": -54.46488248
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -9.54779416,
-              "lat": -12.40355951
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -71.97387881,
-              "lat": 21.83047572
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom",
-              "year": 2009,
-              "Cases": 43708,
-              "Deaths": 15,
-              "lon": -64.47146992,
-              "lat": 18.52585755
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom, Isle of Man, Crown Dependency",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United Kingdom, Jersey, Crown Dependency",
-              "year": 2009,
-              "Cases": 1,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America",
-              "year": 2009,
-              "Cases": 340804,
-              "Deaths": 1150,
-              "lon": -170.71802575,
-              "lat": -14.30445997
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America",
-              "year": 2009,
-              "Cases": 340804,
-              "Deaths": 1150,
-              "lon": 144.76791022,
-              "lat": 13.44165626
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America",
-              "year": 2009,
-              "Cases": 340804,
-              "Deaths": 1150,
-              "lon": 145.61969651,
-              "lat": 15.82927563
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America",
-              "year": 2009,
-              "Cases": 340804,
-              "Deaths": 1150,
-              "lon": -66.47307604,
-              "lat": 18.22813055
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America",
-              "year": 2009,
-              "Cases": 340804,
-              "Deaths": 1150,
-              "lon": -112.4616737,
-              "lat": 45.6795472
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America",
-              "year": 2009,
-              "Cases": 340804,
-              "Deaths": 1150,
-              "lon": -64.80301538,
-              "lat": 17.95500624
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "United States of America*",
-              "year": 2009,
-              "Cases": 17855,
-              "Deaths": 44,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Uruguay",
-              "year": 2009,
-              "Cases": 1458,
-              "Deaths": 6,
-              "lon": -56.01807053,
-              "lat": -32.79951534
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Vanuatu",
-              "year": 2009,
-              "Cases": 11,
-              "Deaths": 0,
-              "lon": 167.68644636,
-              "lat": -16.22640909
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Venezuela",
-              "year": 2009,
-              "Cases": 1327,
-              "Deaths": 0,
-              "lon": -66.18184123,
-              "lat": 7.12422421
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Viet Nam",
-              "year": 2009,
-              "Cases": 822,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "West Bank and Gaza Strip",
-              "year": 2009,
-              "Cases": 146,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Yemen",
-              "year": 2009,
-              "Cases": 50,
-              "Deaths": 0,
-              "lon": 47.58676189,
-              "lat": 15.90928005
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â France, New Caledonia, FOC",
-              "year": 2009,
-              "Cases": 12,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â French Polynesia, FOC",
-              "year": 2009,
-              "Cases": 11,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Martinique, FOC",
-              "year": 2009,
-              "Cases": 12,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â French Polynesia, FOC",
-              "year": 2009,
-              "Cases": 4,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Guadaloupe, FOC",
-              "year": 2009,
-              "Cases": 2,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Guernsey, Crown Dependency",
-              "year": 2009,
-              "Cases": 17,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Isle of Man, Crown Dependency",
-              "year": 2009,
-              "Cases": 8,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Jersey, Crown Dependency",
-              "year": 2009,
-              "Cases": 51,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Martinique, FOC",
-              "year": 2009,
-              "Cases": 3,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Netherlands Antilles, CuraÃ§ao",
-              "year": 2009,
-              "Cases": 23,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Netherlands Antilles, CuraÃ§ao *",
-              "year": 2009,
-              "Cases": 12,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Netherlands Antilles, CuraÃ§ao **",
-              "year": 2009,
-              "Cases": 3,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Netherlands Antilles, Sint Maarten",
-              "year": 2009,
+              "Year": 2014,
               "Cases": 26,
               "Deaths": 0,
-              "lon": "",
-              "lat": ""
+              "Lon": -3.64755047,
+              "Lat": 40.24448698,
+              "population": 46777927000000
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Netherlands, Aruba",
-              "year": 2009,
-              "Cases": 10,
+              "Pandemic": "Ebola",
+              "Country": "Spain",
+              "Year": 2015,
+              "Cases": 216,
               "Deaths": 0,
-              "lon": "",
-              "lat": ""
+              "Lon": -3.64755047,
+              "Lat": 40.24448698,
+              "population": 46671919
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â New Caledonia, FOC",
-              "year": 2009,
-              "Cases": 12,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Puerto Rico",
-              "year": 2009,
-              "Cases": 18,
-              "Deaths": 0,
-              "lon": "",
-              "lat": ""
-            },
-            {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Saint Martin, FOC",
-              "year": 2009,
+              "Pandemic": "Ebola",
+              "Country": "Spain",
+              "Year": 2016,
               "Cases": 1,
               "Deaths": 0,
-              "lon": "",
-              "lat": ""
+              "Lon": -3.64755047,
+              "Lat": 40.24448698,
+              "population": 46634.130999999994
             },
             {
-              "Pandemic": "h1n1",
-              "Country": "Â Â Â Â Â Virgin Islands",
-              "year": 2009,
+              "Pandemic": "Ebola",
+              "Country": "United Kingdom",
+              "Year": 2015,
+              "Cases": 220,
+              "Deaths": 0,
+              "Lon": -2.86563164,
+              "Lat": 54.12387156,
+              "population": 65860149.00000001
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "United Kingdom",
+              "Year": 2016,
               "Cases": 1,
               "Deaths": 0,
-              "lon": "",
-              "lat": ""
+              "Lon": -2.86563164,
+              "Lat": 54.12387156,
+              "population": 66297.944
             },
-    {
-      "Pandemic": "covid19",
-      "Country": "Afghanistan",
-      "Year": 2020,
-      "Cases": 363,
-      "Deaths": 3,
-      "lon": 66.00473366,
-      "lat": 33.83523073
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Albania",
-      "Year": 2020,
-      "Cases": 851,
-      "Deaths": 26,
-      "lon": 20.04983396,
-      "lat": 41.14244989
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Algeria",
-      "Year": 2020,
-      "Cases": 1485,
-      "Deaths": 113,
-      "lon": 2.61732301,
-      "lat": 28.15893849
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Andorra",
-      "Year": 2020,
-      "Cases": 720,
-      "Deaths": 3,
-      "lon": 1.56054378,
-      "lat": 42.54229102
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Angola",
-      "Year": 2020,
-      "Cases": 11,
-      "Deaths": 0,
-      "lon": 17.53736768,
-      "lat": -12.29336054
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Antigua and Barbuda",
-      "Year": 2020,
-      "Cases": 16,
-      "Deaths": 0,
-      "lon": -61.79469343,
-      "lat": 17.277499600000002
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Argentina",
-      "Year": 2020,
-      "Cases": 1707,
-      "Deaths": 41,
-      "lon": -65.17980692,
-      "lat": -35.3813488
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Armenia",
-      "Year": 2020,
-      "Cases": 1370,
-      "Deaths": 0,
-      "lon": 44.92993276,
-      "lat": 40.28952569
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Aruba",
-      "Year": 2020,
-      "Cases": 19,
-      "Deaths": 0,
-      "lon": "",
-      "lat": ""
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Australia",
-      "Year": 2020,
-      "Cases": 11286,
-      "Deaths": 93,
-      "lon": 123.58383789,
-      "lat": -12.42993164
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Australia",
-      "Year": 2020,
-      "Cases": 11286,
-      "Deaths": 93,
-      "lon": 134.49100008,
-      "lat": -25.73288704
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Australia",
-      "Year": 2020,
-      "Cases": 11286,
-      "Deaths": 93,
-      "lon": 73.52051709999999,
-      "lat": -53.08724656
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Australia",
-      "Year": 2020,
-      "Cases": 11286,
-      "Deaths": 93,
-      "lon": 104.85189795,
-      "lat": -10.6478515
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Australia",
-      "Year": 2020,
-      "Cases": 11286,
-      "Deaths": 93,
-      "lon": 167.94921678,
-      "lat": -29.0514609
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Austria",
-      "Year": 2020,
-      "Cases": 27808,
-      "Deaths": 99,
-      "lon": 14.1264761,
-      "lat": 47.58549439
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Azerbaijan",
-      "Year": 2020,
-      "Cases": 574,
-      "Deaths": 12,
-      "lon": 47.54599879,
-      "lat": 40.28827235
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Bahamas",
-      "Year": 2020,
-      "Cases": 23,
-      "Deaths": 0,
-      "lon": "",
-      "lat": ""
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Bahrain",
-      "Year": 2020,
-      "Cases": 4526,
-      "Deaths": 13,
-      "lon": 50.54196932,
-      "lat": 26.04205135
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Bangladesh",
-      "Year": 2020,
-      "Cases": 219,
-      "Deaths": 14,
-      "lon": 90.23812743,
-      "lat": 23.86731158
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Barbados",
-      "Year": 2020,
-      "Cases": 69,
-      "Deaths": 0,
-      "lon": -59.559796999999996,
-      "lat": 13.18145428
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Belarus",
-      "Year": 2020,
-      "Cases": 709,
-      "Deaths": 0,
-      "lon": 28.03209307,
-      "lat": 53.53131377
-    },
-    {
-      "Pandemic": "covid19",
-      "Country": "Belgium",
-      "Year": 2020,
-      "Cases": 6,
-      "Deaths": 0,
-      "lon": 4.64065114,
-      "lat": 50.63981576
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Guinea",
-      "Year": 2014,
-      "Cases": 56295,
-      "Deaths": 31014,
-      "Lon": -10.94066612,
-      "Lat": 10.43621593,
-      "population": 11150970000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Guinea",
-      "Year": 2015,
-      "Cases": 689976,
-      "Deaths": 428114,
-      "Lon": -10.94066612,
-      "Lat": 10.43621593,
-      "population": 11432096.000000002
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Guinea",
-      "Year": 2016,
-      "Cases": 3351,
-      "Deaths": 2083,
-      "Lon": -10.94066612,
-      "Lat": 10.43621593,
-      "population": 11738.434
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Italy",
-      "Year": 2015,
-      "Cases": 140,
-      "Deaths": 0,
-      "Lon": 12.07001339,
-      "Lat": 42.79662641,
-      "population": 60578489
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Italy",
-      "Year": 2016,
-      "Cases": 1,
-      "Deaths": 0,
-      "Lon": 12.07001339,
-      "Lat": 42.79662641,
-      "population": 60663.068
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Liberia",
-      "Year": 2014,
-      "Cases": 72254,
-      "Deaths": 11385,
-      "Lon": -9.32207573,
-      "Lat": 6.45278492,
-      "population": 4359508000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Liberia",
-      "Year": 2015,
-      "Cases": 693322,
-      "Deaths": 15548,
-      "Lon": -9.32207573,
-      "Lat": 6.45278492,
-      "population": 4472229
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Liberia",
-      "Year": 2016,
-      "Cases": 3162,
-      "Deaths": 4,
-      "Lon": -9.32207573,
-      "Lat": 6.45278492,
-      "population": 4586.788
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Mali",
-      "Year": 2014,
-      "Cases": 111,
-      "Deaths": 21,
-      "Lon": -3.54269065,
-      "Lat": 17.34581581,
-      "population": 16934213000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Mali",
-      "Year": 2015,
-      "Cases": 1540,
-      "Deaths": 0,
-      "Lon": -3.54269065,
-      "Lat": 17.34581581,
-      "population": 17438772
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Mali",
-      "Year": 2016,
-      "Cases": 7,
-      "Deaths": 0,
-      "Lon": -3.54269065,
-      "Lat": 17.34581581,
-      "population": 17965.448
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Nigeria",
-      "Year": 2014,
-      "Cases": 717,
-      "Deaths": 265,
-      "Lon": 8.08943895,
-      "Lat": 9.59411452,
-      "population": 176404931000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Nigeria",
-      "Year": 2015,
-      "Cases": 4104,
-      "Deaths": 1512,
-      "Lon": 8.08943895,
-      "Lat": 9.59411452,
-      "population": 181137454
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Nigeria",
-      "Year": 2016,
-      "Cases": 19,
-      "Deaths": 7,
-      "Lon": 8.08943895,
-      "Lat": 9.59411452,
-      "population": 185960.24399999998
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Senegal",
-      "Year": 2014,
-      "Cases": 37,
-      "Deaths": 0,
-      "Lon": -14.4734924,
-      "Lat": 14.36624173,
-      "population": 14174740000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Senegal",
-      "Year": 2015,
-      "Cases": 216,
-      "Deaths": 0,
-      "Lon": -14.4734924,
-      "Lat": 14.36624173,
-      "population": 14578450
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Senegal",
-      "Year": 2016,
-      "Cases": 1,
-      "Deaths": 0,
-      "Lon": -14.4734924,
-      "Lat": 14.36624173,
-      "population": 14993.514
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Sierra Leone",
-      "Year": 2014,
-      "Cases": 156787,
-      "Deaths": 41981,
-      "Lon": -11.79271247,
-      "Lat": 8.56329593,
-      "population": 7017153000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Sierra Leone",
-      "Year": 2015,
-      "Cases": 1876380,
-      "Deaths": 752414,
-      "Lon": -11.79271247,
-      "Lat": 8.56329593,
-      "population": 7171909.000000001
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Sierra Leone",
-      "Year": 2016,
-      "Cases": 8704,
-      "Deaths": 3589,
-      "Lon": -11.79271247,
-      "Lat": 8.56329593,
-      "population": 7328.846
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Spain",
-      "Year": 2014,
-      "Cases": 26,
-      "Deaths": 0,
-      "Lon": -3.64755047,
-      "Lat": 40.24448698,
-      "population": 46777927000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Spain",
-      "Year": 2015,
-      "Cases": 216,
-      "Deaths": 0,
-      "Lon": -3.64755047,
-      "Lat": 40.24448698,
-      "population": 46671919
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "Spain",
-      "Year": 2016,
-      "Cases": 1,
-      "Deaths": 0,
-      "Lon": -3.64755047,
-      "Lat": 40.24448698,
-      "population": 46634.130999999994
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "United Kingdom",
-      "Year": 2015,
-      "Cases": 220,
-      "Deaths": 0,
-      "Lon": -2.86563164,
-      "Lat": 54.12387156,
-      "population": 65860149.00000001
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "United Kingdom",
-      "Year": 2016,
-      "Cases": 1,
-      "Deaths": 0,
-      "Lon": -2.86563164,
-      "Lat": 54.12387156,
-      "population": 66297.944
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "United States of America",
-      "Year": 2014,
-      "Cases": 99,
-      "Deaths": 25,
-      "Lon": "",
-      "Lat": "",
-      "population": 318673422000000
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "United States of America",
-      "Year": 2015,
-      "Cases": 864,
-      "Deaths": 216,
-      "Lon": "",
-      "Lat": "",
-      "population": 320878312
-    },
-    {
-      "Pandemic": "Ebola",
-      "Country": "United States of America",
-      "Year": 2016,
-      "Cases": 4,
-      "Deaths": 1,
-      "Lon": "",
-      "Lat": "",
-      "population": 323015.99199999997
-    }
+            {
+              "Pandemic": "Ebola",
+              "Country": "United States of America",
+              "Year": 2014,
+              "Cases": 99,
+              "Deaths": 25,
+              "Lon": "",
+              "Lat": "",
+              "population": 318673422000000
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "United States of America",
+              "Year": 2015,
+              "Cases": 864,
+              "Deaths": 216,
+              "Lon": "",
+              "Lat": "",
+              "population": 320878312
+            },
+            {
+              "Pandemic": "Ebola",
+              "Country": "United States of America",
+              "Year": 2016,
+              "Cases": 4,
+              "Deaths": 1,
+              "Lon": "",
+              "Lat": "",
+              "population": 323015.99199999997
+            }
+    
   ]}
