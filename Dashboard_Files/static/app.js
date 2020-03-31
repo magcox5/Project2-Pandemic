@@ -72,7 +72,7 @@ function getNewPlanet(pandemics){
     var globe = planetaryjs.planet();
     console.log(globe)
     // Load our custom `autorotate` plugin; see below.
-    globe.loadPlugin(autorotate(10));/*samsaysaddthis*/
+    globe.loadPlugin(autorotate(10));/*addthis*/
     // The `earth` plugin draws the oceans and the land; it's actually
     // a combination of several separate built-in plugins.
     //
@@ -89,7 +89,7 @@ function getNewPlanet(pandemics){
       fill: '#000080'
     }));/*samsaysaddthis*/
     // The `pings` plugin draws animated pings on the globe.
-    globe.loadPlugin(planetaryjs.plugins.pings());/*samsaysaddthis*/
+    globe.loadPlugin(planetaryjs.plugins.pings());/*addthis*/
     // The `zoom` and `drag` plugins enable
     // manipulating the globe with the mouse.
     globe.loadPlugin(planetaryjs.plugins.zoom({
@@ -106,7 +106,7 @@ function getNewPlanet(pandemics){
       }
     }));/*samsaysaddthis*/
     // Set up the globe's initial scale, offset, and rotation.
-    globe.projection.scale(175).translate([175, 175]).rotate([0, -10, 0]);/*samsaysaddthis*/
+    globe.projection.scale(175).translate([175, 175]).rotate([0, -10, 0]);/*addthis*/
   
     // Every few hundred milliseconds, we'll draw another random ping.
     var colors = ['red', 'yellow', 'white', 'orange', 'green', 'cyan', 'pink'];
@@ -126,7 +126,7 @@ function getNewPlanet(pandemics){
     }
     //end foreach
   
-    var canvas = document.getElementById('rotatingGlobe');/*samsaysaddthis*/
+    var canvas = document.getElementById('rotatingGlobe');/*addthis*/
     console.log(canvas)
     // Special code to handle high-density displays (e.g. retina, some phones)
     // In the future, Planetary.js will handle this by itself (or via a plugin).
@@ -137,7 +137,7 @@ function getNewPlanet(pandemics){
       context.scale(2, 2);
     }/*samsaysaddthis*/
     // Draw that globe!
-    globe.draw(canvas);/*samsaysaddthis*/
+    globe.draw(canvas);/*addthis*/
 }
 
   // This plugin will automatically rotate the globe around its vertical
@@ -199,7 +199,7 @@ function getNewPlanet(pandemics){
 function getPlot(id) {
 // Use the D3 library to read in samples.json
 
-    d3.json("data/pandemics.json",(data)=> {
+    d3.json("data/pandemics.json",function(data) {
         console.log(data)
   
         var cases = data.pandemics.map(d => d.Cases)
@@ -212,90 +212,93 @@ function getPlot(id) {
         d3.sum(pandemics, d => d.cases)
         // Getting the total 
         var totalcases = d3.sum(pandemics, d => d.Cases);
+        var totaldeaths = d3.sum(pandemics, d => d.Deaths);
+
         //Get top 10
        var sortedcases = pandemics.sort((a, b) => d3.descending(a.Cases, b.Cases)).slice(0,10)
 
        console.log(sortedcases)
+       console.log(totalcases)
 
        getNewPlanet(pandemics);
-// Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
-// Use sample_values as the values for the bar chart.
-// Use otu_ids as the labels for the bar chart.
-// Use otu_labels as the hovertext for the chart.
+       
+// Create a horizontal bar chart with a dropdown menu to display the countries with the most cases per pandemic.
+// Use number of cases as the values for the bar chart.
+// Use countries as the labels for the bar chart.
+// Use total count as the hovertext for the chart.
 
 // make a function for data plotting (bar and bubble) for top 10
-
-      //  var OTU_top = (samples.otu_ids.slice(0, 10)).reverse();        
-      //   // get the otu ids   
-      //   var OTU_id = OTU_top.map(d => "OTU " + d)
+console.log("Finding the Top countries")
+       var Country_top = (pandemics.sortedcases.slice(0, 10)).reverse();  
+       console.log(Country_top)      
+      // //   // get the otu ids   
+        var Country_id = Country_top.map(d => "Country" + d)
   
-      //  console.log(OTU_id)
+       console.log("Bar Chart")
   
   
-      //   // get the otu labels for the top 10 OTUs found per individual.
-      //   var labels = samples.otu_labels.slice(0, 10);
-  
-      // //   console.log(`Sample Values: ${samplevalues}`)
-      // //   console.log(`Id Values: ${OTU_top}`)
+        // get the labels for the top 10 countries per pandemic.
+        var labels = pandemicmetadata.Country.slice(0, 10);
+ 
+        console.log(`Total Cases: ${totalcases}`)
+        console.log(`Country Names: ${pandemics}`)
       //   // create trace variable for the plot
-      //   var trace = {
-      //       x: samplevalues,
-      //       y: OTU_id,
-      //       textposition: "inside",
-      //       hovertext : labels,
-      //       type:"bar",
-      //       orientation: "h",
-      //   };
+        var trace = {
+            x: pandemics.totalcases,
+            y: pandemics.Pandemic,
+            textposition: "inside",
+            hovertext : totalcases,
+            type:"bar",
+            orientation: "h",
+        };
   
-      //   // create data variable
-      //   var data = [trace];
+        // create data variable
+        var data = [trace];
   
-      //   // create layout variable to set plots layout
-      //   var layout = {
-      //       title: "Top 10 OTUs per Individual",
-      //       yaxis:{
-      //           tickmode:"linear",
-      //       },
-      //       margin: {
-      //           l: 100,
-      //           r: 100,
-      //           t: 100,
-      //           b: 30
-      //       }
-      //   };
+        // create layout variable to set plots layout
+        var margin = { top: 35, right: 0, bottom: 30, left: 40 };
+
+        var width = 960 - margin.left - margin.right;
+        var height = 500 - margin.top - margin.bottom;
+      
+        var chart = d3.select(".chart")
+            .attr("width", 960)
+            .attr("height", 500)
+          .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
   
       //   // create the bar plot
-      //   Plotly.newPlot("bar", data, layout);
+        Plotly.plot("bar", data, layout);
   
       //   //console.log(`ID: ${samples.otu_ids}`)
       
-      //   // Making a bubble chart
-      //   var trace1 = {
-      //       x: samples.otu_ids,
-      //       y: samples.sample_values,
-      //       mode: "markers",
-      //       marker: {
-      //           size: samples.sample_values,
-      //           color: samples.otu_ids,
-      //           colorscale: 'Portland',
-      //       },
-      //       text: samples.otu_labels
+        // Making a bubble chart
+        var trace1 = {
+            x: pandemics.Pandemic,
+            y: samples.totalcases,
+            mode: "markers",
+            marker: {
+                size: samples.sample_values,
+                color: samples.otu_ids,
+                colorscale: 'Portland',
+            },
+            text: samples.otu_labels
   
-      //   };
+        };
   
-      //   // set the layout for the bubble plot
-      //   var bubbleChart = {
-      //       xaxis:{title: "OTU ID"},
-      //       height: 600,
-      //       width: 1000
-      //   };
+        // set the layout for the bubble plot
+        var bubbleChart = {
+            xaxis:{title: "OTU ID"},
+            height: 600,
+            width: 1000
+        };
   
-      //   // creating data variable 
-      //   var data = [trace1];
+        // creating data variable 
+        var data = [trace1];
   
         
-      //   // make a bubble plot
-      //   Plotly.newPlot("bubble", data, bubbleChart); 
+        // make a bubble plot
+        Plotly.plot("bubble", data, bubbleChart); 
 
 
       });
