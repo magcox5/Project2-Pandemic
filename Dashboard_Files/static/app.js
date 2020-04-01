@@ -44,6 +44,7 @@ console.log("this is Pandemics:")
 function optionChanged(id) {
     getPlot(id);
     getRightID(id);
+    getNewPlanet;
 }
 
 // create the function for the initial data rendering
@@ -115,8 +116,8 @@ function getNewPlanet(pandemics){
     for (let index = 0; index < pandemics.length; index++) {
         const element = pandemics[index];
     setInterval(function() {
-      var lat = element["lat"];
-      var lng = element["lon"];
+      var lat = element["Lat"];
+      var lng = element["Lon"];
     // var lat = Math.random() * 170 - 85;
     // var lng = Math.random() * 360 - 180;
       var color = colors[Math.floor(Math.random() * colors.length)];
