@@ -1,9 +1,6 @@
 from flask import Flask, jsonify
 import pandas as pd
 
-
-
-
 #################################################
 # Flask Setup
 #################################################
