@@ -121,7 +121,7 @@ function getNewPlanet(pandemics){
     // var lat = Math.random() * 170 - 85;
     // var lng = Math.random() * 360 - 180;
       var color = colors[Math.floor(Math.random() * colors.length)];
-     globe.plugins.pings.add(lng, lat, { color: color, ttl: 2000, angle: Math.random() * 10 });
+     globe.plugins.pings.add(lng, lat, { color: color, ttl: 5000, angle: Math.random() * 10 });
     }, 250);
 
     }
