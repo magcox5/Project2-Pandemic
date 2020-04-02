@@ -23,7 +23,13 @@ def swineFlu():
     """Return the data as json"""
     mergedsf = pd.read_csv("data/merged_swineflu_2019.csv")
     mergeddata = mergedsf.to_dict(orient="records")
-
+# It should look something like this: 
+def main():
+   # Melissas notes. I think its supposed to look like this
+   # database = r"C:\sqlite\db\pythonsqlite.db"
+    ## create a connection 
+    # conn = create_connection(database)
+    # with conn: 
     return jsonify(mergeddata)
 
 

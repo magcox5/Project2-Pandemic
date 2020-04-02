@@ -235,9 +235,8 @@ console.log("Finding the Top countries")
       // //   // get the otu ids   
         var Country_id = Country_top.map(d => "Country" + d)
   
-       console.log("Bar Chart")
-  
-  
+       console.log("Bar Chart Starts here")
+    
         // get the labels for the top 10 countries per pandemic.
         var labels = pandemicmetadata.Country.slice(0, 10);
  
@@ -245,8 +244,8 @@ console.log("Finding the Top countries")
         console.log(`Country Names: ${pandemics}`)
       //   // create trace variable for the plot
         var trace = {
-            x: pandemics.totalcases,
-            y: pandemics.Pandemic,
+            x: totalcases,
+            y: Country_id,
             textposition: "inside",
             hovertext : totalcases,
             type:"bar",
