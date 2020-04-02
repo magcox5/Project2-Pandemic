@@ -1,9 +1,6 @@
 from flask import Flask, jsonify
 import pandas as pd
 
-
-
-
 #################################################
 # Flask Setup
 #################################################
@@ -18,11 +15,11 @@ app = Flask(__name__)
 ### Load them into javascript 
 ### Query Pandemic grab it out of the database  
 
-@app.route("/api/v1.0/pandemic/swine")
+@app.route("/api/v1.0/pandemic-data")
 def swineFlu():
     """Return the data as json"""
-    mergedsf = pd.read_csv("data/merged_swineflu_2019.csv")
-    mergeddata = mergedsf.to_dict(orient="records")
+    mergeddb = pd.read_sql("data/Pandemic_data.db")
+    mergeddata = mergeddb.to_dict(orient="records")
 # It should look something like this: 
 def main():
    # Melissas notes. I think its supposed to look like this

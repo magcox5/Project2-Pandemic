@@ -210,16 +210,18 @@ function getPlot(id) {
         var pandemics = data.pandemics.filter(s => s.Pandemic.toString() === id);
         
         console.log(pandemics);
-        d3.sum(pandemics, d => d.cases)
-        // Getting the total 
+       //Add up the Cases and Deaths 
+        d3.sum(pandemics, d => d.Cases)
+        d3.sum(pandemics, d => d.Deaths)
+
+        // Storing the total of each 
         var totalcases = d3.sum(pandemics, d => d.Cases);
         var totaldeaths = d3.sum(pandemics, d => d.Deaths);
 
-        //Get top 10
+        //Get top 10 of each
        var sortedcases = pandemics.sort((a, b) => d3.descending(a.Cases, b.Cases)).slice(0,10)
-
+      
        console.log(sortedcases)
-       console.log(totalcases)
 
        getNewPlanet(pandemics);
        
@@ -230,8 +232,8 @@ function getPlot(id) {
 
 // make a function for data plotting (bar and bubble) for top 10
 console.log("Finding the Top countries")
-       var Country_top = (pandemics.sortedcases.slice(0, 10)).reverse();  
-       console.log(Country_top)      
+       var Country_top = (pandemics.Country.slice(0, 10)).reverse();  
+      //  console.log(Country_top)      
       // //   // get the otu ids   
         var Country_id = Country_top.map(d => "Country" + d)
   
