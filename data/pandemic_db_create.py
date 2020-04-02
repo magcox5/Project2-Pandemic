@@ -1,13 +1,13 @@
 import sqlite3
 import os
 
-conn = sqlite3.connect('Pandemic_data.db')
+conn = sqlite3.connect('Pandemic_data.sqlite')
 c = conn.cursor() # The database will be saved in the location where your 'py' file is saved
 
-# Create table - PANDEMICS
+# Create table - pandemics
 # 'Pandemic', 'Country', 'Year', 'Cases', 'Deaths', 'Lon', 'Lat', 'population'
-c.execute('''CREATE TABLE PANDEMICS
-             ([generated_id] INTEGER PRIMARY KEY,[Pandemic] text, [Year] integer, [Cases] integer, [Deaths] integer, [Lon] real, [Lat] real, [population] integer)''')
+c.execute('''CREATE TABLE pandemics
+             ([generated_id] INTEGER PRIMARY KEY,[Pandemic] text, [Country] text, [Year] integer, [Cases] integer, [Deaths] integer, [Lon] real, [Lat] real, [population] integer)''')
                           
 conn.commit()
 

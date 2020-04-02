@@ -8,7 +8,7 @@ from sqlalchemy import create_engine, func
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///Pandemic_data.db")
+engine = create_engine("sqlite:///Pandemic_data.sqlite")
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -16,7 +16,7 @@ Base = automap_base()
 Base.prepare(engine, reflect=True)
 
 # Save reference to the table
-Pandemic = Base.classes.pandemics
+pandemic_table = Base.classes.pandemics
 
 
 #################################################
@@ -28,18 +28,23 @@ app = Flask(__name__)
 #################################################
 # Flask Routes
 #################################################
-### Use Python to get data in sql lite database
-### Read in from sql lite database 
-### Load them into javascript 
-### Query Pandemic grab it out of the database  
+@app.route("/")
+def welcome():
+    return (
+        f"Welcome to the Pandemic!<br/>"
+        f"Available Routes:<br/>"
+        f"/api/v1.0/pandemic<br/>"
+        f"/api/v1.0/countries"
 
-@app.route("/api/v1.0/pandemic-data")
+    )
+
+@app.route("/api/v1.0/pandemic")
 def pandemic():
    # Create our session (link) from Python to the DB
     session = Session(engine)
 
     """ Query all Pandemics for 'Pandemic', 'Country', 'Year', 'Cases', 'Deaths', 'Lon', 'Lat', 'population'"""
-    results = session.query(Pandemic.Pandemic, Pandemic.Country, Pandemic.Year, Pandemic.Cases, Pandemic.Deaths, Pandemic.Lon, Pandemic.Lat, Pandemic.population).all()
+    results = session.query(pandemic_table.Pandemic, pandemic_table.Country, pandemic_table.Year, pandemic_table.Cases, pandemic_table.Deaths, pandemic_table.Lon, pandemic_table.Lat, pandemic_table.population).all()
 
     session.close()
 
@@ -60,13 +65,25 @@ def pandemic():
 
     return jsonify(all_pandemics)
 
-@app.route("/")
-def welcome():
-    return (
-        f"Welcome to the Pandemic!<br/>"
-        f"Available Routes:<br/>"
-        f"/api/v1.0/pandemic-data"
-    )
+
+@app.route("/api/v1.0/countries")
+def countries():
+   # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """ Query all Pandemics for 'Pandemic', 'Country', 'Year', 'Cases', 'Deaths', 'Lon', 'Lat', 'population'"""
+    results = session.query(pandemic_table.Pandemic).all()
+    session.close()
+
+    # Create a dictionary from the row data and append to a list of all_passengers
+    all_countries = []
+    for Pandemic in results:
+        country_dict = {}
+        country_dict["Pandemic"] = Pandemic
+
+        all_countries.append(country_dict)
+
+    return jsonify(all_countries)
 
 
 if __name__ == "__main__":
