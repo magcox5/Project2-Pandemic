@@ -5,7 +5,7 @@ function getRightID(id) {
     // read the json file to get data
     // The data from the JSON file is arbitrarily named importedData as the argument
 
-    d3.json("data/pandemics.json", (data)=> {
+    d3.json("data/pandemic_final.json", (data)=> {
         
         // get the metadata info for the demographic panel
    		// each of these is an array
@@ -44,7 +44,7 @@ console.log("this is Pandemics:")
 function optionChanged(id) {
     getPlot(id);
     getRightID(id);
-    getNewPlanet;
+    getNewPlanet(pandemics);
 }
 
 // create the function for the initial data rendering
@@ -55,7 +55,7 @@ function init() {
     var dropdown = d3.select("#selDataset");
 
     // read the data 
-    d3.json("data/pandemics.json",(data)=> {
+    d3.json("data/pandemic_final.json",(data)=> {
         console.log(data)
 
         // get the id data to the dropdwown menu
@@ -65,10 +65,10 @@ function init() {
 
         // call the functions to display the data and the plots to the page
         getPlot(data.names[1]);
-        //getRightID(data.names[0]);
+        getRightID(data.names[0]);
     });
 }
-
+console.log("Here is the planet")
 function getNewPlanet(pandemics){
     var globe = planetaryjs.planet();
     console.log(globe)
@@ -118,6 +118,8 @@ function getNewPlanet(pandemics){
     setInterval(function() {
       var lat = element["Lat"];
       var lng = element["Lon"];
+      // var lat = pandemics.Lat;
+      // var lng = pandemics.Lon;
     // var lat = Math.random() * 170 - 85;
     // var lng = Math.random() * 360 - 180;
       var color = colors[Math.floor(Math.random() * colors.length)];
@@ -200,111 +202,147 @@ function getNewPlanet(pandemics){
 function getPlot(id) {
 // Use the D3 library to read in samples.json
 
-    d3.json("data/pandemics.json",function(data) {
+    d3.json("data/pandemic_final.json",function(data) {
         console.log(data)
   
-        var cases = data.pandemics.map(d => d.Cases)
-        console.log(`Total Cases: ${cases}`)
-        
-        // filter pandemic values by name 
-        var pandemics = data.pandemics.filter(s => s.Pandemic.toString() === id);
-        
+    // var pandemics = []
+    // switch (id) {
+    //     case "Ebola":
+    //         pandemics = data.pandemics.filter(s => s.Pandemic === id && s.Year === 2016) ; 
+    //         break;
+    //     default:
+            pandemics = data.pandemics.filter(s => s.Pandemic === id);
+
+    //         break;
+    // }
+
+
         console.log(pandemics);
-       //Add up the Cases and Deaths 
+
+        // Storing the total of each 
+        
+
+        //Add up the Cases and Deaths 
+
         d3.sum(pandemics, d => d.Cases)
         d3.sum(pandemics, d => d.Deaths)
 
         // Storing the total of each 
-        var totalcases = d3.sum(pandemics, d => d.Cases);
+        var totalcases =  d3.sum(pandemics, d => d.Cases);
         var totaldeaths = d3.sum(pandemics, d => d.Deaths);
 
+        console.log(pandemics);
+
         //Get top 10 of each
-       var sortedcases = pandemics.sort((a, b) => d3.descending(a.Cases, b.Cases)).slice(0,10)
-      
-       console.log(sortedcases)
+        var sortedcases = pandemics.sort((a, b) => d3.descending(a.Cases, b.Cases)).slice(0, 10)
+        var sorteddeaths = pandemics.sort((a, b) => d3.descending(a.Deaths, b.Deaths)).slice(0, 10)
 
-       getNewPlanet(pandemics);
-       
-// Create a horizontal bar chart with a dropdown menu to display the countries with the most cases per pandemic.
-// Use number of cases as the values for the bar chart.
-// Use countries as the labels for the bar chart.
-// Use total count as the hovertext for the chart.
 
-// make a function for data plotting (bar and bubble) for top 10
-console.log("Finding the Top countries")
-       var Country_top = (pandemics.Country.slice(0, 10)).reverse();  
-      //  console.log(Country_top)      
-      // //   // get the otu ids   
-        var Country_id = Country_top.map(d => "Country" + d)
-  
-       console.log("Bar Chart Starts here")
+        //    var cases = sortedcases.metadata.map(d => d.Cases)
+        //    console.log(`Total Cases: ${cases}`)
+
+
+
+        // Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+        // Use sample_values as the values for the bar chart.
+        // Use otu_ids as the labels for the bar chart.
+        // Use otu_labels as the hovertext for the chart.
+
+        // make a function for data plotting (bar and bubble) for top 10
+
+        var Deaths_top = sorteddeaths.map(d => d.Deaths).reverse();
+        var Cases_top = sortedcases.map(c => c.Cases).reverse();
+        // get the otu ids   
+        // var Country_id = Deaths_top.map(d => "Country " + d)
+        var Country_id = sorteddeaths.map(c => c.Country).reverse();
+        console.log(Country_id)
+
+
+        // get the otu labels for the top 10 OTUs found per individual.
     
-        // get the labels for the top 10 countries per pandemic.
-        var labels = pandemicmetadata.Country.slice(0, 10);
- 
-        console.log(`Total Cases: ${totalcases}`)
-        console.log(`Country Names: ${pandemics}`)
-      //   // create trace variable for the plot
+        // create trace variable for the plot
         var trace = {
-            x: totalcases,
+            x: Deaths_top,
             y: Country_id,
+            name: 'Deaths',
             textposition: "inside",
-            hovertext : totalcases,
+            type: "bar",
+            orientation: "h",
+            marker: {
+              color: '#002699'
+              }
+        };
+
+        var trace1 = {
+            x: Cases_top,
+            y: Country_id,
+            name: 'Cases',
+            textposition: "inside",
             type:"bar",
             orientation: "h",
+            marker: {
+              color: '#3CB043'
+              }
         };
-  
         // create data variable
-        var data = [trace];
-  
+        var trace_data = [trace, trace1];
+        console.log(trace_data)
         // create layout variable to set plots layout
-        var margin = { top: 35, right: 0, bottom: 30, left: 40 };
+        var layout = {
+            barmode: 'group',
+            title: "Countries Most affected by Each Pandemic",
+            yaxis: {
+                tickmode: "linear",
+            },
+            margin: {
+                l: 100,
+                r: 100,
+                t: 100,
+                b: 50
+            }
+        };
 
-        var width = 960 - margin.left - margin.right;
-        var height = 500 - margin.top - margin.bottom;
-      
-        var chart = d3.select(".chart")
-            .attr("width", 960)
-            .attr("height", 500)
-          .append("g")
-            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        // create the bar plot
+        Plotly.newPlot("bar", trace_data, layout);
   
-      //   // create the bar plot
-        Plotly.plot("bar", data, layout);
-  
-      //   //console.log(`ID: ${samples.otu_ids}`)
-      
-        // Making a bubble chart
-        var trace1 = {
-            x: pandemics.Pandemic,
-            y: samples.totalcases,
+       
+        // // Making a bubble chart
+        var trace2 = {
+            x: Country_id,
+            y: Cases_top,
             mode: "markers",
             marker: {
-                size: samples.sample_values,
-                color: samples.otu_ids,
-                colorscale: 'Portland',
-            },
-            text: samples.otu_labels
+              size: pandemics.Population,
+              color: '#3CB043',
+              colorscale: 'Portland',
+              
+              }
+        // //     marker: {
+        // //         size: samples.sample_values,
+        // //         color: samples.otu_ids,
+        // //         colorscale: 'Portland',
+        // //     },
+        // //     text: samples.otu_labels
   
-        };
+        }
   
-        // set the layout for the bubble plot
+        // // set the layout for the bubble plot
         var bubbleChart = {
-            xaxis:{title: "OTU ID"},
+            title: "Comparison of Case Growth by Country",
             height: 600,
             width: 1000
         };
   
         // creating data variable 
-        var data = [trace1];
+        var trace2_data = [trace2];
   
         
         // make a bubble plot
-        Plotly.plot("bubble", data, bubbleChart); 
+        Plotly.newPlot("bubble", trace2_data, bubbleChart); 
 
 
       });
-  }  
-
+   
+    }
 
 init();
