@@ -8,7 +8,7 @@ from sqlalchemy import create_engine, func
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///Pandemic_data.sqlite")
+engine = create_engine("sqlite:///Data/pandemic_data.sqlite")
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -33,9 +33,7 @@ def welcome():
     return (
         f"Welcome to the Pandemic!<br/>"
         f"Available Routes:<br/>"
-        f"/api/v1.0/pandemic<br/>"
-        f"/api/v1.0/countries"
-
+        f"/api/v1.0/pandemic"
     )
 
 @app.route("/api/v1.0/pandemic")
@@ -64,26 +62,6 @@ def pandemic():
         all_pandemics.append(pandemic_dict)
 
     return jsonify(all_pandemics)
-
-
-@app.route("/api/v1.0/countries")
-def countries():
-   # Create our session (link) from Python to the DB
-    session = Session(engine)
-
-    """ Query all Pandemics for 'Pandemic', 'Country', 'Year', 'Cases', 'Deaths', 'Lon', 'Lat', 'population'"""
-    results = session.query(pandemic_table.Pandemic).all()
-    session.close()
-
-    # Create a dictionary from the row data and append to a list of all_passengers
-    all_countries = []
-    for Pandemic in results:
-        country_dict = {}
-        country_dict["Pandemic"] = Pandemic
-
-        all_countries.append(country_dict)
-
-    return jsonify(all_countries)
 
 
 if __name__ == "__main__":
