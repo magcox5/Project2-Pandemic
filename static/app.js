@@ -4,16 +4,14 @@ console.log("Welcome to our Pandemic Dashboard")
 
 // // instead of d3.json the data is stored in a variable that we named in the html page
 // console.log("Variable We made to Access the Data Goes Here ")
-var data = pandemicdataJavascript 
 
 // create the function to get the necessary data
 function getRightID(id) {
     // read the json file to get data
     // The data from the JSON file is arbitrarily named importedData as the argument
 
-    ((data) => {
 
-    // d3.json("data/pandemic_final.json", (data)=> {
+    d3.json("/api/v1.0/pandemic", (data)=> {
         
         // get the metadata info for the demographic panel
    		// each of these is an array
@@ -63,8 +61,8 @@ function init() {
     var dropdown = d3.select("#selDataset");
 
     // read the data 
-    d3.json("data/pandemic_final.json",(data)=> {
-        console.log(data)
+    d3.json("/api/v1.0/pandemic", (data)=> {  
+      console.log(data)
 
         // get the id data to the dropdwown menu
         data.names.forEach(function(name) {
@@ -88,7 +86,7 @@ function getNewPlanet(pandemics){
     // Note that we're loading a special TopoJSON file
     // (world-110m-withlakes.json) so we can render lakes.
     globe.loadPlugin(planetaryjs.plugins.earth({
-      topojson: { file:   'world-110m-withlakes.json' },
+      topojson: { file:   'static/world-110m-withlakes.json' },
       oceans:   { fill:   '#000080' },
       land:     { fill:   '#339966' },
       borders:  { stroke: '#008000' }
@@ -132,7 +130,7 @@ function getNewPlanet(pandemics){
     // var lng = Math.random() * 360 - 180;
       var color = colors[Math.floor(Math.random() * colors.length)];
      globe.plugins.pings.add(lng, lat, { color: color, ttl: 5000, angle: Math.random() * 10 });
-    }, 250);
+    }, 100);
 
     }
     //end foreach
@@ -210,7 +208,7 @@ function getNewPlanet(pandemics){
 function getPlot(id) {
 // Use the D3 library to read in samples.json
 
-    d3.json("data/pandemic_final.json",function(data) {
+d3.json("/api/v1.0/pandemic", (data)=> {
         console.log(data)
   
     // var pandemics = []
