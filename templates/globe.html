@@ -25,11 +25,12 @@
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
       <ul  class="nav nav-pills">
-        <li role="presentation"><a href="#">Home</a></li>
+        <li role="presentation"><a href="/">Home</a></li>
         <li role="presentation"><a href="/charts">Bar Charts</a></li>
         <li role="presentation"><a href="/globe">Globe</a></li>
         <li role="presentation"><a href="/about">About</a></li>
-        <li role="presentation"><a href="api/v1.0/pandemic">Pandemic Info</a></li> 
+        <li role="presentation"><a href="api/v1.0/pandemic">Pandemic Info</a></li>
+
     </div>
   </nav>
   <div class="container">
@@ -44,39 +45,29 @@
 </p>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Pandemic.:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-        </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Pandemic Information</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"></div>
-        </div>
-      <!-- </div> -->
-      <!-- <div class="col-md-9">
-        <div id="bar"></div>
-      </div> -->
+
+<div class="row">
+  <div class="col-md-2">
+    <div class="well">
+      <h5>Pandemic.:</h5>
+      <select id="selDataset" onchange="optionChanged(this.value)"></select>
     </div>
-    <div class="row"> 
-    <div style="text-align: center;"> 
-      <!-- <canvas id='globe' width='500' height='500'></canvas> -->
-      <canvas id='rotatingGlobe' width='400' height='500'
-      style='width: 600px; height: 600px; cursor: move;'></canvas>
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title">Pandemic Information</h3>
       </div>
-<!-- </div> -->
-<div class="col-md-2"></div>
-<div class="col-md-9">
-  <div id="bar"></div>
+      <div id="sample-metadata" class="panel-body"></div>
+    </div>
+  </div>
+  <!-- <div class="col-md-2"></div> -->
+  <div style="text-align: center;"> 
+    <canvas id='rotatingGlobe' width='400' height='600'
+    style='width: 600px; height: 600px; cursor: move;'></canvas>
+  </div>
 </div>
-    <div class="row">
-      <div class="col-md-2"></div>
-      <div class="col-md-9">
-        <div id="bubble"></div>
-      </div>
+
+
+</div>
     </div>
   </div>
  

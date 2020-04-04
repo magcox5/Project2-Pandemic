@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Living in a Pandemic World</title>
+  
+  <script type='text/javascript' src='http://d3js.org/d3.v3.min.js'></script>
+  <script type='text/javascript' src='http://d3js.org/topojson.v1.min.js'></script>
+  <script type='text/javascript' src='static/planetaryjs.min.js'></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="static/css/styles.css">
+
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+</head>
+
+<body>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <ul  class="nav nav-pills">
+        <li role="presentation"><a href="/">Home</a></li>
+        <li role="presentation"><a href="/charts">Bar Charts</a></li>
+        <li role="presentation"><a href="/globe">Globe</a></li>
+        <li role="presentation"><a href="/about">About</a></li>
+        <li role="presentation"><a href="api/v1.0/pandemic">Pandemic Info</a></li>
+
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Living in a Pandemic World</h1>
+<p>Compare Pandemic Cases & Death Tolls by Percentage of population affected.
+  <br>
+  What Global Impact did it have in comparison?
+  <br>
+  Why?  Because Comparing helps put today’s pandemic into context. 
+</p>
+      </div>
+    </div>
+
+<div class="row">
+  <div class="col-md-2">
+    <div class="well">
+      <h5>Pandemic.:</h5>
+      <select id="selDataset" onchange="optionChanged(this.value)"></select>
+    </div>
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title">Pandemic Information</h3>
+      </div>
+      <div id="sample-metadata" class="panel-body"></div>
+    </div>
+  </div>
+
+<div> 
+  <div class="col-md-9">
+  <table > 
+    <tr>
+      <td>
+        <img src="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/deadliestpandemics-infographic-23.jpg" height="40%" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
+</div>
+<div class="row">
+  
+  <div class="col-md-9">
+    <style>
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+      </style>
+      </head>
+      <body>
+      
+      <h2>Impact of Each Pandemic in World History </h2>
+      
+      <table>
+        <tr>
+           <th>Pandemic</th>
+           <th>Year</th>
+          <th>Cases</th>
+          <th>Total Deaths</th>
+           
+        </tr>
+        <tr>
+           <td>Swine Flu</td>
+          <td>2009</td>
+          <td>700 million worldwide</td>
+          <td> An estimated 151,700 to 575,400 </td>
+        </tr>
+        <tr>
+          <td>BUBONIC PLAGUE</td>
+          <td>14th century</td>
+          <td>30% to 60% of Europe's population.</td>
+          <td> 475 million to 350–375 million in the 14th century.</td>
+        </tr>
+        <tr>
+          <td>Ebola</td>
+          <td>2014</td>
+          <td>28,616 cases* </td>
+          <td>11,310</td>
+        </tr>
+        <tr>
+          <td>SARS</td>
+          <td>2003</td>
+          <td>8,096 </td>
+           <td>774</td>
+        </tr>
+        <tr>
+          <td>COVID-19</td>
+          <td>2020</td>
+          <td>1,119,801</td>
+          <td>59,247</td>
+        </tr>
+        <tr>
+          <td>Smallpox</td>
+          <td>early 1950s</td>
+          <td> 15 million</td>
+          <td> two million</tr>
+      </table>
+</div>
+</div>
+<style>
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th {
+    background-color: #dddddd;
+  
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+   
+  </style>
+  </head>
+  <body>
+  
+  <h2>If We had more Time....</h2>
+  
+  <table>
+    <tr>
+       <th>Pandemic</th>
+       <th>Year</th>
+      <th>Cases</th>
+      <th>Total Deaths</th>
+      <th>Percentage of Population</th>
+      <th>What was done about it </th>
+      <th>How did it end</th>
+       
+    </tr>
+    <tr>
+       <td>Swine Flu</td>
+      <td>2009</td>
+      <td>700 million worldwide</td>
+      <td> An estimated 151,700 to 575,400 </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BUBONIC PLAGUE</td>
+      <td>14th century</td>
+      <td>30% to 60% of Europe's population.</td>
+      <td> 475 million to 350–375 million in the 14th century.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ebola</td>
+      <td>2014</td>
+      <td>28,616 cases* </td>
+      <td>11,310</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SARS</td>
+      <td>2003</td>
+      <td>8,096 </td>
+       <td>774</td>
+       <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>COVID-19</td>
+      <td>2020</td>
+      <td>1,119,801</td>
+      <td>59,247</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Smallpox</td>
+      <td>early 1950s</td>
+      <td> 15 million</td>
+      <td> two million</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+</div>
+<div>
+  <div class="col-md-2"></div>
+  <div class="col-md-9">
+  <h1> Sources of our Data </h1>
+  <h4>
+  We found multiple sources of data, some not matching others regarding the numbers and that is why we chose the more recent pandemics. 
+  </h4>
+  
+  <p>
+  <h3>Pandemic Data</h3>
+  
+  <ul> 
+    <li> spanishflu_data  - https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history</li>
+    <li> Swineflu_data https://www.kaggle.com/de5d5fe61fcaa6ad7a66/pandemic-2009-h1n1-swine-flu-influenza-a-dataset </li>
+    <li> Ebola  - https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset (we added possible, suspected to the confirmed deaths) </li>
+    <li> Covid  - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv </li>
+  </ul>
+    <br>
+  <h3>Population Data:</h3>
+  <ul>
+ <li>United Nations:  https://population.un.org/wpp/Download/Standard/Population/ </li> 
+ <li> Centeroids Data - https://worldmap.harvard.edu/data/geonode:country_centroids_az8  </li>
+
+  </ul>
+
+  </p> 
+  
+  </div>
+</div>
+    </div>
+  </div>
+ 
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="static/app.js"></script>
+
+
+</body>
+
+</html>

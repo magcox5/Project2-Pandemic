@@ -44,6 +44,44 @@ def welcome():
     
 ### MAKE NEW ROUTE FOR EACH HTML 
 ### 
+@app.route("/charts")
+def charts():
+#######QUERY FROM DATABASE fOR THIS ROUTE ####### 
+
+
+
+    return render_template('charts.html')
+       ####### REPLACE BELOW WITH ACTUAL HTML FILE Somehow #### 
+        # f"Welcome to the Pandemic!<br/>"
+        # f"Available Routes:<br/>"
+        # f"/api/v1.0/pandemic"
+        # f"ADD DASHBOARD HERE"
+
+@app.route("/globe")
+def globe():
+#######QUERY FROM DATABASE fOR THIS ROUTE ####### 
+
+
+
+    return render_template('globe.html')
+       ####### REPLACE BELOW WITH ACTUAL HTML FILE Somehow #### 
+        # f"Welcome to the Pandemic!<br/>"
+        # f"Available Routes:<br/>"
+        # f"/api/v1.0/pandemic"
+        # f"ADD DASHBOARD HERE"
+
+@app.route("/about")
+def about():
+#######QUERY FROM DATABASE fOR THIS ROUTE ####### 
+
+
+
+    return render_template('about.html')
+       ####### REPLACE BELOW WITH ACTUAL HTML FILE Somehow #### 
+        # f"Welcome to the Pandemic!<br/>"
+        # f"Available Routes:<br/>"
+        # f"/api/v1.0/pandemic"
+        # f"ADD DASHBOARD HERE"
 
 @app.route("/api/v1.0/pandemic")
 def pandemic():
@@ -66,22 +104,7 @@ def pandemic():
         'names': pandemic_names,
         'pandemics':  all_pandemics
     }
-    #session.close()
-
-    # Create a dictionary from the row data and append to a list of all_passengers
-    # all_pandemics = []
-    # for Pandemic, Country, Year, Cases, Deaths, Lon, Lat, population in results:
-    #     pandemic_dict = {}
-    #     pandemic_dict["Pandemic"] = Pandemic
-    #     pandemic_dict["Country"] = Country
-    #     pandemic_dict["Year"] = Year
-    #     pandemic_dict["Cases"] = Cases
-    #     pandemic_dict["Deaths"] = Deaths
-    #     pandemic_dict["Lon"] = Lon
-    #     pandemic_dict["Lat"] = Lat
-    #     pandemic_dict["population"] = population
-
-    #     all_pandemics.append(pandemic_dict)
+ 
 
     return jsonify(pandemics_final)
 
