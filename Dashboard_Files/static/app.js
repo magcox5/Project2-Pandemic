@@ -1,11 +1,19 @@
 console.log("Welcome to our Pandemic Dashboard")
 
+
+
+// // instead of d3.json the data is stored in a variable that we named in the html page
+// console.log("Variable We made to Access the Data Goes Here ")
+var data = pandemicdataJavascript 
+
 // create the function to get the necessary data
 function getRightID(id) {
     // read the json file to get data
     // The data from the JSON file is arbitrarily named importedData as the argument
 
-    d3.json("data/pandemic_final.json", (data)=> {
+    ((data) => {
+
+    // d3.json("data/pandemic_final.json", (data)=> {
         
         // get the metadata info for the demographic panel
    		// each of these is an array
